@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:locale" content="ru_GB">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="lightsteelblue" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#191e2d" media="(prefers-color-scheme: dark)" />
+    <link rel="stylesheet" href="main-page-styles.css">
+    <link rel="shortcut icon" href="img/рисунок-2.ico"/>
+    <title>V-music</title>
+</head>
+<body>
+    <header class="main-menu">
+        <p class="icon">V-music box</p>
+        <h3 class="main-menu__h3">Уникальный веб-сервис для прослушивания музыки!</h3>
+
+        <nav>
+            <ul class="main-menu__ul">
+                <li><a href="#" class="main-menu__a toggle" id="format">Форматы</a></li>
+
+                <div class="formats" id="formats">
+
+                    <script>
+                        document.addEventListener('DOMContentLoaded', function() {
+                            const menuToggle = document.getElementById('format');
+                            const dropdownMenu = document.getElementById('formats');
+
+                            menuToggle.addEventListener('click', function() {
+                                dropdownMenu.style.display = dropdownMenu.style.display === 'flex' ? 'none' : 'flex';
+                            });
+
+                            // Закрытие меню при клике вне его
+                            window.addEventListener('click', function(event) {
+                                if (!event.target.matches('#format')) {
+                                    if (dropdownMenu.style.display === 'flex') {
+                                        dropdownMenu.style.display = 'none';
+                                    }
+                                }
+                            });
+                        });
+                    </script>
+
+                    <ul>
+                        <li><a href="calendar-music.html" class="main-menu__a" target="_blank">Song Calendar</a></li>
+                        <li><a href="rock-music.html" class="main-menu__a" target="_blank">Time machine</a></li>
+                        <li><a href="classic-music.html" class="main-menu__a" target="_blank">Time of classic</a></li>
+                    </ul>
+                    
+                </div>
+
+                <li><a href="#author" class="main-menu__a">Об авторе</a></li>
+                <li><a href="#faq" class="main-menu__a">FAQ</a></li>
+            </ul>
+
+            <button class="main-menu__button toggle"><img src="img/icon.png" alt="menu" class="main-menu__button-img" id="button-form"></button>
+        </nav>
+
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                const menuToggle = document.getElementById('button-form');
+                const dropdownMenu = document.getElementById('button-forms');
+
+                menuToggle.addEventListener('click', function() {
+                    dropdownMenu.style.display = dropdownMenu.style.display === 'flex' ? 'none' : 'flex';
+                });
+            });
+        </script>
+
+        <div class="button-form" id="button-forms">
+            <ul class="button-form__ul">
+                <li><a href="#" class="main-menu__a toggle" id="form">Форматы</a></li>
+
+                <script>
+                    document.addEventListener('DOMContentLoaded', function() {
+                        const menuToggle = document.getElementById('form');
+                        const dropdownMenu = document.getElementById('forms');
+
+                        menuToggle.addEventListener('click', function() {
+                            dropdownMenu.style.display = dropdownMenu.style.display === 'flex' ? 'none' : 'flex';
+                        });
+
+                        // Закрытие меню при клике вне его
+                        window.addEventListener('click', function(event) {
+                        if (!event.target.matches('#form')) {
+                            if (dropdownMenu.style.display === 'flex') {
+                            dropdownMenu.style.display = 'none';
+                            }
+                        }
+                        });
+                    });
+                </script>
+
+                <div class="little" id="forms">
+                    <ul>
+                        <li><a href="calendar-music.html" class="main-menu__a" target="_blank">Song Calendar</a></li>
+                        <li><a href="rock-music.html" class="main-menu__a" target="_blank">Time machine</a></li>
+                        <li><a href="classic-music.html" class="main-menu__a" target="_blank">Time of classic</a></li>
+                    </ul>
+                </div>
+
+                <li><a href="#author" class="main-menu__a">Об авторе</a></li>
+                <li><a href="#faq" class="main-menu__a">FAQ</a></li>
+            </ul>
+        </div>
+
+    </header>
+    
+    <main>
+        <!-- <h1>V-music box</h1> -->
+        <section>
+            <div class="one"><h2>О сайте</h2></div>
+            <p>Данный сайт имеет развлекательный характер, он предназначен для прослушивания музыки в необычных форматах, которые вы можете просмотреть, нажав на вкладку "форматы", после чего кликнуть на любой интересующий вас формат и перейти соответствующую на страницу.</p>
+            <h3>Song Calendar</h3>
+            <p>Данный формат имеет множество песен (их 366!) самых разных жанров и самых разных годов выпуска. Интересный факт: данный сайт содержит композиции на 5 различных языках!<br>
+            Суть формата заключается в ассоциации каждого дня какого-либо года с определенной песней, имеющей вайб дня, на который она поставлена, или же какое-либо к нему отношение по тексту, смыслу, музыкальному сопровождению или иной причине. Собственно, данный песенный календарь является недатированным, за счет чего он не потеряет актуальность в любом году.</p>
+            <h3>Time machine</h3>
+            <p>Данный формат включает в себя множество песен различных поджанров и подстилей жанра "рок" со времен 60-х и до 2024 года, в большинстве своем содержит композиции зарубежных исполнителей, но также встречаются и русские.<br>
+            Суть формата заключается в выборе пользователем случайной даты из промежутка, после обработки которой сайт выдаст рандомную композицию, выпущенную в указанном году.</p>
+            <h3>Time of classic</h3>
+            <p>Данный формат содержит в себе классические произведения, классифицированные по нескольким категориям: радость, грусть, релаксация и другое. Выбирайте любой трек под ваше настроение или жаление и наслаждайтесь! Также на этой с транице есть возможность скачать понравившуюся композицию, или просто поставить ей "лайк".</p>
+            <hr class="hr">
+        </section>
+        <section>
+            <div class="two"><h2 id="author">Об авторе</h2></div>
+            <p>Здравствуйте! Вас приветствует ученица 9 класса МБОУ Лицея №11 города Челябинска.<br>
+            Данный сайт был разработан как продукт, представленный на защите индивидуальных проектов в 2026 году.<br>
+            Веб-разработкой я начала увлекаться еще с 7 класса, в рамках проекта. Вскоре я поняла, что желаю больше углубляться в данном направлении, и начала изучать больше.<br>
+            Идея данного небольшого веб-сервиса пришла мне спонтанно: во-первых, всё началось с календаря песен, мне было интересно, возможно ли подобрать на каждый день года песню, которая будет ассоциироваться с ним, и какова будет итоговая картина, во-вторых, у меня горело большое желание применить свои навыки в каком-нибудь проекте, в-третьих, идей для индивидуального проекта у меня было. Но презентовать одну, пусть и навороченную страницу, было бы скучно, поэтому я "построила" маленькй сервис, внедрив помимо кеалендаря песен еще 2 формата: машину времени время классики.</p>
+        </section>
+        <section>
+            <div class="tri"><h2 id="faq">FAQ</h2></div>
+            <details>
+                <summary>Во всех ли форматах можно скачивать треки на устройство?</summary>
+                <p>Нет. Функция на данный момент активна только в 3 формате, вскоре появится и в 1 формате, 2 же формат носит интерактивный характер, он не проигрывает музыку, соответственно в этом формате нет возможности скачивать.</p>
+            </details>
+            <details>
+                <summary>Работает ли сайт в оффлайн режиме?</summary>
+                <p>Нет.</p>
+            </details>
+            <details>
+                <summary>Работает ли 1 формат в фоновом режиме?</summary>
+                <p>Практически да, но могут быть затруднения с автопереключением трека в фоновом режиме.</p>
+            </details>
+        </section>
+    </main>
+    <footer>
+        <p class="icon">V-music box</p>
+        <div>
+            <h3>Контакты</h3>
+            <ul>
+                <li><a href="https://t.me/VSKat666" target="_blank">Телеграм</a></li>
+                <li><a href="https://id.vk.com/account/#/main?recommendation=1" target="_blank">ВКонтакте</a></li>
+            </ul>
+        </div>
+        <p>Все права защищены</p>
+    </footer>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+        // Получаем все элементы с классом '.icon'
+        const gradientTexts = document.querySelectorAll('.icon');
+        const startColor = "#1eff16";
+        const endColor = "#005c05";
+
+        // Функция для проверки первой даты января
+        function isFirstOfJanuary() {
+            const today = new Date();
+            return today.getMonth() === 0; // Январь начинается с индекса 0
+        }
+
+        // Функция для задания градиента
+        function applyGradient(startColor, endColor) {
+            gradientTexts.forEach(element => {
+                element.style.backgroundImage = `linear-gradient(${startColor}, ${endColor})`;
+            });
+        }
+
+        // Функция для сброса градиента
+        function resetGradient() {
+            gradientTexts.forEach(element => {
+                element.style.removeProperty('background-image');
+            });
+        }
+
+        // Главная логика
+        if (isFirstOfJanuary()) {
+            applyGradient(startColor, endColor); // Исправлено имя функции
+        } else {
+            resetGradient(); // Если сегодня не 1 января, сбросить градиент
+        }
+
+        // Периодически проверяем дату и применяем либо градиент, либо сбрасываем его
+        setInterval(() => {
+            if (isFirstOfJanuary()) {
+                applyGradient(startColor, endColor); // Исправлено имя функции
+            } else {
+                resetGradient();
+            }
+        }, 24 * 60 * 60 * 1000); // Каждые сутки проверяем состояние
+        });
+    </script>
+</body>
+</html>
