@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="rock-music-styles.css">
+    <link rel="shortcut icon" href="img/рисунок-2.ico"/>
+    <title>Time machine</title>
+</head>
+<body>
+    <header class="main-menu">
+        <nav class="main-menu__nav">
+            <a href="main-page.html" class="main-menu__a">На главную</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Time machine</h1>
+        <p class="main__p">Выберите год и нажмите на кнопку, после чего вам выпадет рандомный для прослушивания трек в жанре "рок" выбранного года</p>
+        <section>
+            <div class="main-flex">
+                <div class="main-flex__div-input"><input type="number" class="main-flex__input" id="input" placeholder="Выберите год выпуска песни" min="1960" max="2024"></div>
+                <button id="select" class="main-flex__button">Нажми</button>
+            </div>
+            <div class="main-flex">
+                <div class="main-flex__div-p"><p class="main-flex__p">Ваш трек:</p></div>
+                <div class="main-flex__div"><div id="randomString" class="main-flex__div-div"></div></div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer-center">
+            <div class="icon">V-music box</div><strong>2025-2026. Все права защищены</strong>
+        </div>
+    </footer>
+    <script src="rock-music-data.js" fetchpriority="high"></script>
+</body>
+</html>

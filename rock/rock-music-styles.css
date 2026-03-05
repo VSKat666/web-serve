@@ -1,0 +1,277 @@
+*,
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body { 
+    width: 100%;
+    height:100%;
+    line-height: 1.5;
+    background-color: lightsteelblue;
+}
+
+.main-menu {
+    width: 100%;
+    background-color: #191e2d;
+    padding: 10px 100px;
+}
+
+.main-menu__nav {
+    display: flex;
+    align-items: center;
+}
+
+.main-menu__a {
+    color: #191e2d;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #00c6e6;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.main-menu__a:hover {
+    background-color: #03adc7;
+}
+.main-menu__a:active {
+    background-color: #01869b;
+}
+
+button:focus {
+    outline: none;
+}
+
+
+main {
+    padding-inline: 150px;
+}
+
+h1 {
+    font-size: 40px;
+    letter-spacing: 8px;
+    color: #191e2d;
+    text-align: center;
+    margin: 20px auto;
+    text-shadow: 3px 3px 4px #01869b;
+}
+
+.main__p {
+    font-size: 20px;
+    font-weight: bold;
+    color: #191e2d;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+section {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 170px auto;
+    padding: 100px 20px;
+    max-width: 1000px;
+    background-color: #c4cfd6;
+    border-radius: 5px;
+}
+
+.main-flex {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.main-flex__div-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a1a1a1;
+    height: 100px;
+    width: 220px;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.main-flex__input {
+    background-color: #a1a1a1;
+    border: 0;
+    outline: none;
+    width: 200px;
+    caret-color: #191e2d;
+}
+
+::placeholder {
+    color:#191e2d;
+}
+
+.main-flex__button {
+    height: 40px;
+    width: 220px;
+    background-color: #a1a1a1;
+    border: 0;
+    border-radius: 5px;
+    color: #191e2d;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.main-flex__button:active {
+    background-color: #747474;
+}
+
+button:focus, button:focus-visible {
+    outline: none;
+}
+
+.main-flex__div-p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a1a1a1;
+    height: 40px;
+    width: 220px;
+    border-radius: 5px;
+}
+
+.main-flex__p {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #191e2d;
+}
+
+.main-flex__div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a1a1a1;
+    height: 100px;
+    width: 220px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.main-flex__div-div {
+    font-size: 14px;
+    font-weight: bold;
+    color: #191e2d;
+}
+
+
+footer {
+    width: 100%;
+    background-color: #191e2d;
+    color: #c4cfd6;
+    padding: 10px 0;
+}
+
+.footer-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+}
+
+.icon {
+    background-image: linear-gradient(to right, #fbff00, #d4a300);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-weight: bold;
+}
+
+
+
+@media (max-width: 1034px) {
+    section {
+        margin: 150px auto;
+    }
+}
+
+@media (max-width: 810px) {
+    main {
+        padding-inline: 120px;
+    }
+    section {
+        margin: 100px auto;
+    }
+}
+
+@media (max-width: 650px) {
+    .main-menu {
+        padding: 10px 50px;
+    }
+    section {
+        margin: 60px auto;
+    }
+}
+
+@media (max-width: 579px) {
+    .main-menu__a {
+        font-size: 16px;
+    }
+    main {
+        padding-inline: 50px;
+    }
+    h1 {
+        font-size: 35px;
+    }
+    .main__p {
+        font-size: 18px;
+    }
+    section {
+        margin: 50px auto;
+        padding: 50px 20px;
+    }
+}
+
+@media (max-width: 375px) {
+    .main-menu {
+        padding: 10px 35px;
+    }
+    main {
+        padding-inline: 40px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    .main__p {
+        font-size: 16px;
+    }
+    .main-flex__div-div {
+        font-size: 12px;
+    }
+    .centerr {
+        flex-direction: column;
+    }
+}
+
+@media (max-width:350px) {
+    main {
+        padding-inline: 30px;
+    }
+    h1 {
+        font-size: 25px;
+    }
+    .main__p {
+        font-size: 14px;
+    }
+    .main-flex__div-input, .main-flex__button, .main-flex__div-p, .main-flex__div {
+        width: 190px;
+    }
+}
+
+@media (hover: none) {
+
+    .main-menu__a:hover {
+        background-color: #00c6e6;
+    }
+    .main-menu__a:active {
+        background-color: #03adc7;
+    }
+}
