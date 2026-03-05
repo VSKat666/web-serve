@@ -1,0 +1,394 @@
+ /* @font-face {
+    font-family: 'TNR';
+    src: url('https://bestfonts.pro/fonts_files/616835ff4110227f48e22097/files/TimesNewRomanMTStd.woff2') format('woff2'), 
+    url('https://bestfonts.pro/fonts_files/616835ff4110227f48e22097/files/TimesNewRomanMTStd.woff') format('woff');
+  } */
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body { 
+    width: 100%;
+    height: 100%;
+    background-color: lightsteelblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#alertBox {
+    box-sizing: content-box;
+    position: fixed;
+    margin-inline: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 100px;
+    width: 400px;
+    background-color: lightsteelblue;
+    border: 1px solid #191e2d;
+    padding: 15px;
+    visibility: hidden;
+    border-radius: 10px;
+    z-index: 2;
+    visibility: visible;
+}
+#alertClose {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    background-color: #191e2d;
+    border: solid 1px #191e2d;
+    color: white;
+    width: 1em;
+    text-align: center;
+    padding-inline: 8px;
+    text-indent: -3.5px;
+    cursor: pointer;
+    visibility: visible;
+}
+
+
+.main-menu {
+    width: 100%;
+    background-color: #191e2d;
+    padding: 10px 100px;
+}
+
+.main-menu__nav {
+    display: flex;
+    align-items: center;
+}
+
+.main-menu__a {
+    color: #191e2d;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #00c6e6;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.main-menu__a:hover {
+    background-color: #03adc7;
+}
+.main-menu__a:active {
+    background-color: #01869b;
+}
+
+button:focus, button:focus-visible {
+    outline: none;
+}
+
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 40px;
+    letter-spacing: 8px;
+    color: #191e2d;
+    text-align: center;
+    margin: 20px auto;
+    text-shadow: 3px 3px 4px #01869b;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #191e2d;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+    text-shadow: 3px 3px 4px #01869b;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 25px;
+}
+
+.td-div-center {
+    display: flex;
+    justify-content: center;
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 18px;
+    color: #191e2d;
+}
+
+.td-no-border {
+    border-color: lightsteelblue;
+}
+
+.td__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #c4cfd6;
+    border: 2px solid #191e2d;
+    border-radius: 10px;
+    box-shadow: 0 1px #00c6e6;
+}
+
+.td__button:hover {
+    background-color: #a1a1a1;
+}
+
+.td__button:active {
+    background-color: #747474;
+}
+
+.td__img {
+    width: 32px;
+    border-radius: 3px;
+    mix-blend-mode: multiply;
+}
+
+
+footer {
+    width: 100%;
+    background-color: #191e2d;
+    color: #c4cfd6;
+    padding: 10px 0;
+}
+
+.footer-div-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+}
+
+.icon {
+    background-image: linear-gradient(to right, #fbff00, #d4a300);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-weight: bold;
+}
+
+.arrow-up {
+    position: fixed; /*за счет этой команды футер не сливается с хедером как блок, а остается только кнопка*/
+    bottom: 25px;
+    right: 30px; /*эти 2 команды отвечают за отступы от чеголибо для настройки местоположения*/
+    background-color: transparent;
+    z-index: 1;
+}
+
+.footer__img {
+    width: 30px;
+    height: 30px;
+}
+
+
+
+.section-stick {
+    position: sticky;
+    bottom: 0;
+    background-color: #191e2d;
+    border-radius: 10px;
+}
+
+
+.section-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    color: #c4cfd6;
+}
+
+.section__button {
+    border: 2px solid #191e2d;
+    border-radius: 10px;
+    background-color: #c4cfd6;
+    padding: 10px;
+    height: 60px;
+    width: 60px;
+}
+
+.section__button:hover {
+    background-color: #a1a1a1;
+}
+
+.section__button:active {
+    background-color: #747474;
+}
+
+.section__button-img {
+    height: 30px;
+    mix-blend-mode: multiply;
+}
+
+
+.progress {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    color: white;
+}
+
+#progressBar {
+    width: 80%;
+    margin: 0 10px;
+    accent-color: white;
+    cursor: pointer;
+}
+input[type="range"] {
+    background-color: #747474;
+    border-radius: 10px;
+}
+input[type="range"]::-moz-range-progress {
+    background-color: #747474;
+    border-radius: 10px;
+}
+input[type="range"]::-webkit-progress-bar {
+    background-color: #747474;
+    border-radius: 10px;
+}
+input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
+    background-color: #747474;
+    border-radius: 10px;
+}
+
+#progressBar:focus-visible {
+    outline: none;
+}
+
+#currentTime, #duration {
+    font-size: 14px;
+}
+
+
+
+
+@media (max-width: 1200px) {
+    .scroll-container {
+        width: 100%; /* Ширина контейнера равна ширине родительскоtext-indent: -4px;го элемента */
+        overflow-x: scroll; /* Включаем горизонтальную прокрутку */
+        overflow-y: hidden; /* Убираем вертикальную прокрутку */
+        white-space: nowrap; /* Запрещаем перенос строк, чтобы элементы шли подряд */
+    }
+}
+
+@media (max-width: 600px) {
+    #alertClose {
+        text-indent: -4px;
+    }
+}
+
+@media (max-width: 470px) {
+    .main-menu {
+        padding: 10px 60px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 22px;
+    }
+    td {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 450px) {
+    .main-menu {
+            padding: 10px 30px;
+    }
+    #alertBox {
+        width: 350px;
+        padding: 20px;
+    }
+    #alertClose {
+        text-indent: -3.5px;
+    }
+}
+
+@media (max-width: 425px) {
+    #alertBox {
+        width: 300px;
+    }
+    .arrow-up {
+        right: 20px;
+    }
+}
+
+@media (max-width: 370px) {
+    .footer-div-center {
+        flex-direction: column;
+    }
+    td {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 350px) {
+    h1 {
+        font-size: 25px;
+    }
+    h2 {
+        font-size: 18px;
+    }
+    #alertBox {
+        width: 250px;
+    }
+    #alertClose {
+        text-indent: -4px;
+    }
+    .arrow-up {
+    right: 15px;
+    }
+}
+
+@media (hover: none) {
+    .main-menu__a:hover {
+        background-color: #00c6e6;
+    }
+
+    .main-menu__a:active {
+        background-color: #03adc7;
+    }
+
+    .td__button:hover {
+        background-color: #c4cfd6;
+    }
+    
+    .td__button:active {
+        background-color: #a1a1a1;
+    }
+
+    .section__button:hover {
+        background-color: #c4cfd6;
+    }
+    
+    .section__button:active {
+        background-color: #a1a1a1;
+    }
+}
+
+@media (max-width: 470px) and (orientation: landscape) {
+    .progress {
+        padding: 15px 20px 0px;
+    }
+}
