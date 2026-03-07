@@ -400,7 +400,6 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/72\/de\/72def4e2b297246680f927d1f6d312ee\/80439095\/Ruki_Vverkh_-_Novyjj_god_b128f0d176.mp3"
     ];
 
-
     const audio = document.getElementById('audio');
     const playbtn = document.getElementById('playButton');
     const playIcon = `<svg width="30" height="30" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path d="M16 12 L16 36 L36 24 Z" fill="currentColor"/></svg>`;
@@ -408,23 +407,15 @@ const tracks = [
     <path d="M0 0 V30 H7 V0 Z" stroke="#000" fill="#000"/>
     <path d="M13 0 V30 H20 V0 Z" stroke="#000" fill="#000"/>
     </svg>`;
-
     const progressBar = document.getElementById('progressBar');
     const currentTimeElement = document.getElementById('currentTime');
     const durationElement = document.getElementById('duration');
-
     const buttons = document.querySelectorAll('.td__button');
-
     let track = 0;
-
     document.addEventListener('DOMContentLoaded', function(){
         // Обеспечиваем установку правильного значения времени при начальной загрузке
         durationElement.textContent = "0:00"; // Установили стартовое значение времени
     });
-
-
-    audio.src = ' '; 
-    audio.load();
     audio.addEventListener('loadstart', () => {
         durationElement.textContent = "0:00";});
     audio.addEventListener('play', () => {
@@ -434,13 +425,12 @@ const tracks = [
     audio.addEventListener('ended', nextTrack);
     audio.addEventListener('timeupdate', updateTime);
     progressBar.addEventListener('input', seek);
-
-
         function playTrack(index) {
             if (index >= 0 && index < tracks.length) {
                 if (track !== index) {
                     track = index;
                     audio.src = tracks[track];
+                    audio.load();
                     audio.play().catch(error => {console.error("Ошибка воспроизведения: ", error);});
                     update();
                     change(index);
@@ -450,19 +440,16 @@ const tracks = [
                 }
             }
         }
-
         function prevTrack() {
             const newIndex = (track - 1 + tracks.length) % tracks.length;
             playTrack(newIndex);
             updateMediaSessionMetadata(newIndex);
         }
-
         function nextTrack() {
             const newIndex = (track + 1) % tracks.length;
             playTrack(newIndex);
             updateMediaSessionMetadata(newIndex);
         }
-
         function toggle() {
             if (audio.paused || audio.ended) {
                 audio.play().catch(error => {
@@ -473,7 +460,6 @@ const tracks = [
             }
             update();
         }
-
         // изменение надписи кнопки play/pause
         function update() {
             if(audio.paused){
@@ -482,7 +468,6 @@ const tracks = [
                 playbtn.innerHTML = playIcon;
             }
         }
-
             //добавление и обновление текущего исполнителя и названия трека во всплывающем виджете
         function updateMediaSessionMetadata(index) {
             const artist = buttons[index].getAttribute('data-artist');
@@ -497,27 +482,21 @@ const tracks = [
                 }
             }
         }
-
-
-        
         function startTrack() {
             resetProgress();
             checkDuration();
             updateTime();
         }
-
         function resetProgress() {
             progressBar.value = 0;
             currentTimeElement.textContent = "0:00";
         }
-        
         // Проверяем длину трека перед началом воспроизведения
         function checkDuration() {
             if (isNaN(audio.duration)) {
                 setTimeout(checkDuration, 100);
             }
         }
-
         function updateTime() {
             const currentTime = audio.currentTime;
             const duration = audio.duration;
@@ -527,37 +506,30 @@ const tracks = [
                 const seconds = Math.floor(time % 60);
                 return `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
             };
-
             currentTimeElement.textContent = formatTime(currentTime);
             durationElement.textContent = formatTime(duration);
-
             // Обновление ползунка
             if (!isNaN(duration)) {
                 progressBar.value = (currentTime / duration) * 100;
             }
         }
-
         // Перемотка трека
         function seek(event) {
             const value = event.target.value;
             audio.currentTime = (value / 100) * audio.duration;
         }
-
         //подсветка текущего трека
         buttons.forEach((button, index) => {
             button.addEventListener('click', () => {
                 change(index);
             });
         });
-
         function change(index) {
             buttons.forEach((btn, i) => {
                 btn.style.backgroundColor = i === index ? btn.dataset.color : '';
             });
             updateMediaSessionMetadata(index);
         }
-
-
         // управление с помощью клавиатуры
         document.addEventListener('keydown', (event) => {
             if(event.code === 'Space') {
@@ -569,11 +541,8 @@ const tracks = [
                 prevTrack();
             }
         })
-
-
         //управление с помощью наушников
         if ('mediaSession' in navigator) {
-        
             navigator.mediaSession.setActionHandler('play', () => {
                 audio.play();
                 update();
@@ -588,19 +557,4 @@ const tracks = [
             navigator.mediaSession.setActionHandler('nexttrack', () => {
                 nextTrack();
             });
-        }
-
-
-        const alertBox = document.getElementById("alertBox");
-        const alertClose = document.getElementById("alertClose");
-
-        window.alert = function(message) {
-            document.getElementById("alertMessage").innerHTML = message;
-            alertClose.onclick = closeAlertBox;
-        }
-        function closeAlertBox(){
-            alertBox.style.visibility = "hidden";
-            alertClose.style.visibility = "hidden";
-        }
-        alert("Предупреждение! Во избежание недопониманий информируем вас, что у некоторых треков неполностью указан состав исполнителей. Полный состав исполнителей вы можете посмотреть, наведя компьютерной мышью на неполно указанного исполнителя.");
-        
+        }        
