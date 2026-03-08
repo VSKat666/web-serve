@@ -176,7 +176,7 @@ footer {
 }
 .section__button:hover {
     background-color: #a1a1a1;
-
+}
 .section__button:active {
     background-color: #747474;
 }
@@ -370,3 +370,4 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         padding: 15px 20px 0px;
     }
 }
+
