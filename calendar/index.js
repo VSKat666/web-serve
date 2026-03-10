@@ -212,18 +212,18 @@ const tracks = [
 
 
     //july
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f7\/f2\/f7f2f16c77a5b42e3175facee82a7630\/65469812\/The_Hatters_-_Tancy_b128f0d199.mp3", //1
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/45\/da\/45da2e767c513c1c5a387035f6c49795\/47965449\/Sam_Smith_Naughty_Boy_-_La_La_La_b128f0d220.mp3", //2
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/aa\/ee\/aaee8fe3e9ed152f49600f8227d972c3\/62989467\/Blestyashhie_-_Vostochnye_skazki_b128f0d205.mp3", //3
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/65\/c8\/65c8008252b2e93e06c56ca05dd78381\/73765166\/Dabro_-_Polyubil_tebya_b128f0d217.mp3", //4
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/6a\/5e\/6a5e28c2e959e8815df0607876cd5007\/62255470\/Oksana_Pochepa_-_Kislotnyjj_DJ_b128f0d236.mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250824\/Sny_Salamandry_-_U_khozyaina_bolota_79550156.mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/cf\/29\/cf29eba361997d27b35dfe73ead84252\/47894203\/Sam_Tinnesz_Yacht_Money_-_Play_with_Fire_b128f0d180.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a8\/85\/a885630b9cab91ca1c76192c5736e323\/70850654\/iksajj_-_Luk_Batun_b128f0d154.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/44\/03\/440358ee439beebcbc79ee4a8c1e67ba\/70373648\/iks_-_Kozhanye_shtany_b128f0d142.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/6e\/3b\/6e3b0ca1cadee8716d9bf9cb03717f44\/67276672\/Kosmonavtov_Net_-_KRIVORUKIE_b128f0d169.mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/7f\/b6\/7fb63142df430b85acbd9e0dff3169d2\/51289767\/Sekret_-_Moya_lyubov_na_pyatom_jetazhe_b128f0d179.mp3", //11
-    "https://storage4.lightaudio.ru/dm/39a0d11a/3bb509c9/STIGMATA%20%E2%80%94%20%D0%90%D0%B4%D1%80%D0%B5%D0%BD%D0%B0%D0%BB%D0%B8%D0%BD.mp3?d=236&v=b55810ab30", //12
+    "https://ru-d2.drivemusic.me/dl/8o3yXbZBZxgLWgWROZN3ow/1773179911/download_music/2019/06/the-hatters-tancy.mp3", //1
+    "https://track.pinkamuz.pro/download/3334373633b33030318d3731353332b634b4300400/22007096c7b135b6d664e12d7450b232/Naughty%20Boy%20-%20LaLaLa%20feat.%20Sam%20Smith%202013.mp3", //2
+    "https://track.pinkamuz.pro/download/3336373437313531b5883731353335b0b434320600/7151b7881bc08dc036d08c28b51408db/%D0%91%D0%BB%D0%B5%D1%81%D1%82%D1%8F%D1%89%D0%B8%D0%B5%20-%20%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0.mp3", //3
+    "https://track.pinkamuz.pro/download/33313731b1b434b4348d37313533333133b0300000/9b03dda487f862e9c77919f5fb1c2d7e/Dabro%20-%20%D0%9F%D0%BE%D0%BB%D1%8E%D0%B1%D0%B8%D0%BB%20%D1%82%D0%B5%D0%B1%D1%8F.mp3", //4
+    "https://track.pinkamuz.pro/download/33313731b1b4343232883731353333363232340600/8cae1a9e1c41242c848f0de9eafadc9e/%D0%9E%D0%BA%D1%81%D0%B0%D0%BD%D0%B0%20%D0%9F%D0%BE%D1%87%D0%B5%D0%BF%D0%B0%20%28%D0%90%D0%BA%D1%83%D0%BB%D0%B0%29%20-%20%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9%20DJ.mp3", //5
+    "https://track.pinkamuz.pro/download/33313731b1b43432358a3731353333333730300100/e97ffc63082ea78387a94fd08e9b3499/%D0%A1%D0%BD%D1%8B%20%D0%A1%D0%B0%D0%BB%D0%B0%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D1%8B%20-%20%D0%A3%20%D1%85%D0%BE%D0%B7%D1%8F%D0%B8%D0%BD%D0%B0%20%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%B0.mp3", //6
+    "https://track.pinkamuz.pro/download/3332b234b630328b3731353332313430340700/e9bda83e05d648dd05e2c91512955161/Sam%20Tinnesz%2C%20Yacht%20Money%20feat.%20Yacht%20Money%20-%20Play%20With%20Fire.mp3", //7
+    "https://track.pinkamuz.pro/download/33b5b03036b5308b3731353332b63435b00000/57dd067bfdc619ab6eebf5c4d9590eb7/FixEye%20-%20%D0%9B%D1%83%D0%BA%20%D0%91%D0%B0%D1%82%D1%83%D0%BD.mp3", //8
+    "https://track.pinkamuz.pro/download/3334343035b7b434883731353332b63434b40400/e493534c2ec33a0b67e0a27c49168727/FixPlay%20-%20%D0%9A%D0%BE%D0%B6%D0%B0%D0%BD%D1%8B%D0%B5%20%D1%88%D1%82%D0%B0%D0%BD%D1%8B%20%5Bmp3uk.net%5D.mp3", //9
+    "https://track.pinkamuz.pro/download/3335303536303133338e3731353332b63430b10400/99cb5fd3cd0c8e82a837bb43ea4b63d9/%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B5%D0%BD%20-%20%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D1%80%D1%83%D0%BA%D0%B8%D0%B5.mp3", //10
+    "https://track.pinkamuz.pro/download/33363132333689373335b6b03037b10400/95308ccd08c9f04c0dbf0e1b94761314/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%20-%20%D0%9C%D0%BE%D1%8F%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%BD%D0%B0%205%20%D1%8D%D1%82%D0%B0%D0%B6%D0%B5.mp3", //11
+    "https://load/861747337/Stigmata_-_Adrenalin_(musmore.org).mp3", //12
     "https:\/\/rus.hitmotop.com\/get\/cuts\/5e\/ad\/5eadb9fbbb007304b0bef2c631277886\/71516710\/Daniela_-_Pust_pugaet_groznyjj_veter_nachinaetsya_groza_b128f0d303.mp3", //13
     "https:\/\/rus.hitmotop.com\/get\/cuts\/57\/a3\/57a3792e1dafd0e1fbfcac390e36a9db\/47958417\/Skillet_-_Monster_b128f0d177.mp3", //14
     "https:\/\/rus.hitmotop.com\/get\/cuts\/68\/7e\/687e151cd998749a2411cb43a171174b\/47846653\/Pianobojj_-_Vedma_b128f0d274.mp3", //15
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
