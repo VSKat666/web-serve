@@ -424,7 +424,7 @@ const tracks = [
     const currentTimeElement = document.getElementById('currentTime');
     const durationElement = document.getElementById('duration');
     const buttons = document.querySelectorAll('.td__button');
-    let track = 0;
+    let track = -1;
     document.addEventListener('DOMContentLoaded', function(){
         // Обеспечиваем установку правильного значения времени при начальной загрузке
         durationElement.textContent = "0:00"; // Установили стартовое значение времени
@@ -452,7 +452,7 @@ const tracks = [
                     toggle();
                 }
             }
-        }
+       }
         function prevTrack() {
             const newIndex = (track - 1 + tracks.length) % tracks.length;
             playTrack(newIndex);
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
