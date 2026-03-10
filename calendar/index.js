@@ -155,7 +155,7 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/1c\/d5\/1cd5ab0c1664792107413ba99936dcc2\/75132249\/Polina_Gagarina_-_Babochki_b128f0d188.mp3", //8
     "https:\/\/rus.hitmotop.com\/get\/cuts\/93\/c2\/93c221909c442acce4a812e947781563\/61703582\/YUlya_Parshuta_-_Mesyac_majj_b128f0d218.mp3", //9
     "https:\/\/rus.hitmotop.com\/get\/cuts\/a4\/79\/a479b5c26ea450ce57375d122977ae8a\/47835999\/MakSim_-_Znaesh_li_ty_b128f0d242.mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250112\/Luntik_-_Polnaya_versiya_muzyki_v_titrakh_78929822.mp3", //11
+    "https://track.pinkamuz.pro/download/3331b03430b730b2348f3731353332b63437350100/68378061165a33c29139944f8379cba6/%D0%9B%D1%83%D0%BD%D1%82%D0%B8%D0%BA%20-%20%D0%9F%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8%20%D0%B2%20%D1%82%D0%B8%D1%82%D1%80%D0%B0%D1%85.mp3", //11
     "https:\/\/rus.hitmotop.com\/get\/cuts\/65\/8e\/658ee257900e19f7b7d83097bd182956\/77689967\/Undervud_-_Nadezhdy_malenkijj_orkestrik_b128f0d216.mp3", //12
     "https:\/\/rus.hitmotop.com\/get\/cuts\/7e\/e2\/7ee229c78e1c9d0715056ff041286851\/55745980\/JElektroforez_-_Vsjo_bylo_tak_b128f0d197.mp3", //13
     "https:\/\/rus.hitmotop.com\/get\/music\/20230509\/OFFICIAL_HIGE_DANDISM_-_Cry_Baby_75941375.mp3", //14
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
