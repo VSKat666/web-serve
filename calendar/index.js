@@ -380,9 +380,9 @@ const tracks = [
 
 
     //december
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/03\/05\/03058dea2bbe51c6e2e9ef01b123ee7a\/47837731\/Egor_Krid_-_Budilnik_b128f0d204.mp3", //1
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/cd\/a7\/cda750bad4ea07af0dc6c432ca7c3b11\/48078123\/Bruno_Mars_-_Talking_To_The_Moon_b128f0d217.mp3", //2
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f7\/65\/f765cbf7e0600495e7d073219ab40ac5\/48035889\/Bi-2_-_Mojj_rok-n-roll_b128f0d405.mp3", //3
+    "https://ru-d1.drivemusic.me/dl/lHXDpxPTC9icSX8lmTN1Fw/1773183264/download_music/2015/11/egor-krid-budilnik.mp3", //1
+    "https://ru-d2.drivemusic.me/dl/WbUy0qxE1znNQT4-M-dZ3Q/1773183430/download_music/2018/03/bruno-mars-talking-to-the-moon.mp3", //2
+    "https://track.pinkamuz.pro/download/33313731b1b43432b2883731353336333032370000/435cada8484f11f4c2ef65c5ba1bbb42/%D0%91%D0%B8-2%20feat.%20%D0%AE%D0%BB%D0%B8%D1%8F%20%D0%A7%D0%B8%D1%87%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%20-%20%D0%9C%D0%BE%D0%B9%20%D1%80%D0%BE%D0%BA-%D0%BD-%D1%80%D0%BE%D0%BB%D0%BB.mp3", //3
     "http://babysongs.ru/music/barbariki-razukrasim-vse-planetyi.mp3", //4
     "https:\/\/rus.hitmotop.com\/get\/music\/20220319\/Lero4ka_-_YA_vybirayu_byt_bednojj_no_svobodnojj_73951239.mp3", //5
     "https://track.pinkamuz.pro/download/33313731b1b43432368c373135b33434b134340500/bdcecc1624207dcc1d6237da8ea90812/STANDOFF%202%2C%20Sava%20Tsurkanu%20-%20Syndicate%20%28Season%20X%29.mp3", //6
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
