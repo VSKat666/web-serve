@@ -267,6 +267,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         padding: 20px;
     }
     #alertClose {
+        width: 1.25em;
         text-indent: -5.5px;
     }
 }
@@ -296,9 +297,6 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     #alertBox {
         width: 250px;
     }
-    #alertClose {
-        text-indent: -6.5px;
-    }
     .arrow-up {
     right: 15px;
     }
@@ -323,10 +321,11 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         background-color: #a1a1a1;
     }
 }
-@media (max-width: 600px) and (orientation: landscape) {
+@media (orientation: landscape) {
     .progress {
         padding: 15px 20px 0px;
     }
 }
+
 
 
