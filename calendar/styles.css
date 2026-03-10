@@ -287,7 +287,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         font-size: 15px;
     }
     #alertClose {
-        text-indent: -5.5px;
+        text-indent: -5px;
     }
 }
 @media (max-width: 350px) {
@@ -335,6 +335,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         padding: 15px 20px 0px;
     }
 }
+
 
 
 
