@@ -384,7 +384,7 @@ const tracks = [
     "https://ru-d2.drivemusic.me/dl/WbUy0qxE1znNQT4-M-dZ3Q/1773183430/download_music/2018/03/bruno-mars-talking-to-the-moon.mp3", //2
     "https://track.pinkamuz.pro/download/33313731b1b43432b2883731353336333032370000/435cada8484f11f4c2ef65c5ba1bbb42/%D0%91%D0%B8-2%20feat.%20%D0%AE%D0%BB%D0%B8%D1%8F%20%D0%A7%D0%B8%D1%87%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%20-%20%D0%9C%D0%BE%D0%B9%20%D1%80%D0%BE%D0%BA-%D0%BD-%D1%80%D0%BE%D0%BB%D0%BB.mp3", //3
     "http://babysongs.ru/music/barbariki-razukrasim-vse-planetyi.mp3", //4
-    "https:\/\/rus.hitmotop.com\/get\/music\/20220319\/Lero4ka_-_YA_vybirayu_byt_bednojj_no_svobodnojj_73951239.mp3", //5
+    "https://track.pinkamuz.pro/download/b3b030303630313534883731353332b63436b30000/4fb4998969cbc14adda5fb1c3596996c/%D0%9B%D0%B5%D1%80%D0%BE4%D0%BA%D0%B0%20-%20%D0%AF%20%D0%B2%D1%8B%D0%B1%D0%B8%D1%80%D0%B0%D1%8E%20%D0%B1%D1%8B%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B4%D0%BD%D0%BE%D0%B9%20%D0%BD%D0%BE%20%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9.mp3", //5
     "https://track.pinkamuz.pro/download/33313731b1b43432368c373135b33434b134340500/bdcecc1624207dcc1d6237da8ea90812/STANDOFF%202%2C%20Sava%20Tsurkanu%20-%20Syndicate%20%28Season%20X%29.mp3", //6
     "https://track.pinkamuz.pro/download/33313731b1b434b2308c3731353333343635b20400/bb99384460c00d9634e95d1b46e7395a/%D0%90%D0%94%D0%9B%D0%98%D0%9D%20-%20Dead%20Inside.mp3", //7
     "https://track.pinkamuz.pro/download/3332b33435b23032368e373135333231b1b4300000/b89dcf13d771f11c4b84809b62a25d5a/%D0%91%D0%B0%D0%BB%D0%BA%D0%BE%D0%BD%20-%20%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D1%8B.mp3", //8
@@ -401,16 +401,16 @@ const tracks = [
     "https://track.pinkamuz.pro/download/33313731b1b43436308937313533b7b03434b50400/b10ae85bdb2ca20d4dabf963d6154264/nyan.mp3%20-%20%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B0%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D1%8B%20%D0%BD%D0%B5%20%D0%BD%D1%80%D0%B0%D0%B2%D1%8F%D1%82%D1%81%D1%8F.mp3", //19
     "https://track.pinkamuz.pro/download/33313731b1b43432318f37313533353436b6300200/6e881f3f3dd3ff6f9f84af7c77f2aa27/Soltwine%20-%20%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B5%20%D1%81%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5%20%D1%87%D0%B8%D1%81%D1%82%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0.mp3", //20
     "https:\/\/rus.hitmotop.com\/get\/cuts\/73\/3e\/733e389b5058b25ad4c687a15930cecf\/66793065\/Ssshhhiiittt_-_Tancy_b128f0d175.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/9a\/ac\/9aac6d7586caad72907cc0300ad66276\/64644717\/ONE_OK_ROCK_-_Fight_The_Night_b128f0d256.mp3", //22
+    "https://ru-d3.drivemusic.me/dl/2cRUvMSFI7YQZUwDcKmpcA/1773208476/download_music/2022/09/one-ok-rock-fight-the-night.mp3", //22
     "https://ru-d3.drivemusic.me/dl/CjIabuuNuvBjpptSdstc3Q/1773179237/download_music/2017/06/imagine-dragons-rise-up.mp3", //23
-    "https:\/\/rus.hitmotop.com\/get\/music\/22950831\/Stigmata_-_Sireny_79623523.mp3", //24
-    "https:\/\/rus.hitmotop.com\/get\/music\/20200630\/ONE_OK_ROCK_-_The_Way_Back_35xv_Deluxe_Edition_70092078.mp3", //25
-    "https://storage1.lightaudio.ru/39922718/15e5a835/%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F%20%E2%80%94%20%D0%9E%D0%B4%D0%BD%D0%B0%D0%B6%D0%B4%D1%8B%20%D0%B2%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B5.m3u8", //26
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f8\/3c\/f83c51deafa6d520c37f013ae4dbbad8\/68550363\/Nervy_-_Podokonnik_b128f0d227.mp3", //27
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/91\/6f\/916fa3d77935e6ced1bd8a556cfc00a0\/74293322\/Dabro_-_Davajj_zapojom_b128f0d221.mp3", //28
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/e6\/48\/e64879e59733b4339b9d59dce2108556\/79408140\/Artur_Pirozhkov_-_Samo_Sobojj_b128f0d158.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/46\/6e\/466e037eeef327fd50582a4a778e5c8f\/65402534\/Diskoteka_Avariya_-_S_Novym_Godom_b128f0d345.mp3", //30
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/72\/de\/72def4e2b297246680f927d1f6d312ee\/80439095\/Ruki_Vverkh_-_Novyjj_god_b128f0d176.mp3"
+    "https://track.pinkamuz.pro/download/33313731b1b43436328a373135b334b03035300600/aa768f41496fd92cb1c9d09e5d6c931b/STIGMATA%20-%20%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D1%8B.mp3", //24
+    "https://ru-d2.drivemusic.me/dl/WYptpr2W8aOcIx7YeVWrZQ/1773208536/download_music/2017/01/ed-sheeran-shape-of-you.mp3", //25
+    "https://track.pinkamuz.pro/download/33333230b7343630368b3731353332b63432340400/82ca2bde1a2782dbce338fe4825e37fc/%D0%92%D0%B0%D0%BB%D1%8C%D1%81%20-%20%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F%20-%20%D0%9E%D0%B4%D0%BD%D0%B0%D0%B6%D0%B4%D1%8B%20%D0%B2%20%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D0%B5.mp3", //26
+    "https://track.pinkamuz.pro/download/33313731b1b43436348d37313533373331b4300300/6a4cbf244c1b56414611758459673940/%D0%9D%D0%B5%D1%80%D0%B2%D1%8B%20-%20%D0%9F%D0%BE%D0%B4%D0%BE%D0%BA%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA.mp3", //27
+    "https://track.pinkamuz.pro/download/33313731b1b434b2308937313533b3303630350300/d1e668e98a691a11d3c2dea9e1668a67/Dabro%20-%20%D0%94%D0%B0%D0%B2%D0%B0%D0%B9%20%D0%B7%D0%B0%D0%BF%D0%BE%D1%91%D0%BC.mp3", //28
+    "https://ruo.morsmusic.org/load/1968177103/Artur_Pirozhkov_-_Samo_Sobojj_(musmore.org).mp3", //29
+    "https://track.pinkamuz.pro/download/3336373437313531b18c37313533b2343035340300/7003eef4de28cd159f6794fe94197dcc/%D0%94%D0%B8%D1%81%D0%BA%D0%BE%D1%82%D0%B5%D0%BA%D0%B0%20%D0%90%D0%B2%D0%B0%D1%80%D0%B8%D1%8F%20-%20%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F%D1%8F.mp3" //30
+    "https://ru-d2.drivemusic.me/dl/-534byk41Hf-FyrXaA_JRg/1773207010/download_music/2025/12/ruki-vverkh-novyjj-god.mp3"
     ];
 
     const audio = document.getElementById('audio');
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
