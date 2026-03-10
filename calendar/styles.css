@@ -268,7 +268,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     }
     #alertClose {
         width: 1.25em;
-        text-indent: -5.5px;
+        text-indent: -4.5px;
     }
 }
 @media (max-width: 425px) {
@@ -285,6 +285,9 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     }
     td {
         font-size: 15px;
+    }
+    #alertClose {
+        text-indent: -5.5px;
     }
 }
 @media (max-width: 350px) {
@@ -332,6 +335,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         padding: 15px 20px 0px;
     }
 }
+
 
 
 
