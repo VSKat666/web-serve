@@ -223,7 +223,7 @@ const tracks = [
     "https://track.pinkamuz.pro/download/3334343035b7b434883731353332b63434b40400/e493534c2ec33a0b67e0a27c49168727/FixPlay%20-%20%D0%9A%D0%BE%D0%B6%D0%B0%D0%BD%D1%8B%D0%B5%20%D1%88%D1%82%D0%B0%D0%BD%D1%8B%20%5Bmp3uk.net%5D.mp3", //9
     "https://track.pinkamuz.pro/download/3335303536303133338e3731353332b63430b10400/99cb5fd3cd0c8e82a837bb43ea4b63d9/%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B5%D0%BD%20-%20%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D1%80%D1%83%D0%BA%D0%B8%D0%B5.mp3", //10
     "https://track.pinkamuz.pro/download/33363132333689373335b6b03037b10400/95308ccd08c9f04c0dbf0e1b94761314/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%20-%20%D0%9C%D0%BE%D1%8F%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%BD%D0%B0%205%20%D1%8D%D1%82%D0%B0%D0%B6%D0%B5.mp3", //11
-    "https://load/861747337/Stigmata_-_Adrenalin_(musmore.org).mp3", //12
+    "https://ruo.morsmusic.org/load/861747337/Stigmata_-_Adrenalin_(musmore.org).mp3", //12
     "https:\/\/rus.hitmotop.com\/get\/cuts\/5e\/ad\/5eadb9fbbb007304b0bef2c631277886\/71516710\/Daniela_-_Pust_pugaet_groznyjj_veter_nachinaetsya_groza_b128f0d303.mp3", //13
     "https:\/\/rus.hitmotop.com\/get\/cuts\/57\/a3\/57a3792e1dafd0e1fbfcac390e36a9db\/47958417\/Skillet_-_Monster_b128f0d177.mp3", //14
     "https:\/\/rus.hitmotop.com\/get\/cuts\/68\/7e\/687e151cd998749a2411cb43a171174b\/47846653\/Pianobojj_-_Vedma_b128f0d274.mp3", //15
@@ -385,10 +385,10 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/f7\/65\/f765cbf7e0600495e7d073219ab40ac5\/48035889\/Bi-2_-_Mojj_rok-n-roll_b128f0d405.mp3", //3
     "http://babysongs.ru/music/barbariki-razukrasim-vse-planetyi.mp3", //4
     "https:\/\/rus.hitmotop.com\/get\/music\/20220319\/Lero4ka_-_YA_vybirayu_byt_bednojj_no_svobodnojj_73951239.mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250920\/Standoff_2_-_Syndicate_Season_X_79808968.mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/music\/20241005\/ADLIN_-_Dead_Inside_78278720.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/38\/47\/38478cf7534da867ea02f6e6aeb54258\/73473130\/BALKON_-_Vedmy_b128f0d201.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/1e\/94\/1e9442d6ce04031a9278556a9fab64ae\/66562360\/Starset_-_Unbecoming_b128f0d250.mp3", //9
+    "https://track.pinkamuz.pro/download/33313731b1b43432368c373135b33434b134340500/bdcecc1624207dcc1d6237da8ea90812/STANDOFF%202%2C%20Sava%20Tsurkanu%20-%20Syndicate%20%28Season%20X%29.mp3", //6
+    "https://track.pinkamuz.pro/download/33313731b1b434b2308c3731353333343635b20400/bb99384460c00d9634e95d1b46e7395a/%D0%90%D0%94%D0%9B%D0%98%D0%9D%20-%20Dead%20Inside.mp3", //7
+    "https://track.pinkamuz.pro/download/3332b33435b23032368e373135333231b1b4300000/b89dcf13d771f11c4b84809b62a25d5a/%D0%91%D0%B0%D0%BB%D0%BA%D0%BE%D0%BD%20-%20%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D1%8B.mp3", //8
+    "https://track.pinkamuz.pro/download/3336373437313531318b3731353331323036370600/e3edf5748b8d1a3e0ced08b73e308407/STARSET%20-%20Unbecoming.mp3", //9
     "https:\/\/rus.hitmotop.com\/get\/cuts\/f4\/ef\/f4ef75d1fd281df5c25604c39ba9fa76\/79379955\/Sergejj_Lazarev_-_JEto_vsjo_ona_b128f0d226.mp3", //10
     "https:\/\/rus.hitmotop.com\/get\/cuts\/84\/8c\/848c61d1b75001aafe7cd6f35ffed299\/48143728\/Monster_High_-_Monster_High_Fright_Song_b128f0d169.mp3", //11
     "https:\/\/rus.hitmotop.com\/get\/cuts\/f2\/6a\/f26ab5364db41de7fbf3ec9988f3b44e\/73067118\/DIGIMORTAL_-_Gravitaciya_b128f0d262.mp3", //12
@@ -397,9 +397,9 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/f5\/dd\/f5dd1b7c3d8fe759d55e1d33049d23ac\/54769016\/Consoul_Trainin_Consoul_Trainin_feat_Steven_Aderinto_DuoViolins_S_-_Obsession_b128f0d182.mp3", //15
     "https:\/\/rus.hitmotop.com\/get\/cuts\/29\/45\/2945fdb931b2568d4a0b9129bd2c177d\/57632352\/Valerijj_Meladze_-_Inostranec_b128f0d246.mp3", //16
     "https:\/\/rus.hitmotop.com\/get\/cuts\/07\/e7\/07e78a5c33915deff88a02ff38eef96b\/48615091\/Nervy_-_Kofe_mojj_drug_b128f0d187.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/b1\/33\/b1333018f6c2d1bc13d370746a5cb749\/74842929\/g3ox_em_-_GigaChad_Theme_b128f0d146.mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/music\/20251105\/Neizvestnyjj_-_Pochemu_kotikam_kompyutery_ne_nravyatsya_80156780.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f0\/cb\/f0cbec110cf238f7e78700e633cca8ec\/72043555\/Soltwine_-_Vechnoe_siyanie_chistogo_razuma_b128f0d230.mp3", //20
+    "https://track.pinkamuz.pro/download/3335b534b43035b3348c3731353332313134b30400/3995d594f8285fed380e6bbe529328f5/G3OX%20EM%20-%20GIGACHAD%20THEME.mp3", //18
+    "https://track.pinkamuz.pro/download/33313731b1b43436308937313533b7b03434b50400/b10ae85bdb2ca20d4dabf963d6154264/nyan.mp3%20-%20%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B0%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D1%8B%20%D0%BD%D0%B5%20%D0%BD%D1%80%D0%B0%D0%B2%D1%8F%D1%82%D1%81%D1%8F.mp3", //19
+    "https://track.pinkamuz.pro/download/33313731b1b43432318f37313533353436b6300200/6e881f3f3dd3ff6f9f84af7c77f2aa27/Soltwine%20-%20%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B5%20%D1%81%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5%20%D1%87%D0%B8%D1%81%D1%82%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0.mp3", //20
     "https:\/\/rus.hitmotop.com\/get\/cuts\/73\/3e\/733e389b5058b25ad4c687a15930cecf\/66793065\/Ssshhhiiittt_-_Tancy_b128f0d175.mp3",
     "https:\/\/rus.hitmotop.com\/get\/cuts\/9a\/ac\/9aac6d7586caad72907cc0300ad66276\/64644717\/ONE_OK_ROCK_-_Fight_The_Night_b128f0d256.mp3", //22
     "https://ru-d3.drivemusic.me/dl/CjIabuuNuvBjpptSdstc3Q/1773179237/download_music/2017/06/imagine-dragons-rise-up.mp3", //23
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
