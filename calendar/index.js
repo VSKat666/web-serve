@@ -28,21 +28,21 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/bf\/64\/bf6461584677620174e301c0049b3c4d\/64418061\/ONE_OK_ROCK_feat_5_Seconds_of_Summer_-_Take_What_You_Want_feat_5_Seconds_of_Summer_b128f0d243.mp3",
     "https:\/\/rus.hitmotop.com\/get\/music\/20241102\/BREDISH_-_Na_rukakh_78447902.mp3",
     "https:\/\/rus.hitmotop.com\/get\/music\/20201212\/Darovannyjj_OST_-_Jackie-O_-_Fuyu_no_Hanashi_71940693.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/72\/a2\/72a21586276eab0db2210bbec952ea46\/55527104\/Starset_-_Ricochet_b128f0d310.mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/music\/20190525\/Jahmal_TGK_-_CHjorno-belyjj_Tankograd_64493182.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a3\/8f\/a38fc0a505575476b9bc7132140de446\/73037753\/The_Kid_LAROI_Justin_Bieber_-_Stay_b128f0d142.mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/25\/a6\/25a615cdd4dba04b99ab6bb772d14a65\/48394121\/Polina_Gagarina_-_Spektakl_okonchen_b128f0d240.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/3b\/04\/3b041d7011b3bc50de6ca9412af7eaa6\/65833903\/Skillet_-_Finish_Line_b128f0d206.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/55\/1d\/551dc596f8e694ed9b67f7e4b4b871a6\/75784283\/twenty_one_pilots_-_Heathens_b128f0d196.mp3", //21
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/fa\/41\/fa4168d55d01dc7037ac50fb2f19884c\/72919861\/Jagwar_Twin_-_Happy_Face_b128f0d171.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f1\/73\/f1739a5604a42e452834692cc58de568\/61821267\/Set_It_Off_-_Killer_In_The_Mirror_b128f0d215.mp3", //23
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f0\/7b\/f07b3d28231b99985ae22268e618ce62\/79398298\/Vintazh_-_Eva_b128f0d249.mp3", //24
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/87\/6f\/876fd703af61b1c8863f6c0d2fec5eec\/28535273\/CHernyjj_Obelisk_-_Oborona_b128f0d225.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/8c\/b1\/8cb1d39b574b75c3ddc481f1ad4c4515\/47829283\/Imagine_Dragons_-_Shots_b128f0d232.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/6a\/93\/6a93f6597a8b17dadc31b2e954cd62cf\/72864234\/Mneskin_-_CORALINE_b128f0d300.mp3", //27
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/84\/45\/84459d2a22f50631f8078157493a7d47\/47828810\/Zemfira_-_KHochesh_b128f0d198.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ae\/e6\/aee681e782a41aae7232435219280512\/62570545\/Korol_i_SHut_-_Kukla_kolduna_b128f0d204.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/music\/20190317\/ONE_OK_ROCK_-_Bombs_Away_62840817.mp3",
+    "https://ruo.morsmusic.org/load/1824583471/SLOT_-_Mertvye_Zvezdy_SLOT_(musmore.org).mp3", //16
+    "https://ru-d2.drivemusic.me/dl/_ejLLm1qPDaYkBlKNwSSOg/1773275359/download_music/2025/01/jahmal-tgk-cherno-belyjj-tankograd.mp3",
+    "https://ru-d1.drivemusic.me/dl/C7QOG-7hb52_ONNRM9gnzw/1773275304/download_music/2021/07/the-kid-laroi-feat.-justin-bieber-stay.mp3", //18
+    "https://ru-d2.drivemusic.me/dl/SZq4LSb8BPmGoxis7UEDPg/1773274908/download_music/2012/01/polina-gagarina-spektakl-okonchen.mp3", //19
+    "https://ru-d2.drivemusic.me/dl/8RIhmVWFCz4Py0geTXlbzw/1773274860/download_music/2020/04/skillet-finish-line.mp3", //20
+    "https://ru-d2.drivemusic.me/dl/IUSxjF63fIJfsCB-CTjkQw/1773274796/download_music/2016/06/twenty-one-pilots-heathens.mp3", //21
+    "https://ruo.morsmusic.org/load/1733192588/Jagwar_Twin_-_Happy_Face_(musmore.org).mp3", //22
+    "https://ru-d3.drivemusic.me/dl/eNw8v-vgq8p5j_5SliarsQ/1773274642/download_music/2022/09/set-it-off-killer-in-the-mirror.mp3", //23
+    "https://ru-d3.drivemusic.me/dl/RgP2n6ttmc2m7NSobWcdjQ/1773274583/download_music/2012/12/vintazh-eva.mp3", //24
+    "https://ruo.morsmusic.org/load/1105508209/CHjornyjj_Obelisk_-_Oborona_(musmore.org).mp3",
+    "https://ru-d3.drivemusic.me/dl/n97SbF1Sqe83I278FGpO9A/1773274427/download_music/2018/03/imagine-dragons-shots.mp3",
+    "https://ruo.morsmusic.org/load/1152640169/Mneskin_-_CORALINE_(musmore.org).mp3", //27
+    "https://ru-d1.drivemusic.me/dl/rR8C0PCedU2bOBNZiE5X4A/1773274112/download_music/2014/02/zemfira-khochesh.mp3",
+    "https://ru-d2.drivemusic.me/dl/Td9iZJFh_V-inn5HPAvDKw/1773273937/download_music/2023/05/korol-i-shut-kukla-kolduna.mp3", //29
+    "https://ru-d2.drivemusic.me/dl/-zEUvbOfbut7sTk49vR-9g/1773273884/download_music/2022/09/one-ok-rock-bombs-away.mp3",
     "https://track.pinkamuz.pro/download/33313731b1b43432b188373135330162732300/6106d2b7e4a934855f9de25056967437/%D0%90%D0%91%D0%95%D0%A0%D0%A0%D0%9E%D0%9D%20-%20%D0%92%D0%B5%D1%82%D0%B5%D1%80.mp3",
 
     //february
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
