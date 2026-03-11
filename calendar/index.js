@@ -53,8 +53,8 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/7c\/75\/7c75eebd834bd98289afd08b529a5304\/72662970\/JElektroforez_-_Zlo_b128f0d224.mp3", //5
     "https:\/\/rus.hitmotop.com\/get\/cuts\/ce\/93\/ce9306fe6ae399267322bd44c9878529\/47828786\/Imagine_Dragons_-_Its_Time_b128f0d238.mp3",
     "https:\/\/rus.hitmotop.com\/get\/music\/20190509\/Tokijjskijj_gul_-_1_sezon_opening_original_64075722.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/b7\/09\/b7091020e394536c0670b69c81693432\/48128098\/Lind_Erebros_-_Master_Skills_b128f0d71.mp3",
-    "https://storage9.lightaudio.ru/dm/39924725/11919d30f/Camellia%20%E2%80%94%20Final-Boss-Chan%20%5BFrom%20BeatSaber%20OST5%5D.mp3",
+    "https://track.pinkamuz.pro/download/3336b13432b7303432893731353332313031300400/d29306176cd14cb222ff3ddfb1780630/Lind%20Erebros%20-%20The%20Master%20of%20the%20Skills.mp3",
+    "https://muz.zvukofon.com/dl/909837417/Camellia_-_Final-Boss-Chan_(musportal.org).mp3",
     "https:\/\/rus.hitmotop.com\/get\/music\/20201224\/Mariya_Mirova_-_Padaem_i_vzletaem_72080052.mp3",
     "https:\/\/rus.hitmotop.com\/get\/music\/20200404\/ONE_OK_ROCK_-_Good_Goodbye_e_69053167.mp3",
     "https:\/\/rus.hitmotop.com\/get\/cuts\/d6\/17\/d617680d72d718ae33775395bd2a6b5e\/57658982\/Rammstein_-_Sonne_b128f0d272.mp3", //12
@@ -65,11 +65,11 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/07\/9e\/079e085463322cb5c0b9a7fd62ab33ae\/47829292\/Imagine_Dragons_-_It_Comes_Back_To_You_b128f0d217.mp3", //17
     "https:\/\/rus.hitmotop.com\/get\/music\/20221008\/bahroma_-_poka-pora_speed_up_74763239.mp3", //18
     "https:\/\/rus.hitmotop.com\/get\/cuts\/1e\/d6\/1ed609208c2de86a807cd85eb2541198\/47954772\/Scorpions_-_Rock_You_Like_a_Hurricane_b128f0d253.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/music\/20220423\/Tyler_the_Creator_-_NEW_MAGIC_WAND_Instrumental_FNAF_Remix_74079807.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/00\/58\/0058fdaad3ec4174c1911aad765a8eec\/47975920\/Led_Zeppelin_-_Rock_And_Roll_b128f0d220.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/48\/4d\/484daf8f0756c3627cfeee78782efd5b\/48840150\/IOWA_-_Marshrutka_b128f0d191.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/32\/cc\/32cc8bcfc744ea175c200a71d10a0264\/64373528\/Viktor_Cojj_-_Gruppa_krovi_b128f0d273.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/9a\/4d\/9a4d95d07db56aa73bebfa29a14b85ba\/56508745\/Poshlaya_Molli_-_Non_stop_b128f0d214.mp3",
+    "https://track.pinkamuz.pro/download/33b5343636b334b0b08c373135333231b030b40400/3c75161cf9d249a0b2a2badea27e40e8/%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B5%D0%BD%20-%20Tyler%2C%20The%20Creator%20NEW%20MAGIC%20WAND%20Instrumental%20FNAF%20Remix.mp3", //20
+    "https://ru-d1.drivemusic.me/dl/Nr7OfJw3MRLFAhVkiMob3A/1773273049/download_music/2020/03/led-zeppelin-rock-and-roll.mp3",
+    "https://ru-d1.drivemusic.me/dl/jEXuWLL6E9KQhCz9FjBMPQ/1773273210/download_music/2014/09/iowa-marshrutka.mp3", //22
+    "https://ruo.morsmusic.org/load/1593353507/KINO_-_Gruppa_krovi_(musmore.org).mp3",
+    "https://ru-d3.drivemusic.me/dl/0w55I6M5-js7joVu-KGZHw/1773273456/download_music/2024/09/poshlaja-molli-non-stop.mp3",
     "https:\/\/rus.hitmotop.com\/get\/music\/20250731\/Marino_-_Devil_in_Disguise_79355118.mp3", //25
     "https:\/\/rus.hitmotop.com\/get\/cuts\/c7\/0c\/c70c277400976ea171fbe222c4ed1206\/47829721\/Zveri_-_Rajjony-kvartaly_b128f0d198.mp3",
     "https:\/\/rus.hitmotop.com\/get\/cuts\/ee\/cc\/eecc32abb433b3850cd09b02c1669210\/73067110\/DIGIMORTAL_-_Krovyu_b128f0d202.mp3",
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
