@@ -72,14 +72,14 @@ const tracks = [
     "https://ru-d3.drivemusic.me/dl/0w55I6M5-js7joVu-KGZHw/1773273456/download_music/2024/09/poshlaja-molli-non-stop.mp3",
     "https://ru-d3.drivemusic.me/dl/GEAu9e3fJfNgqUuzPCiI_w/1773366480/download_music/2025/07/marino-devil-in-disguise.mp3", //25
     "https://ru-d1.drivemusic.me/dl/304d2_sVXiDeVAPlAP3wcg/1773366532/download_music/2020/12/zveri-rajjony-kvartaly.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ee\/cc\/eecc32abb433b3850cd09b02c1669210\/73067110\/DIGIMORTAL_-_Krovyu_b128f0d202.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250719\/Starset_-_dark_things_79316297.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/c8\/1e\/c81e1c85d41108ad2e18a3614bb33f63\/62935867\/Imagine_Dragons_-_Im_So_Sorry_b128f0d230.mp3", //29
+    "https://ruo.morsmusic.org/load/1900105710/DIGIMORTAL_-_Krovyu_(musmore.org).mp3",
+    "https://rmr.muzmo.cc/get/music/20251022/Starset_-_DARK_THINGS_80041231.mp3",
+    "https://ru-d3.drivemusic.me/dl/7ktJ8T55s3bKW_XHNndG9Q/1773368751/download_music/2015/02/imagine-dragons-im-so-sorry.mp3", //29
 
 
     //march
-    "https:\/\/rus.hitmotop.com\/get\/music\/20240526\/Soltwine_-_prishla_vesna_77858533.mp3", //1
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/e0\/b3\/e0b369d6660ab307e23a4dd3315c4e84\/77689965\/Undervud_Konstantin_KHabenskijj_-_Polnochnyjj_trollejjbus_b128f0d244.mp3", //2
+    "https://ruo.morsmusic.org/load/1166341245/Soltwine_-_Prishla_vesna_(musmore.org).mp3", //1
+    "https://ru-d2.drivemusic.me/dl/uX967RQM2r1DLJmASmpMhw/1773369291/download_music/2025/01/undervud-konstantin-khabenskijj-polnochnyjj-trollejjbus.mp3", //2
     "https:\/\/rus.hitmotop.com\/get\/cuts\/5d\/05\/5d05116386a2a16e28996dc28d3acb0a\/48148821\/TryHardNinja_-_Its_Me_b128f0d224.mp3", //3
     "https:\/\/rus.hitmotop.com\/get\/cuts\/ec\/e8\/ece8a8f01fddc3d10f81ab1bee3b54fe\/71849100\/aljona_shvec_-_pervoe_svidanie_b128f0d152.mp3", //4
     "https:\/\/rus.hitmotop.com\/get\/music\/20221129\/Bambee_-_Bumble_Bee_75179717.mp3", //5
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
