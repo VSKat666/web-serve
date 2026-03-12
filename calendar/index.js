@@ -46,7 +46,7 @@ const tracks = [
     "https://track.pinkamuz.pro/download/33313731b1b43432b188373135330162732300/6106d2b7e4a934855f9de25056967437/%D0%90%D0%91%D0%95%D0%A0%D0%A0%D0%9E%D0%9D%20-%20%D0%92%D0%B5%D1%82%D0%B5%D1%80.mp3",
 
     //february
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/88\/84\/888444043857800755ce6fefd7b6a0d7\/74640917\/Imagine_Dragons_-_Believer_b128f0d204.mp3",
+    "https://rus.hitmotop.com/get/cuts/88/84/888444043857800755ce6fefd7b6a0d7/74640917/Imagine_Dragons_-_Believer_b128f0d204.mp3",
     "https:\/\/rus.hitmotop.com\/get\/cuts\/08\/11\/0811d97058d97910b13ea848eb7c4f53\/61821289\/The_Score_-_Born_For_This_b128f0d234.mp3", //2
     "https:\/\/rus.hitmotop.com\/get\/cuts\/20\/9a\/209a5db15bd44d858b761a71ac015f33\/70028353\/Zemlyane_-_Trava_u_doma_b128f0d313.mp3", //3
     "https:\/\/rus.hitmotop.com\/get\/cuts\/18\/8e\/188ea21e745d384ceeeee7b426274d9d\/47894866\/Linkin_Park_-_Burn_It_Down_b128f0d231.mp3", //4
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
