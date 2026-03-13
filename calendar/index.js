@@ -48,7 +48,7 @@ const tracks = [
     //february
     "https://ru-d1.drivemusic.me/dl/OKUPWmtck-7hHyILtOSWBg/1773364158/download_music/2017/01/imagine-dragons-believer.mp3",
     "https://ru-d3.drivemusic.me/dl/0OvxDuxEUduGb9PQZrsvRA/1773364224/download_music/2019/02/the-score-born-for-this.mp3", //2
-    "https://ru-d2.drivemusic.me/dl/yi8Bc9Mljw_t7-9VCs0tVA/1773364279/download_music/2019/05/zemljane-trava-u-doma.mp3", //3
+    "https://track.pinkamuz.pro/download/3332b13030343537308d3731353332313037340500/2f93b54aca173a79ff5915f5c3edd071/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F%D0%BD%D0%B5%20-%20%D0%A2%D1%80%D0%B0%D0%B2%D0%B0%20%D1%83%20%D0%B4%D0%BE%D0%BC%D0%B0.mp3", //3
     "https://ru-d3.drivemusic.me/dl/pQzgm3nXbNGvMBMJRJHB9w/1773364319/download_music/2012/04/linkin-park-burn-it-down.mp3", //4
     "https://ru-d3.drivemusic.me/dl/B_xbEITN1tSEfFkL70-Ktw/1773364370/download_music/2024/11/jelektroforez-zlo.mp3", //5
     "https://ru-d3.drivemusic.me/dl/E3BJu12gku_iyHFbuT0Owg/1773364429/download_music/2014/07/imagine-dragons-it039s-time.mp3",
@@ -73,7 +73,7 @@ const tracks = [
     "https://ru-d3.drivemusic.me/dl/GEAu9e3fJfNgqUuzPCiI_w/1773366480/download_music/2025/07/marino-devil-in-disguise.mp3", //25
     "https://ru-d1.drivemusic.me/dl/304d2_sVXiDeVAPlAP3wcg/1773366532/download_music/2020/12/zveri-rajjony-kvartaly.mp3",
     "https://ruo.morsmusic.org/load/1900105710/DIGIMORTAL_-_Krovyu_(musmore.org).mp3",
-    "https://rmr.muzmo.cc/get/music/20251022/Starset_-_DARK_THINGS_80041231.mp3",
+    "https://muz.zvukofon.com/dl/1737907860/Starset_-_dark_things_(musportal.org).mp3",
     "https://ru-d3.drivemusic.me/dl/7ktJ8T55s3bKW_XHNndG9Q/1773368751/download_music/2015/02/imagine-dragons-im-so-sorry.mp3", //29
 
 
@@ -147,10 +147,10 @@ const tracks = [
     //may
     "https://ru-d1.drivemusic.me/dl/A_ourDA2zAZLRvrOWkG9xg/1773347674/download_music/2025/04/maitre-gims-est-ce-que-tu-m039aimes-sped-up.mp3", //1
     "https://track.pinkamuz.pro/download/33b430b63431b230338e3731353332313131320300/bf211c2f1460eb6dfbbd4cb86939275a/Starset%20-%20Brave%20New%20World.mp3", //2
-    "https://rmr.muzmo.cc/get/music/20180301/Queen_of_Darts_-_Bad_Karma_54203144.mp3", //3
+    "https://muz.zvukofon.com/dl/1423327995/Queen_of_Darts_-_Bad_Karma_(musportal.org).mp3", //3
     "https://ru-d2.drivemusic.me/dl/vVL-rRdSgT6gZNgBNTdnsQ/1773347917/download_music/2014/05/dima-bilan-nochnojj-khuligan.mp3", //4
     "https://ru-d1.drivemusic.me/dl/zmYyD3WrmjMvMTUf2yaWZw/1773347963/download_music/2024/04/carla-bim-bam-toi.mp3", //5
-    "https://ru-d2.drivemusic.me/dl/o0LjYAe_xId1vEEqpVANmg/1773348052/download_music/2017/07/kino-ranshe-v-tvoikh-glazakh....mp3", //6
+    "https://ruo.morsmusic.org/load/291452486/KINO_-_Ranshe_v_tvoikh_glazakh_(musmore.org).mp3", //6
     "https:\/\/rus.hitmotop.com\/get\/cuts\/cd\/eb\/cdebbc95ca2ce446f51e96d2822c86c1\/68945399\/Picca_-_Ulybka_b128f0d184.mp3", //7
     "https:\/\/rus.hitmotop.com\/get\/cuts\/1c\/d5\/1cd5ab0c1664792107413ba99936dcc2\/75132249\/Polina_Gagarina_-_Babochki_b128f0d188.mp3", //8
     "https:\/\/rus.hitmotop.com\/get\/cuts\/93\/c2\/93c221909c442acce4a812e947781563\/61703582\/YUlya_Parshuta_-_Mesyac_majj_b128f0d218.mp3", //9
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
