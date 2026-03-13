@@ -28,7 +28,7 @@ const tracks = [
     "https://ru-d1.drivemusic.me/dl/TQi6ip-fRhAyMhlEjUxCAQ/1773279044/download_music/2022/09/one-ok-rock-feat.-5-seconds-of-summer-take-what-you-want.mp3",
     "https://ruo.morsmusic.org/load/1686773778/BREDISH_-_Na_rukakh_(musmore.org).mp3",
     "https://ruo.morsmusic.org/load/1727842944/Jackie-O_-_Fuyu_No_Hanashi_From_Given_(musmore.org).mp3", //15
-    "https://ruo.morsmusic.org/load/1824583471/SLOT_-_Mertvye_Zvezdy_SLOT_(musmore.org).mp3", //16
+    "https://ruo.morsmusic.org/load/1594150421/SLOT_-_Mjortvye_zvjozdy_(musmore.org).mp3", //16
     "https://ru-d2.drivemusic.me/dl/_ejLLm1qPDaYkBlKNwSSOg/1773275359/download_music/2025/01/jahmal-tgk-cherno-belyjj-tankograd.mp3",
     "https://ru-d1.drivemusic.me/dl/C7QOG-7hb52_ONNRM9gnzw/1773275304/download_music/2021/07/the-kid-laroi-feat.-justin-bieber-stay.mp3", //18
     "https://ru-d2.drivemusic.me/dl/SZq4LSb8BPmGoxis7UEDPg/1773274908/download_music/2012/01/polina-gagarina-spektakl-okonchen.mp3", //19
@@ -80,7 +80,7 @@ const tracks = [
     //march
     "https://ruo.morsmusic.org/load/1166341245/Soltwine_-_Prishla_vesna_(musmore.org).mp3", //1
     "https://ru-d2.drivemusic.me/dl/uX967RQM2r1DLJmASmpMhw/1773369291/download_music/2025/01/undervud-konstantin-khabenskijj-polnochnyjj-trollejjbus.mp3", //2
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5d\/05\/5d05116386a2a16e28996dc28d3acb0a\/48148821\/TryHardNinja_-_Its_Me_b128f0d224.mp3", //3
+    "https://ruo.morsmusic.org/load/1232228770/TryHardNinja_-_Its_Me_(musmore.org).mp3", //3
     "https:\/\/rus.hitmotop.com\/get\/cuts\/ec\/e8\/ece8a8f01fddc3d10f81ab1bee3b54fe\/71849100\/aljona_shvec_-_pervoe_svidanie_b128f0d152.mp3", //4
     "https:\/\/rus.hitmotop.com\/get\/music\/20221129\/Bambee_-_Bumble_Bee_75179717.mp3", //5
     "https:\/\/rus.hitmotop.com\/get\/music\/20250921\/Tanin_Jazz_-_Virtualnaya_lyubov_79817779.mp3", //6
@@ -571,6 +571,7 @@ const tracks = [
                 nextTrack();
             });
         }        
+
 
 
 
