@@ -9,8 +9,8 @@ const tracks = [
     "https://ru-d2.drivemusic.me/dl/o_MuCKULYSWHimY97f0T7w/1773557551/download_music/2011/12/mendelson-svadebnyjj-marsh.mp3",
     "https://track.pinkamuz.pro/download/33343334353431338d3731353332b63437b50400/2b83183a588fcdccf8fe816372dc442a/%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4%20%D0%93%D1%80%D0%B8%D0%B3%20-%20%D0%9F%D0%B5%D1%80%20%D0%93%D1%8E%D0%BD%D1%82.%20%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%B0%D0%BD%D0%B5%D1%86.mp3",
     "https://track.pinkamuz.pro/download/333537313432b6b0308e373135333231b034300600/9d0919f0a2c860cacfbabbea9164db40/%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%20-%20%D0%9A%D0%BD%D1%8F%D0%B7%D1%8C%20%D0%98%D0%B3%D0%BE%D1%80%D1%8C%20-%20%D0%BF%D1%80%D0%BE%D0%BB%D0%BE%D0%B3.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/db\/c2\/dbc274009aeb68210f6eedcc06048fbd\/65241872\/Lyudvig_van_Betkhoven_-_Oda_K_radosti_b128f0d413.mp3",
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/3c\/cd\/3ccdc543972ed4d77820786e817eda1d\/70980438\/CHajjkovskijj_Petr_Ilich_-_Tanec_malenkikh_lebedejj_b128f0d87.mp3",
+    "https://track.pinkamuz.pro/download/33323030303137333630883731353332313134320100/d878b1e1d9b9e1d8f73d9fd910ac6219/%D0%91%D0%B5%D1%82%D1%85%D0%BE%D0%B2%D0%B5%D0%BD%20-%20%D0%9E%D0%B4%D0%B0%20%22%D0%9A%20%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8%22.mp3",
+    "https://track.pinkamuz.pro/download/33b2b0303634318837b6343630373130300000/6a316f8a789e4674b22aa3d203e4bb63/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%B7%D0%B5%D1%80%D0%BE.%D0%9F.%D0%98.%D0%A7%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20-%20%D0%A2%D0%B0%D0%BD%D0%B5%D1%86%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B9.mp3",
     
     //грусть
     "https:\/\/rus.hitmotop.com\/get\/cuts\/3c\/31\/3c31279ae95325f09fbc402d9c7babae\/63849474\/Bakh_-_KHoralnaya_prelyudiya_fa-minor_b128f0d190.mp3",
