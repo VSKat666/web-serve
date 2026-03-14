@@ -151,10 +151,10 @@ const tracks = [
     "https://ru-d2.drivemusic.me/dl/vVL-rRdSgT6gZNgBNTdnsQ/1773347917/download_music/2014/05/dima-bilan-nochnojj-khuligan.mp3", //4
     "https://ru-d1.drivemusic.me/dl/zmYyD3WrmjMvMTUf2yaWZw/1773347963/download_music/2024/04/carla-bim-bam-toi.mp3", //5
     "https://ruo.morsmusic.org/load/291452486/KINO_-_Ranshe_v_tvoikh_glazakh_(musmore.org).mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/cd\/eb\/cdebbc95ca2ce446f51e96d2822c86c1\/68945399\/Picca_-_Ulybka_b128f0d184.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/1c\/d5\/1cd5ab0c1664792107413ba99936dcc2\/75132249\/Polina_Gagarina_-_Babochki_b128f0d188.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/93\/c2\/93c221909c442acce4a812e947781563\/61703582\/YUlya_Parshuta_-_Mesyac_majj_b128f0d218.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a4\/79\/a479b5c26ea450ce57375d122977ae8a\/47835999\/MakSim_-_Znaesh_li_ty_b128f0d242.mp3", //10
+    "https://ru-d3.drivemusic.me/dl/DgEXWX35R0cW6kGX1n4L-Q/1773556501/download_music/2020/03/picca-ulybka.mp3", //7
+    "https://ruo.morsmusic.org/load/660530620/Polina_Gagarina_-_Babochki_(musmore.org).mp3", //8
+    "https://ruo.morsmusic.org/load/1670709927/YUlya_Parshuta_-_Mesyac_majj_(musmore.org).mp3", //9
+    "https://ru-d2.drivemusic.me/dl/sXVASKZcns6sFJ4dYky-8Q/1773556775/download_music/2013/12/maksim-znaesh-li-ty.mp3", //10
     "https://track.pinkamuz.pro/download/3331b03430b730b2348f3731353332b63437350100/68378061165a33c29139944f8379cba6/%D0%9B%D1%83%D0%BD%D1%82%D0%B8%D0%BA%20-%20%D0%9F%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8%20%D0%B2%20%D1%82%D0%B8%D1%82%D1%80%D0%B0%D1%85.mp3", //11
     "https://track.pinkamuz.pro/download/33313731b1b43432348c373135b330323534370300/8705a673505dc744fb99535522f7b6fb/%D0%A3%D0%BD%D0%B4%D0%B5%D1%80%D0%B2%D1%83%D0%B4%20-%20%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B%20%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9%20%D0%BE%D1%80%D0%BA%D0%B5%D1%81%D1%82%D1%80%D0%B8%D0%BA.mp3", //12
     "https://track.pinkamuz.pro/download/33313731b1b43432b68837313503b1cc8c00/f7fa78914ae46a27b6ffff5b42eb676b/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%84%D0%BE%D1%80%D0%B5%D0%B7%20-%20%D0%92%D1%81%D1%91%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D1%82%D0%B0%D0%BA.mp3", //13
@@ -179,36 +179,36 @@ const tracks = [
 
 
     //june
-    "https:\/\/rus.hitmotop.com\/get\/music\/20251024\/Mot_-_Den_i_noch_80058755.mp3", //1
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/e1\/b3\/e1b3afd212f6908ca7842c7869575d80\/70516527\/aljona_shvec_-_skejjter_b128f0d131.mp3", //2
+    "https://ru-d2.drivemusic.me/dl/3NIrdPkOQ9aPoB5cPsQbAQ/1773556045/download_music/2015/06/mot-den-i-noch.mp3", //1
+    "https://ru-d2.drivemusic.me/dl/F5W7ASsZSbwt55sYJZBarw/1773555957/download_music/2024/09/alena-shvec-skejjter.mp3", //2
     "https:\/\/rus.hitmotop.com\/get\/cuts\/65\/52\/6552b6f596eaef39b12b8b9841e457bf\/79469607\/Clean_Bandit_-_Solo_feat_Demi_Lovato_b128f0d223.mp3", //3
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d5\/d6\/d5d66f57850c1fd3bde5b9120eeb0af7\/47828795\/Imagine_Dragons_-_Cha-Ching_Till_We_Grow_Older_b128f0d249.mp3", //4
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/4f\/f9\/4ff99e36f18242c17821bb6345672ccb\/69827131\/GAYAZOV_BROTHER_-_YA_TY_i_MORE_b128f0d208.mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/music\/20241102\/Mot_and_Zivert_-_Parusa_78454685.mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ab\/a9\/aba9b24981976915b27209f8335a37ad\/73186221\/Black_Gryph0n_Baasik_-_Insane_b128f0d160.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/e2\/c0\/e2c057a20c6afd16fc58bbcd924dcb08\/51289904\/Ray_Parker_Jr_-_Ghostbusters_b128f0d245.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/96\/3f\/963f97b3f97d3afae85652b5582915d7\/70519846\/Dabro_-_Vse_za_odnogo_b128f0d205.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d1\/f4\/d1f4f9b34cc0dee5b047671ab485fa28\/52088067\/Amega_-_Letet_b128f0d270.mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250109\/Nu_pogodi_-_zastavka_polnaya_versiya_78906085.mp3", //11
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/2a\/79\/2a792188b66fd3c7e50286648159e3b7\/53474944\/Oleg_Gazmanov_-_Vperjod_Rossiya_b128f0d198.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250906\/GRANRODEO_-_TRASH_CANDY_79677580.mp3", //13
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ab\/ae\/abaee6e0646eef3eef0c336211d34394\/65045885\/Skillet_-_Save_Me_b128f0d223.mp3", //14
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/30\/07\/30077c25ae641f71d730a959fb5f4b52\/47894349\/Linkin_Park_-_New_Divide_b128f0d268.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/63\/e8\/63e8b2f096a251257f8b72aabc44e2c7\/1003819\/Nervy_-_YA_razryvayu_nervy_b128f0d155.mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/75\/1d\/751d49b737fc094aa488d467abda279f\/66106316\/OGEL_-_LETO_17_b128f0d202.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/music\/20240408\/LONGMAN_Mushoku_Tensei_Isekai_Ittara_Honki_Dasu_2_OP_-_spiral_Reinkarnaciya_bezrabotnogo_Istoriya_o_priklyucheniyakh_v_drugom_mire_77699089.mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/33\/7d\/337d69935050a27d5d1100c6d69fca48\/68991081\/GROT_Lena_Avgust_-_Vetry_b128f0d301.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/59\/c7\/59c7ee255fbc60f9be2d701d3da3be7d\/47828991\/Maks_Korzh_-_ZHit_v_kajjf_b128f0d174.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ee\/30\/ee30a3b22bfb0400456f46e29ffd18c0\/72969637\/Mot_JONY_-_Lilii_b128f0d199.mp3", //21
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/3a\/9c\/3a9c236213f522da3053cc02e46107d9\/47921221\/9_gramm_-_Rapapam_b128f0d334.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/59\/50\/5950980c959721272d89ff63beafcf0f\/59996943\/Ariya_-_Bespechnyjj_angel_b128f0d238.mp3", //23
+    "https://muz.zvukofon.com/dl/520467046/Imagine_Dragons_-_Cha-Ching_Till_We_Grow_Older_(musportal.org).mp3", //4
+    "https://ruo.morsmusic.org/load/2118088286/GAYAZOV_BROTHER_-_YA_TY_i_MORE_(musmore.org).mp3", //5
+    "https://ru-d3.drivemusic.me/dl/PsKjBy1OwxvU6u9tR8FLvA/1773555153/download_music/2019/06/mot-feat.-zivert-parusa.mp3", //6
+    "https://muz.zvukofon.com/dl/489157981/Black_Gryph0n_Baasik_-_Insane_(musportal.org).mp3", //7
+    "https://ru-d2.drivemusic.me/dl/x1wnWf1HGgXqRmz5ez52Kw/1773554680/download_music/2023/07/ray-parker-jr.-ghostbusters.mp3", //8
+    "https://ru-d3.drivemusic.me/dl/-br91pz8qgzfxh7kZWHkpg/1773554635/download_music/2020/08/dabro-vse-za-odnogo.mp3", //9
+    "https://ru-d3.drivemusic.me/dl/7qCjVLyIcuPqwEj02p7Hkw/1773554501/download_music/2023/06/amega-letet.mp3", //10
+    "https://track.pinkamuz.pro/download/33b5343434333235b4883731353332b63432b50400/e907df966c8b45e661e946abd2ad30e2/%D0%9D%D1%83%2C%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8%20-%20%D0%97%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.mp3", //11
+    "https://ruo.morsmusic.org/load/320363162/Oleg_Gazmanov_-_Vpered_Rossiya_(musmore.org).mp3", //12
+    "https://muz.zvukofon.com/dl/1488451731/Grandrodeo_-_Trash_Candy_(musportal.org).mp3", //13
+    "https://ru-d2.drivemusic.me/dl/cETUg884thv0wS8GB5Mh3g/1773553374/download_music/2022/09/skillet-save-me.mp3", //14
+    "https://ru-d1.drivemusic.me/dl/gOoyRzmUul9BRAM8_acHLQ/1773553253/download_music/2014/07/linkin-park-new-divide.mp3", //15
+    "https://muz.zvukofon.com/dl/1714279030/Nervy_-_YA_razryvayu_nervy_(musportal.org).mp3", //16
+    "https://ruo.morsmusic.org/load/1909524053/OGEL_-_Leto_17_(musmore.org).mp3", //17
+    "https://track.pinkamuz.pro/download/3337353635333530308d3731353332b634b2340600/ffb7104de5a95a768b254de6a69ee809/LONGMAN%20-%20spiral.mp3", //18
+    "https://track.pinkamuz.pro/download/33313731b1b43434328b3731353331323333330100/fca5a8ea80af5db1542baef37fb7567b/%D0%93%D0%A0%D0%9E%D0%A2%20feat.%20%D0%9B%D0%B5%D0%BD%D0%B0%20%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%20-%20%D0%92%D0%B5%D1%82%D1%80%D1%8B.mp3", //19
+    "https://ru-d1.drivemusic.me/dl/GdWFj9TswnIkek1cqY5wJA/1773552823/download_music/2013/08/maks-korzh-zhit-v-kajjf.mp3", //20
+    "https://ru-d3.drivemusic.me/dl/og2AhaTT4QSllyBlq-ogsw/1773552674/download_music/2021/03/mot-jony-lilii.mp3", //21
+    "https://ru-d2.drivemusic.me/dl/J0SKYe4fGYSipb_R04LNWw/1773552442/download_music/2016/04/miyagi-jendshpil-feat.-9-gramm-rapapam.mp3", //22
+    "https://ru-d2.drivemusic.me/dl/kRdPVhc5gpP-_o_xVQyAbw/1773552141/download_music/2024/11/arija-bespechnyjj-angel.mp3", //23
     "https://ruo.morsmusic.org/load/283486048/Lind_Erebros_-_Ninja_in_the_Night_(musmore.org).mp3", //24
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/52\/24\/522476af5c30cdea04b00dfe7ab4a1f9\/47950443\/OneRepublic_-_Counting_Stars_b128f0d257.mp3", //25
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/88\/44\/88443b16c4e28d9d4ac7cb71c975cf98\/71758000\/347aidan_-_Dancing_in_My_Room_b128f0d180.mp3", //26
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250812\/Teriyaki_Boyz_-_Tokyo_Drift_Fast_Furious_From_The_Fast_And_The_Furious_Tokyo_Dr_79407836.mp3", //27
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ca\/b7\/cab7f18720d8999336560774d0f745d9\/67608429\/Mjevl_-_Patamushka_b128f0d139.mp3", //28
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5c\/1e\/5c1e226f4a9f94cd57630e9f875e2198\/59996857\/Bullet_For_My_Valentine_-_Radioactive_b128f0d193.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/e3\/bb\/e3bb44ae3a16e09ef4431cc195dc7ebb\/47956049\/System_of_a_Down_-_Darts_b128f0d162.mp3", //30
+    "https://ru-d2.drivemusic.me/dl/M9oeuCV5DQZzkW7BAcwVOw/1773552083/download_music/2014/07/onerepublic-counting-stars.mp3", //25
+    "https://ruo.morsmusic.org/load/917137504/347aidan_-_Dancing_in_My_Room_(musmore.org).mp3", //26
+    "https://ruo.morsmusic.org/load/893953249/Teriyaki_Boyz_-_Tokyo_Drift_Fast_Furious_(musmore.org).mp3", //27
+    "https://ru-d2.drivemusic.me/dl/Cyqt8HY8OM0e5MseyoIRYw/1773551844/download_music/2019/12/mjevl-patamushka.mp3", //28
+    "https://ru-d2.drivemusic.me/dl/67r1r-X_N-9ggpP5Usa95A/1773551801/download_music/2024/01/bullet-for-my-valentine-radioactive.mp3", //29
+    "https://muz.zvukofon.com/dl/1187381900/System_of_a_Down_-_Darts_(musportal.org).mp3", //30
 
 
     //july
@@ -322,7 +322,7 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/5c\/42\/5c42f3cd8b005edb1d2f19e306a61367\/64714984\/Dajjte_tank_-_Malenkijj_b128f0d245.mp3", //7
     "https:\/\/rus.hitmotop.com\/get\/cuts\/7b\/33\/7b33e100a12afbc22a5d70d8bdb93457\/47960474\/Little_Big_-_Life_in_da_Trash_b128f0d201.mp3", //8
     "https:\/\/rus.hitmotop.com\/get\/cuts\/80\/a5\/80a5f47249bda01884587dcdb578e16f\/80032558\/Hazbin_Hotel_-_Gravity_b128f0d113.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250811\/Slipknot_-_Custer_79394266.mp3", //10
+    "https://ruo.morsmusic.org/load/1279063440/ZHuki_-_Batarejjka_(musmore.org).mp3", //10
     "https:\/\/rus.hitmotop.com\/get\/music\/20241012\/Poshlaya_Molli_-_Proklya_Tabyla_78318329.mp3", //11
     "https://track.pinkamuz.pro/download/33313731b1b434343688373135333131b2b4300500/6106d2b7e4a934855f9de25056967437/%D0%90%D0%91%D0%95%D0%A0%D0%A0%D0%9E%D0%9D%20-%20%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B8%D1%85%20%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D0%BE%D0%B2.mp3", //12
     "https:\/\/rus.hitmotop.com\/get\/cuts\/8f\/f4\/8ff41964c6d0020d08f68be3ae705faa\/72140963\/Dima_Bilan_-_Pro_belye_rozy_b128f0d218.mp3", //13
