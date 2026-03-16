@@ -347,16 +347,16 @@ const tracks = [
 
 
     //november
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ac\/4d\/ac4d681dbb256220e84430d8af32729e\/47837699\/tATu_-_Nas_ne_dogonyat_b128f0d261.mp3", //1
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/19\/aa\/19aa304c44b9812800adbe2704516263\/72097810\/20TOKENS_-_YA_SOSHEL_S_UMA_b128f0d143.mp3", //2
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5f\/18\/5f18bcee38be4fc4eb0a3d27c0510349\/47830059\/ACDC_-_Highway_to_Hell_b128f0d208.mp3", //3
-    "https://Imusic.kz/api/download/297846", //4
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/9c\/5b\/9c5b919faa6d802d73a2f49053b3c63c\/48035647\/A_-_Studio_-_Uletayu_b128f0d200.mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/music\/20200713\/Zivert_-_Beverly_Hills_70239416.mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/7c\/42\/7c4205d489791c89b3bf97b1ca1241fb\/47829307\/Imagine_Dragons_-_Monster_b128f0d249.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/10\/43\/1043fa73b7e5a0d1ffec8679f9ca6a89\/48182429\/Korol_i_SHut_-_Durak_i_molniya_b128f0d114.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/17\/71\/17713851aaadc62a16f407ebce41db0b\/60241187\/Dima_Bilan_-_Molniya_b128f0d182.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/63\/ea\/63ea7db29cf8a2407fb8d201cf462b6d\/78478837\/Stray_Kids_-_LALALALA_Rock_Ver_b128f0d188.mp3", //10
+    "https://ruo.morsmusic.org/load/1332299349/tATu_-_Nas_ne_dogonyat_(musmore.org).mp3", //1
+    "https://track.pinkamuz.pro/download/3334b234b234b7b4b0883731353332313030340700/eca07700446c6ce599284664957580e6/20TOKENS%20-%20%D0%AF%20%D0%A1%D0%9E%D0%A8%D0%95%D0%9B%20%D0%A1%20%D0%A3%D0%9C%D0%90%20%28t.a.t.u%20remix%29.mp3", //2
+    "https://ru-d3.drivemusic.me/dl/l98vS_X2uElMEON3F2zoFA/1773709494/download_music/2020/03/ac-dc-highway-to-hell.mp3", //3
+    "https://ruo.morsmusic.org/load/330946456/ZXKAI_SLXUGHTER_-_NO_BATIDO_(musmore.org).mp3", //4
+    "https://ruo.morsmusic.org/load/49533884/AStudio_-_Uletayu_(musmore.org).mp3", //5
+    "https://ru-d1.drivemusic.me/dl/yIhFf9VFIGH__rWRiXDOSw/1773709829/download_music/2019/09/zivert-beverly-hills.mp3", //6
+    "https://ru-d2.drivemusic.me/dl/qySxYlE7o_eFkJiM-DUlhQ/1773709868/download_music/2013/09/imagine-dragons-monster.mp3", //7
+    "https://ru-d1.drivemusic.me/dl/tbRH4PQMqlXQ8t4trIpBfg/1773709947/download_music/2021/01/korol-i-shut-durak-i-molnija.mp3", //8
+    "https://ru-d3.drivemusic.me/dl/v13YBdiGRRajMmOniqJMZA/1773709993/download_music/2018/11/dima-bilan-molnija.mp3", //9
+    "https://rus.musrocket.net/load/1686846329/Stray_Kids_-_LALALALA_Rock_Ver_(musrocket.com).mp3", //10
     "https:\/\/rus.hitmotop.com\/get\/cuts\/b4\/f0\/b4f024690192816da6aef4d0f3cc00e4\/52465307\/Blestyashhie_-_A_ya_vsjo_letala_b128f0d235.mp3", //11
     "https:\/\/rus.hitmotop.com\/get\/music\/20230514\/FNaF_2_-_The_Bonnie_Song_75972983.mp3", //12
     "https:\/\/rus.hitmotop.com\/get\/cuts\/6f\/c0\/6fc05e4edfe9f151ca1703f8a88f76c3\/47885099\/Evanescence_-_Bring_Me_To_Life_b128f0d237.mp3", //13
