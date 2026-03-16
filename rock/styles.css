@@ -246,7 +246,7 @@ footer {
     .main-flex__div-div {
         font-size: 12px;
     }
-    .centerr {
+    .footer-div-center {
         flex-direction: column;
     }
 }
