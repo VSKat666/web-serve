@@ -231,19 +231,38 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
 #currentTime, #duration {
     font-size: 14px;
 }
+
+.scroll-container::-webkit-scrollbar {
+    height: 12px;
+}
+.scroll-container::-webkit-scrollbar-track {
+    background: #191e2d;
+}
+.scroll-container::-webkit-scrollbar-thumb {
+    background: #01869b;
+}
+
+
+
 @media (max-width: 1200px) {
     .scroll-container {
         width: 100%; /* Ширина контейнера равна ширине родительскоtext-indent: -4px;го элемента */
         overflow-x: scroll; /* Включаем горизонтальную прокрутку */
         overflow-y: hidden; /* Убираем вертикальную прокрутку */
         white-space: nowrap; /* Запрещаем перенос строк, чтобы элементы шли подряд */
+        margin-bottom: 15px;
     }
 }
+
 @media (max-width: 600px) {
-    #alertClose {
-        text-indent: -4px;
+    #alertClose, #alertBox {
+        visibility: hidden;
+    }
+    .main-menu__a {
+        font-size: 16px;
     }
 }
+
 @media (max-width: 470px) {
     .main-menu {
         padding: 10px 60px;
@@ -258,27 +277,22 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         font-size: 17px;
     }
 }
+
 @media (max-width: 450px) {
     .main-menu {
             padding: 10px 30px;
     }
-    #alertBox {
-        width: 350px;
-        padding: 20px;
-    }
-    #alertClose {
-        width: 1.25em;
-        text-indent: -4px;
-    }
 }
+
 @media (max-width: 425px) {
-    #alertBox {
-        width: 300px;
+    .scroll-container::-webkit-scrollbar {
+        height: 9px;
     }
     .arrow-up {
         right: 20px;
     }
 }
+
 @media (max-width: 370px) {
     .footer-div-center {
         flex-direction: column;
@@ -287,6 +301,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         font-size: 15px;
     }
 }
+
 @media (max-width: 350px) {
     h1 {
         font-size: 25px;
@@ -294,50 +309,39 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     h2 {
         font-size: 18px;
     }
-    #alertBox {
-        width: 250px;
-    }
     .arrow-up {
     right: 15px;
     }
-}
-
-@media (max-width: 300px)
-.arrow-up {
-    right: 0px;
 }
 
 @media (hover: none) {
     .main-menu__a:hover {
         background-color: #00c6e6;
     }
+
     .main-menu__a:active {
         background-color: #03adc7;
     }
+
     .td__button:hover {
         background-color: #c4cfd6;
     }
+    
     .td__button:active {
         background-color: #a1a1a1;
     }
+
     .section__button:hover {
         background-color: #c4cfd6;
     }
+    
     .section__button:active {
         background-color: #a1a1a1;
     }
 }
-@media (max-width: 600px) and (orientation: landscape) {
+
+@media (max-width: 470px) and (orientation: landscape) {
     .progress {
         padding: 15px 20px 0px;
     }
 }
-
-
-
-
-
-
-
-
-
