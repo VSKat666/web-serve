@@ -246,8 +246,8 @@ const tracks = [
 
 
     //august
-    "https:\/\/rus.hitmotop.com\/get\/music\/20150904\/JE_Grig_-_Utro_Per_Gyunt_isp_LKO_28504737.mp3", //1
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d6\/66\/d6667f67cd8e720198258bdf555e7986\/77657355\/Basta_MONA_Tri_dnya_dozhdya_Vladimir_Presnyakov_-_Luch_solnca_zolotogo_b128f0d176.mp3", //2
+    "https://track.pinkamuz.pro/download/d33534b33434373237368b3731353332b63434330200/92aba179e36dd2f32a50b7eb0250c681/%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4%20%D0%93%D1%80%D0%B8%D0%B3%20-%20%D0%A3%D1%82%D1%80%D0%BE.mp3", //1
+    "https://ruo.morsmusic.org/load/1714537369/Basta_MONA_Tri_dnya_dozhdya_Vladimir_Presnyakov_-_Luch_solnca_zolotogo_(musmore.org).mp3", //2
     "https:\/\/rus.hitmotop.com\/get\/cuts\/af\/f2\/aff2e5320e991d651e4452d17dc0c036\/47828794\/Imagine_Dragons_-_Nothing_Left_To_Say_Rocks_b128f0d536.mp3", //3
     "https:\/\/rus.hitmotop.com\/get\/music\/20190525\/LOrchestra_Cinematique_-_Sweden_From_Minecraft_Piano_Rendition_64492898.mp3", //4
     "https:\/\/rus.hitmotop.com\/get\/cuts\/f0\/1e\/f01efbbee991bd184e8913a8136cf20e\/63656951\/Maksim_-_Solnyshko_luchistoe_b128f0d185.mp3", //5
