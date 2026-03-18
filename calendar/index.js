@@ -224,25 +224,25 @@ const tracks = [
     "https://track.pinkamuz.pro/download/3335303536303133338e3731353332b63430b10400/99cb5fd3cd0c8e82a837bb43ea4b63d9/%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B5%D0%BD%20-%20%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D1%80%D1%83%D0%BA%D0%B8%D0%B5.mp3", //10
     "https://track.pinkamuz.pro/download/33363132333689373335b6b03037b10400/95308ccd08c9f04c0dbf0e1b94761314/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%20-%20%D0%9C%D0%BE%D1%8F%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%BD%D0%B0%205%20%D1%8D%D1%82%D0%B0%D0%B6%D0%B5.mp3", //11
     "https://ruo.morsmusic.org/load/861747337/Stigmata_-_Adrenalin_(musmore.org).mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5e\/ad\/5eadb9fbbb007304b0bef2c631277886\/71516710\/Daniela_-_Pust_pugaet_groznyjj_veter_nachinaetsya_groza_b128f0d303.mp3", //13
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/57\/a3\/57a3792e1dafd0e1fbfcac390e36a9db\/47958417\/Skillet_-_Monster_b128f0d177.mp3", //14
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/68\/7e\/687e151cd998749a2411cb43a171174b\/47846653\/Pianobojj_-_Vedma_b128f0d274.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/music\/20191110\/Lowa_-_140_67232343.mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/8e\/fa\/8efaf32e8e754177c2d9d463117ce4bf\/62571704\/Korol_i_SHut_-_Lesnik_b128f0d192.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a4\/16\/a41644a8b96aefb7454ff0e84d7a36b5\/79149322\/Artemas_-_i_like_the_way_you_kiss_me_b128f0d143.mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/b9\/51\/b9519987b0f075c4dc159f4e167e9190\/55527282\/Kino_-_Videli_noch_b128f0d189.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/music\/20211112\/Open_Kids_-_Davajj_poletaem_chto_li_73311222.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/cf\/4f\/cf4f51a8afec401d5062424c1ca8cfa5\/47829251\/Nirvana_-_Lithium_b128f0d257.mp3", //21
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/8b\/8b\/8b8bad23e69d8f2c1e614b9b50cf121f\/69577931\/Dabro_-_YUnost_b128f0d220.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f8\/9e\/f89e519f4a0fe5e14af04b7d7e23f102\/48213741\/Lyubje_-_Kon_b128f0d217.mp3", //23
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/38\/c3\/38c3fa1ee86e67c777f24e9959a68ff6\/64403124\/Picca_-_Na_vsyu_planetu_Zemlya_b128f0d216.mp3", //24
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/70\/de\/70dee81c20cc1845f2dfdedbe0382722\/56305555\/MONATIK_-_Kruzhit_b128f0d198.mp3", //25
-    "https:\/\/rus.hitmotop.com\/get\/music\/20230617\/OSD_Gorizont_-_Krasnaya_nit_76149916.mp3", //26
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/8c\/ac\/8cac304e09661ec595652787a562bce2\/73067116\/DIGIMORTAL_-_Odin_b128f0d259.mp3", //27
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/b5\/d0\/b5d0a6637cb197bea2daac8459d84768\/48093227\/Oleg_Mityaev_-_Kak_zdorovo_b128f0d194.mp3", //28
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/4b\/0a\/4b0a488f4374b526b8f47aebd0c971a4\/48614905\/Skillet_-_I_Want_to_Live_b128f0d208.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/83\/37\/833718b8da844f0c54a92f4700e9be12\/69037826\/MACAN_-_Kino_b128f0d184.mp3", //30
-    "https:\/\/rus.hitmotop.com\/get\/music\/20210222\/NANSI_SIDOROV_-_A_mozhet_da_a_mozhet_net_72753523.mp3", //31
+    "https://track.pinkamuz.pro/download/b3b0b0303133363630893731353332b63433320100/3204a5a27139da531266f657cd6f5848/Daniela%20-%20%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B.mp3", //13
+    "https://ru-d2.drivemusic.me/dl/n6JY11wIqKaPI8Vu6giT3Q/1773878047/download_music/2014/02/skillet-monster.mp3", //14
+    "https://ruo.morsmusic.org/load/900725800/Pianobojj_-_Vedma_(musmore.org).mp3", //15
+    "https://track.pinkamuz.pro/download/3335373333363137358d373135333231b030330700/bd47488eb236d5ae6eb9aff00c25d6ed/Lowa%20-%20140.mp3", //16
+    "https://ru-d3.drivemusic.me/dl/oKnAzXdrPyl83Ogg-gTOZw/1773878380/download_music/2021/01/korol-i-shut-lesnik.mp3", //17
+    "https://ru-d1.drivemusic.me/dl/KFuGJRNqjBSpslTErSnOpQ/1773878435/download_music/2024/03/artemas-i-like-the-way-you-kiss-me.mp3", //18
+    "https://ru-d1.drivemusic.me/dl/Ye0KSQ5QbRGfWIFhhfEY4Q/1773878536/download_music/2012/06/viktor-cojj-videli-noch.mp3", //19
+    "https://ru-d1.drivemusic.me/dl/9T6wHqbhIEBsnPG1vegE9A/1773878585/download_music/2014/07/open-kids-na-desert.mp3", //20
+    "https://ru-d3.drivemusic.me/dl/PWrqF_y-Layt15lg9adWQA/1773878679/download_music/2022/09/nirvana-lithium.mp3", //21
+    "https://ru-d3.drivemusic.me/dl/Z5voBHFa-rVxbY3Tn7LjQQ/1773878727/download_music/2020/05/dabro-junost.mp3", //22
+    "https://ru-d1.drivemusic.me/dl/nECOysv5CEHSsYXsWmaq_Q/1773878791/download_music/2013/01/ljubje-kon.mp3", //23
+    "https://ru-d1.drivemusic.me/dl/lMn7IvOKASwjNsuGmdS-Xg/1773878865/download_music/2014/07/picca-na-vsju-planetu-zemlja.mp3", //24
+    "https://ru-d2.drivemusic.me/dl/1bX92GxgwADVhFzRueTDlg/1773878948/download_music/2016/05/monatik-kruzhit.mp3", //25
+    "https://track.pinkamuz.pro/download/3333b43034363132378a3731353332b63434b30400/74945f744f45be4629ce4a214667ed13/%D0%9E%D0%A1%D0%94%20%22%D0%93%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%22%20-%20%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%20%D0%BD%D0%B8%D1%82%D1%8C.mp3", //26
+    "https://muz.zvukofon.com/dl/282929431/DIGIMORTAL_-_Odin_(musportal.org).mp3", //27
+    "https://ruo.morsmusic.org/load/477922739/Oleg_Mityaev_-_Kak_zdorovo_(musmore.org).mp3", //28
+    "https://ru-d2.drivemusic.me/dl/Or1MhTBLo52RIGD-Rmdomg/1773879843/download_music/2016/07/skillet-i-want-to-live.mp3", //29
+    "https://ru-d2.drivemusic.me/dl/rV3znAMPlFdP6DLaOFhsLQ/1773879916/download_music/2020/04/macan-kino.mp3", //30
+    "https://muz.zvukofon.com/dl/1122368302/NANSI_SIDOROV_-_A_mozhet_da_a_mozhet_net_(musportal.org).mp3", //31
 
 
     //august
