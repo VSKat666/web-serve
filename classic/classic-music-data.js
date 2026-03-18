@@ -26,7 +26,7 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/63\/21\/63213aa845b7e5881de19dcbcdf6e528\/72195141\/Volfgang_Amadejj_Mocart_-_Requiem_in_D_Minor_K_626_Lacrimosa_b128f0d208.mp3",
 
     //релаксация
-    "https:\/\/rus.hitmotop.com\/get\/music\/20150904\/JE_Grig_-_Utro_Per_Gyunt_isp_LKO_28504737.mp3",
+    "https://track.pinkamuz.pro/download/d33534b33434373237368b3731353332b63434330200/92aba179e36dd2f32a50b7eb0250c681/%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4%20%D0%93%D1%80%D0%B8%D0%B3%20-%20%D0%A3%D1%82%D1%80%D0%BE.mp3",
     "https://track.pinkamuz.pro/download/33363434353735893731353332b63434360000/153dd564af1031368f250afc54a37786/%D0%94.%D0%A8%D0%BE%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%87%20-%20%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%81%20%D0%B8%D0%B7%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8%20%D0%BA%20%D0%BA%20%D1%84%20%D0%9E%D0%B2%D0%BE%D0%B4.mp3",
     "https://track.pinkamuz.pro/download/d3b5303431333437b28837363531b1343134340000/82495a6efd1ecfd482f3768a15690d81/8.17.%20%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9-%D0%9A%D0%BE%D1%80%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%9D.%D0%90.%20-%20%D1%81%D0%B8%D0%BC%D1%84%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%81%D1%8E%D0%B8%D1%82%D0%B0%20%D0%A8%D0%B5%D1%85%D0%B5%D1%80%D0%B0%D0%B7%D0%B0%D0%B4%D0%B0%2C%20%D1%87.1.mp3",
     "https:\/\/rus.hitmotop.com\/get\/music\/20200902\/S_Rakhmaninov_-_romans_Siren_70793767.mp3",
