@@ -290,26 +290,26 @@ const tracks = [
     "https://ru-d2.drivemusic.me/dl/zkhyt7b4uP2xuIgz-c_syw/1773281290/download_music/2014/02/linkin-park-numb.mp3", //8
     "https://ruo.morsmusic.org/load/1977852115/Stigmata_-_Sentyabr_(musmore.org).mp3", //9
     "https://ru-d2.drivemusic.me/dl/8iJGmV28KDB3EXzy1K9z9Q/1773281670/download_music/2020/10/nirvana-smells-like-teen-spirit.mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/music\/20240210\/ONE_OK_ROCK_-_Cry_Out_77422524.mp3", //11
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a9\/ca\/a9caa18078230d44384e0f8de344ca2d\/74741375\/lampabikt_JElli_na_makovom_pole_-_nemereno_b128f0d205.mp3", //12
+    "https://ru-cdn2.drivemusic.me/dl/online/ZN-oQM_WqwVbvmQ2_gLpQA/1773946948/download_music/2022/09/one-ok-rock-cry-out.mp3", //11
+    "https://muz.zvukofon.com/dl/336997026/lampabikt_JElli_na_makovom_pole_-_nemereno_(musportal.org).mp3", //12
     "https://track.pinkamuz.pro/download/333335303035b33034893731353332b63430360300/e2346fec751abb26161548567ba36a8a/%D0%93%D0%B8%D0%BC%D0%BD%20-%20%D0%9D%D0%B0%D1%88%20%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA.mp3", //13
     "https://ru-d1.drivemusic.me/dl/ptW8bhLypeRkKP66lcc_Cw/1773279819/download_music/2014/09/fall-out-boy-centuries.mp3", //14
     "https://ruo.morsmusic.org/load/332912417/Alan_Walker_-_Spectre_(musmore.org).mp3", //15
     "https://ru-d3.drivemusic.me/dl/ny2xDn__QKpSVhQJXtTqFw/1773280453/download_music/2022/09/one-ok-rock-taking-off.mp3", //16
     "https://ru-d3.drivemusic.me/dl/qW8WmiY9qpJuNAK-amEbbA/1773280526/download_music/2024/05/chernyjj-obelisk-osen.mp3", //17
     "https://ruo.morsmusic.org/load/472779114/aljona_shvec_-_v_kabinete_u_direktora_(musmore.org).mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/2a\/9e\/2a9e9f9bb80a899e2281b192ac4f1945\/47828894\/Viktor_Cojj_-_Pachka_sigaret_b128f0d268.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/9d\/c5\/9dc5fbbc34bf6be58bffa0062db07e77\/66751495\/Zivert_-_Credo_b128f0d184.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/61\/d8\/61d8f95b662275bef3de23e68c6996ca\/74898613\/Kenji_Younezus_Chainsaw_Man_OP_-_KICKBACK_CHelovek-benzopila_opening_b128f0d194.mp3", //21
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/93\/2c\/932c82e4bce376305e5a11c60d8cafce\/48872026\/IOWA_-_Plokho_tancevat_b128f0d203.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/0e\/4e\/0e4e338aaf7f84c8f6f7e647fe2ea3e1\/64576013\/Set_It_Off_Ash_Costello_-_Partners_in_Crime_Ash_Costello_b128f0d211.mp3", //23
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/15\/06\/15061e386d2a8a1e3892dc40403a1334\/47829460\/Nirvana_-_Something_In_The_Way_b128f0d232.mp3", //24
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d7\/fe\/d7feb8ac013e57c35cda435355d1add5\/60046523\/ONE_OK_ROCK_-_Memories_b128f0d200.mp3", //25
-    "https:\/\/rus.hitmotop.com\/get\/music\/20220501\/pesnya_-_A_na_kukhne_sup_mojj_stynet_v_golove_odno_ya_tebya_lyublyu_74169951.mp3", //26
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/23\/ec\/23ec0831f2eeee9d163e3e96bbfd3682\/47950197\/DDT_-_CHto_takoe_osen_b128f0d297.mp3", //27
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/79\/31\/7931af7e6bc52bbaa7296f7aa16c7e3d\/56774126\/Starset_-_My_Demons_b128f0d288.mp3", //28
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/52\/e7\/52e7cdce37eb6a3b563f15522cac5d50\/47828842\/Kino_-_Zvezda_po_imeni_Solnce_b128f0d226.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/4f\/39\/4f3977acb64190a5e054d7571b0d9413\/74273756\/The_Rare_Occasions_-_Notion_b128f0d195.mp3", //30
+    "https://ru-cdn3.drivemusic.me/dl/online/x63ChDJxxuPZaqYQIyI5Lw/1773947092/download_music/2013/01/kino-pachka-sigaret.mp3", //19
+    "https://ru-cdn1.drivemusic.me/dl/online/ciRd66TW9De5v4AGFgZN7Q/1773947131/download_music/2019/09/zivert-credo.mp3", //20
+    "https://muz.zvukofon.com/dl/1059509160/128/Kenji_Younezus_Chainsaw_Man_OP_-_KICKBACK_CHelovek-benzopila_opening_(muz.zvukofon.com).mp3", //21
+    "https://ru-cdn2.drivemusic.me/dl/online/Y-xjs6S5GoAuqUbIwh-bSw/1773947282/download_music/2017/09/iowa-plokho-tancevat.mp3", //22
+    "https://ruo.morsmusic.org/load/972732411/Set_It_Off_Ash_Costello_-_Partners_in_Crime_Ash_Costello_(musmore.org).mp3", //23
+    "https://ru-cdn1.drivemusic.me/dl/online/1KD8k1u5LTsVat8GGD1bUA/1773947461/download_music/2022/09/nirvana-something-in-the-way.mp3", //24
+    "https://ru-cdn3.drivemusic.me/dl/online/hiFDaXlWWjyECL1rMsaq5Q/1773947518/download_music/2022/09/one-ok-rock-memories.mp3", //25
+    "https://ruo.morsmusic.org/load/844483432/Gde_antom_-_YA_tebya_lyublyu_(musmore.org).mp3", //26
+    "https://ru-cdn3.drivemusic.me/dl/online/3oRN2w2TcH0_vpDPGMQq_Q/1773947691/download_music/2023/05/ddt-chto-takoe-osen.mp3", //27
+    "https://ruo.morsmusic.org/load/1969781512/Starset_-_My_Demons_(musmore.org).mp3", //28
+    "https://ru-cdn3.drivemusic.me/dl/online/w4xT6-OA6uZuWqQhiS9siQ/1773947786/download_music/2015/10/viktor-cojj-zvezda-po-imeni-solnce.mp3", //29
+    "https://ruo.morsmusic.org/load/92610170/The_Rare_Occasions_-_Notion_(musmore.org).mp3", //30
 
 
     //october
