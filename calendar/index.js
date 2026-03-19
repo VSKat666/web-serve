@@ -81,10 +81,10 @@ const tracks = [
     "https://ruo.morsmusic.org/load/1166341245/Soltwine_-_Prishla_vesna_(musmore.org).mp3", //1
     "https://ru-d2.drivemusic.me/dl/uX967RQM2r1DLJmASmpMhw/1773369291/download_music/2025/01/undervud-konstantin-khabenskijj-polnochnyjj-trollejjbus.mp3", //2
     "https://ruo.morsmusic.org/load/1232228770/TryHardNinja_-_Its_Me_(musmore.org).mp3", //3
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ec\/e8\/ece8a8f01fddc3d10f81ab1bee3b54fe\/71849100\/aljona_shvec_-_pervoe_svidanie_b128f0d152.mp3", //4
-    "https:\/\/rus.hitmotop.com\/get\/music\/20221129\/Bambee_-_Bumble_Bee_75179717.mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250921\/Tanin_Jazz_-_Virtualnaya_lyubov_79817779.mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/2b\/11\/2b11e4f16beeb0de7564f7df58133a12\/48113982\/Lyudvig_van_Betkhoven_-_Lunnaya_sonata_b128f0d331.mp3", //7
+    "https://ru-cdn3.drivemusic.me/dl/online/truga-Ds4i6a4sXWd4gaSQ/1773948010/download_music/2020/12/aljona-shvec-pervoe-svidanie.mp3", //4
+    "https://ru-cdn3.drivemusic.me/dl/online/23hdsPgSaH3oljZZOv3ltg/1773948062/download_music/2024/05/bambee-bumble-bee.mp3", //5
+    "https://track.pinkamuz.pro/download/33313731b1b43434b68837313533353433b5300700/87af0cfe2014e7654d29cd7f3069c135/Tanin%20Jazz%20-%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C.mp3", //6
+    "https://ru-cdn1.drivemusic.me/dl/online/ifM9oPUB8ENJBJwkDIYbiw/1773948274/download_music/2015/06/betkhoven-lunnaja-sonata.mp3", //7
     "https://track.pinkamuz.pro/download/333232b5b434b13432883731353332b63430320200/87b067625367737f612a337ab508eefa/Jazzdauren%20-%20%D0%94%D0%B0%D1%80%D0%B8%D1%82%D0%B5%20%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0%D0%BC%20%D1%86%D0%B2%D0%B5%D1%82%D1%8B%20%28%D0%A6%D0%B2%D0%B5%D1%82%D1%8B%29%20%D0%91%D0%B5%D0%B7%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D1%8B.mp3", //8
     "https:\/\/rus.hitmotop.com\/get\/cuts\/9d\/6f\/9d6fb23d6e52d2bfdb575f023f37b4b8\/47880782\/STIGMATA_-_Cunami_b128f0d253.mp3", //9
     "https:\/\/rus.hitmotop.com\/get\/cuts\/3e\/66\/3e66a152cf9e6e210bc0b71cb7c8d18c\/65356641\/Ljosha_Svik_-_Luna_b128f0d276.mp3", //10
