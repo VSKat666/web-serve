@@ -323,7 +323,7 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/cuts\/7b\/33\/7b33e100a12afbc22a5d70d8bdb93457\/47960474\/Little_Big_-_Life_in_da_Trash_b128f0d201.mp3", //8
     "https:\/\/rus.hitmotop.com\/get\/cuts\/80\/a5\/80a5f47249bda01884587dcdb578e16f\/80032558\/Hazbin_Hotel_-_Gravity_b128f0d113.mp3", //9
     "https://ruo.morsmusic.org/load/1279063440/ZHuki_-_Batarejjka_(musmore.org).mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/music\/20241012\/Poshlaya_Molli_-_Proklya_Tabyla_78318329.mp3", //11
+    "https://ruo.morsmusic.org/load/980389252/Poshlaya_Molli_-_Proklya_Tabyla_(musmore.org).mp3", //11
     "https://track.pinkamuz.pro/download/33313731b1b434343688373135333131b2b4300500/6106d2b7e4a934855f9de25056967437/%D0%90%D0%91%D0%95%D0%A0%D0%A0%D0%9E%D0%9D%20-%20%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B8%D1%85%20%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D0%BE%D0%B2.mp3", //12
     "https:\/\/rus.hitmotop.com\/get\/cuts\/8f\/f4\/8ff41964c6d0020d08f68be3ae705faa\/72140963\/Dima_Bilan_-_Pro_belye_rozy_b128f0d218.mp3", //13
     "https:\/\/rus.hitmotop.com\/get\/cuts\/18\/56\/1856c28c2bd1ef79529428877c74671a\/618222113\/Set_It_Off_-_Dancing_With_The_Devil_b128f0d203.mp3", //14
@@ -331,18 +331,18 @@ const tracks = [
     "https:\/\/rus.hitmotop.com\/get\/music\/20170904\/TryHardNinja_-_Follow_Me_48148823.mp3", //16
     "https:\/\/rus.hitmotop.com\/get\/cuts\/6d\/41\/6d41fc45cbc20b8cf2cd361b938ab80b\/72852279\/Soltwine_-_Stav_chajjnik_b128f0d160.mp3", //17
     "https:\/\/rus.hitmotop.com\/get\/music\/20240407\/Ivasi_-_Akh_vremya_vremya_77699009.mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f4\/c2\/f4c2cf0ecba88f012ad0f3842bf94a83\/47958455\/Linkin_Park_-_Lost_In_The_Echo_b128f0d205.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/2d\/c0\/2dc02169bca7262349bffbd0edea1603\/66728789\/girl_in_red_-_we_fell_in_love_in_october_b128f0d184.mp3", //20
+    "https://ru-d2.drivemusic.me/dl/21faik5sUE4XIHyBWnrtNA/1773939845/download_music/2016/02/linkin-park-lost-in-the-echo.mp3", //19
+    "https://ruo.morsmusic.org/load/428953406/girl_in_red_-_we_fell_in_love_in_october_(musmore.org).mp3", //20
     "https:\/\/rus.hitmotop.com\/get\/cuts\/15\/c8\/15c8b974b0b92256f7d6859459eb161d\/48247925\/Picca_-_Romans_b128f0d233.mp3", //21
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f1\/b6\/f1b601ece34af7d6cfdd35b18ed406eb\/47828874\/Linkin_Park_-_In_The_End_b128f0d219.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/86\/03\/86035bb4642ab78129af18698118f8f1\/73131793\/Stray_Kids_-_Red_Lights_Bang_Chan_Hyunjin_b128f0d190.mp3", //23
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250903\/Tally_Hall_-_The_Bidding_79650988.mp3", //24
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/31\/5a\/315ad8fabb63c2e0288a9fcc62aebd2e\/57679169\/Alec_Benjamin_-_Let_Me_Down_Slowly_b128f0d169.mp3", //25
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/15\/b6\/15b6ecd84f717dad0bc859f8be662532\/62741962\/Nervy_-_Stanciya_tuman_b128f0d221.mp3", //26
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5f\/c4\/5fc4011068cb9da4ed56562cfd69a74b\/64616399\/Bi-2_Agata_Kristi_i_Lyumen_-_A_my_ne_angely_paren_b128f0d193.mp3", //27
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/66\/02\/66025bb8f4da66774d4f8e773185134d\/59254910\/Starset_-_Monster_b128f0d256.mp3", //28
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ea\/f1\/eaf126913b2aaa6f973c305ffba1d914\/47828783\/Imagine_Dragons_-_Radioactive_b128f0d188.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/1e\/98\/1e986c03dbc85fd478272b5815d207f0\/78204838\/Poshlaya_Molli_-_Adskaya_kolybelnaya_b128f0d178.mp3", //30
+    "https://ru-d3.drivemusic.me/dl/nEKHNUamhKbN-MgfXw--Sw/1773940013/download_music/2014/07/linkin-park-in-the-end.mp3", //22
+    "https://ruo.morsmusic.org/load/736486025/Stray_Kids_-_Red_Lights_Bang_Chan_Hyunjin_(musmore.org).mp3", //23
+    "https://ruo.morsmusic.org/load/1397336909/Tally_Hall_-_The_Bidding_(musmore.org).mp3", //24
+    "https://ru-d2.drivemusic.me/dl/JtXNwf9_QDRRtjP4d2AqBw/1773940282/download_music/2018/06/alec-benjamin-let-me-down-slowly.mp3", //25
+    "https://muz.zvukofon.com/dl/1043701237/Nervy_-_Stanciya_tuman_(musportal.org).mp3", //26
+    "https://muz.zvukofon.com/dl/1891246893/Bi2_-_A_my_ne_angely_paren_(musportal.org).mp3", //27
+    "https://ru-d2.drivemusic.me/dl/5suiP5qVYmDousHBid0lyw/1773940573/download_music/2022/09/starset-monster.mp3", //28
+    "https://ruo.morsmusic.org/load/2022281566/Imagine_Dragons_-_Radioactive_(musmore.org).mp3", //29
+    "https://ru-cdn1.drivemusic.me/dl/online/E4VvVLlqsS3gkHtqz-l6Dg/1773940721/download_music/2024/09/poshlaja-molli-adskaja-kolybelnaja.mp3", //30
     "https:\/\/rus.hitmotop.com\/get\/music\/20190316\/ELP_Musorgskijj_Kartinki_s_vystavki_Emerson_Lake_Palmer_-_Baba_YAga_62821906.mp3", //31
 
 
