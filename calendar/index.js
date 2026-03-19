@@ -86,16 +86,16 @@ const tracks = [
     "https://track.pinkamuz.pro/download/33313731b1b43434b68837313533353433b5300700/87af0cfe2014e7654d29cd7f3069c135/Tanin%20Jazz%20-%20%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C.mp3", //6
     "https://ru-cdn1.drivemusic.me/dl/online/ifM9oPUB8ENJBJwkDIYbiw/1773948274/download_music/2015/06/betkhoven-lunnaja-sonata.mp3", //7
     "https://track.pinkamuz.pro/download/333232b5b434b13432883731353332b63430320200/87b067625367737f612a337ab508eefa/Jazzdauren%20-%20%D0%94%D0%B0%D1%80%D0%B8%D1%82%D0%B5%20%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0%D0%BC%20%D1%86%D0%B2%D0%B5%D1%82%D1%8B%20%28%D0%A6%D0%B2%D0%B5%D1%82%D1%8B%29%20%D0%91%D0%B5%D0%B7%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%B8%20%D0%B1%D0%B5%D0%B7%20%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D1%8B.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/9d\/6f\/9d6fb23d6e52d2bfdb575f023f37b4b8\/47880782\/STIGMATA_-_Cunami_b128f0d253.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/3e\/66\/3e66a152cf9e6e210bc0b71cb7c8d18c\/65356641\/Ljosha_Svik_-_Luna_b128f0d276.mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/25\/d5\/25d5041be6e67b452c8129c464497335\/73949726\/Imagine_Dragons_-_Bones_b128f0d165.mp3", //11
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/7d\/21\/7d21c4643b08c4b8f30f10c555354ce4\/72848717\/Poshlaya_Molli_-_Kontrakt_b128f0d205.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/1f\/54\/1f5447dd17ca7ba48af0e7e829bef9ec\/73273874\/Starset_-_DREAMCATCHER_b128f0d293.mp3", //13
-    "https:\/\/rus.hitmotop.com\/get\/music\/20241102\/Gym_Class_Heroesl_-_Stereo_Hearts_speed_up_78451273.mp3", //14
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/eb\/dc\/ebdc9527c3e34ce1381ebd99febd9591\/59223269\/GAYAZOV_BROTHER_-_Kredo_b128f0d202.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/0c\/f8\/0cf8fe3105fdc1873b9dd87a860f37a4\/65505752\/Egor_Krid_-_Serdceedka_b128f0d185.mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/music\/20170904\/LOrchestra_Cinematique_-_Test_Drive_From_How_to_Train_Your_Dragon_48146923.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a7\/1b\/a71b68b83cb4dbbd841f3e1abdf24d6b\/55527255\/Kino_-_KHochu_peremen_b128f0d295.mp3", //18
+    "https://ru-cdn1.drivemusic.me/dl/online/mbqtdOnxMKcHxfxIaM7MAQ/1773948397/download_music/2022/09/stigmata-cunami.mp3", //9
+    "https://ruo.morsmusic.org/load/1780962227/Ljosha_Svik_-_Luna_(musmore.org).mp3", //10
+    "https://ru-cdn2.drivemusic.me/dl/online/iWwiP-gU8qPX-ElZ7yeDhA/1773948651/download_music/2022/03/imagine-dragons-bones.mp3", //11
+    "https://ru-cdn3.drivemusic.me/dl/online/Hl8-zwGcKVs1czvboKap5Q/1773948686/download_music/2024/05/poshlaja-molli-kontrakt.mp3", //12
+    "https://muz.zvukofon.com/dl/1663839917/Starset_-_DREAMCATCHER_(musportal.org).mp3", //13
+    "https://track.pinkamuz.pro/download/33313332333730b434883731353332353636350600/fc1882ad82f27d57d9fcd05aee226917/Gym%20Class%20Heroesl%20-%20Stereo%20Hearts..%20speed%20up.mp3", //14
+    "https://ruo.morsmusic.org/load/1694750237/GAYAZOV_BROTHER_-_Kredo_(musmore.org).mp3", //15
+    "https://muz.zvukofon.com/dl/1115861547/Egor_Krid_-_Serdceedka_(musportal.org).mp3", //16
+    "https://ruo.morsmusic.org/load/1128406125/LOrchestra_Cinematique_-_Test_Drive_From_How_to_Train_Your_Dragon_(musmore.org).mp3", //17
+    "https://ruo.morsmusic.org/load/1116628341/KINO_-_Peremen_(musmore.org).mp3", //18
     "https:\/\/rus.hitmotop.com\/get\/cuts\/d9\/3c\/d93c6e9067b9c1a0eb2e19e6d0c2e985\/72864238\/Mneskin_-_I_WANNA_BE_YOUR_SLAVE_b128f0d173.mp3", //19
     "https:\/\/rus.hitmotop.com\/get\/cuts\/16\/84\/16847098340b728dc3d47e9d6c626ae7\/47835736\/JOlka_-_Provans_b128f0d206.mp3", //20
     "https:\/\/rus.hitmotop.com\/get\/cuts\/c8\/84\/c884856e218cd424d62bc4c07de32b3d\/47828871\/Linkin_Park_-_Crawling_b128f0d210.mp3", //21
