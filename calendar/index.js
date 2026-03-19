@@ -389,18 +389,18 @@ const tracks = [
     "https://track.pinkamuz.pro/download/33313731b1b434b2308c3731353333343635b20400/bb99384460c00d9634e95d1b46e7395a/%D0%90%D0%94%D0%9B%D0%98%D0%9D%20-%20Dead%20Inside.mp3", //7
     "https://track.pinkamuz.pro/download/3332b33435b23032368e373135333231b1b4300000/b89dcf13d771f11c4b84809b62a25d5a/%D0%91%D0%B0%D0%BB%D0%BA%D0%BE%D0%BD%20-%20%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D1%8B.mp3", //8
     "https://track.pinkamuz.pro/download/3336373437313531318b3731353331323036370600/e3edf5748b8d1a3e0ced08b73e308407/STARSET%20-%20Unbecoming.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f4\/ef\/f4ef75d1fd281df5c25604c39ba9fa76\/79379955\/Sergejj_Lazarev_-_JEto_vsjo_ona_b128f0d226.mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/84\/8c\/848c61d1b75001aafe7cd6f35ffed299\/48143728\/Monster_High_-_Monster_High_Fright_Song_b128f0d169.mp3", //11
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f2\/6a\/f26ab5364db41de7fbf3ec9988f3b44e\/73067118\/DIGIMORTAL_-_Gravitaciya_b128f0d262.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/2c\/8c\/2c8cfe0d3e5b454ca8f00dfd35dfcf11\/66563247\/Starset_-_TELEKINETIC_b128f0d313.mp3", //13
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/bc\/4e\/bc4ee310a7987c46aa7fc71af944cdac\/68744504\/Surf_Curse_-_Freaks_b128f0d147.mp3", //14
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f5\/dd\/f5dd1b7c3d8fe759d55e1d33049d23ac\/54769016\/Consoul_Trainin_Consoul_Trainin_feat_Steven_Aderinto_DuoViolins_S_-_Obsession_b128f0d182.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/29\/45\/2945fdb931b2568d4a0b9129bd2c177d\/57632352\/Valerijj_Meladze_-_Inostranec_b128f0d246.mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/07\/e7\/07e78a5c33915deff88a02ff38eef96b\/48615091\/Nervy_-_Kofe_mojj_drug_b128f0d187.mp3", //17
+    "https://ruo.morsmusic.org/load/992685281/Sergejj_Lazarev_-_JEto_vsjo_ona_(musmore.org).mp3", //10
+    "https://ruo.morsmusic.org/load/855020461/Monster_High_-_Monster_High_Fright_Song_(musmore.org).mp3", //11
+    "https://muz.zvukofon.com//dl/1180525265/DIGIMORTAL_-_Gravitaciya_(musportal.org).mp3", //12
+    "https://ru-cdn3.drivemusic.me/dl/online/jetzyLAia4zJoev-5nuadA/1773944842/download_music/2022/09/starset-telekinetic.mp3", //13
+    "https://ruo.morsmusic.org/load/765168365/Surf_Curse_-_Freaks_(musmore.org).mp3", //14
+    "https://ruo.morsmusic.org/load/2117545614/Consoul_Trainin_DuoViolins_Steven_Aderinto_-_Obsession_(musmore.org).mp3", //15
+    "https://ru-cdn2.drivemusic.me/dl/online/G47Rq1S3IPuurO8Rh4lo5A/1773945036/download_music/2012/12/valerijj-meladze-inostranec.mp3", //16
+    "https://ruo.morsmusic.org/load/597476907/Nervy_-_Kofe_mojj_drug_(musmore.org).mp3", //17
     "https://track.pinkamuz.pro/download/3335b534b43035b3348c3731353332313134b30400/3995d594f8285fed380e6bbe529328f5/G3OX%20EM%20-%20GIGACHAD%20THEME.mp3", //18
     "https://track.pinkamuz.pro/download/33313731b1b43436308937313533b7b03434b50400/b10ae85bdb2ca20d4dabf963d6154264/nyan.mp3%20-%20%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83%20%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B0%D0%BC%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D1%8B%20%D0%BD%D0%B5%20%D0%BD%D1%80%D0%B0%D0%B2%D1%8F%D1%82%D1%81%D1%8F.mp3", //19
     "https://track.pinkamuz.pro/download/33313731b1b43432318f37313533353436b6300200/6e881f3f3dd3ff6f9f84af7c77f2aa27/Soltwine%20-%20%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B5%20%D1%81%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5%20%D1%87%D0%B8%D1%81%D1%82%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/73\/3e\/733e389b5058b25ad4c687a15930cecf\/66793065\/Ssshhhiiittt_-_Tancy_b128f0d175.mp3",
+    "https://ruo.morsmusic.org/load/1972320346/ssshhhiiittt_-_Tancy_(musmore.org).mp3",
     "https://ru-d3.drivemusic.me/dl/2cRUvMSFI7YQZUwDcKmpcA/1773208476/download_music/2022/09/one-ok-rock-fight-the-night.mp3", //22
     "https://ru-d3.drivemusic.me/dl/CjIabuuNuvBjpptSdstc3Q/1773179237/download_music/2017/06/imagine-dragons-rise-up.mp3", //23
     "https://track.pinkamuz.pro/download/33313731b1b43436328a373135b334b03035300600/aa768f41496fd92cb1c9d09e5d6c931b/STIGMATA%20-%20%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D1%8B.mp3", //24
