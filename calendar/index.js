@@ -313,24 +313,24 @@ const tracks = [
 
 
     //october
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/40\/dd\/40ddd44684a77f7852ee8b94ffb96634\/62445563\/Nervy_-_Zazhigalki_b128f0d179.mp3", //1
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/56\/e1\/56e1a571c7baca0e19399cfa7ceca4bc\/68398361\/Dajjte_tank_-_Lyudi_b128f0d162.mp3", //2
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/98\/b3\/98b31439c23421b5400b3a4cff1a4e8e\/50498861\/Stigmata_-_Na_povtor_b128f0d193.mp3", //3
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/46\/dc\/46dc9fca72b21570d7d19b60414c9f55\/48804627\/Oleg_Mityaev_-_rancuzhenka_b128f0d192.mp3", //4
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/47\/4d\/474d204801a20f26e8b5c4f0acb4b243\/62570559\/Korol_i_SHut_-_Vedma_i_Osel_b128f0d178.mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/music\/20190509\/Groundbreaking_-_The_Foxy_Song_64060913.mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5c\/42\/5c42f3cd8b005edb1d2f19e306a61367\/64714984\/Dajjte_tank_-_Malenkijj_b128f0d245.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/7b\/33\/7b33e100a12afbc22a5d70d8bdb93457\/47960474\/Little_Big_-_Life_in_da_Trash_b128f0d201.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/80\/a5\/80a5f47249bda01884587dcdb578e16f\/80032558\/Hazbin_Hotel_-_Gravity_b128f0d113.mp3", //9
+    "https://ru-cdn3.drivemusic.me/dl/online/yOahJxQ5hGGPeAbgeKrDUQ/1773941027/download_music/2023/08/nervy-zazhigalki.mp3", //1
+    "https://ruo.morsmusic.org/load/516023861/Dajjte_tank_-_Lyudi_(musmore.org).mp3", //2
+    "https://ru-cdn1.drivemusic.me/dl/online/CEmEGBsShcLg5Admo90kqQ/1773941128/download_music/2022/09/stigmata-na-povtor.mp3", //3
+    "https://ru-cdn2.drivemusic.me/dl/online/LKDYTWvM3lCqFBt5osrVGA/1773941166/download_music/2021/08/oleg-mitjaev-francuzhenka.mp3", //4
+    "https://ru-cdn1.drivemusic.me/dl/online/eUetsmeV51i4QtJxIZtlBg/1773941218/download_music/2024/08/korol-i-shut-vedma-i-osel.mp3", //5
+    "https://muz.zvukofon.com/dl/1471255645/Groundbreaking_-_The_Foxy_Song_(musportal.org).mp3", //6
+    "https://ruo.morsmusic.org/load/1366902076/Dajjte_tank_-_Malenkijj_(musmore.org).mp3", //7
+    "https://ruo.morsmusic.org/load/290500057/Little_Big_-_Life_in_da_Trash_(musmore.org).mp3", //8
+    "https://muz.zvukofon.com/dl/325825173/Hazbin_Hotel_-_Gravity_(musportal.org).mp3", //9
     "https://ruo.morsmusic.org/load/1279063440/ZHuki_-_Batarejjka_(musmore.org).mp3", //10
     "https://ruo.morsmusic.org/load/980389252/Poshlaya_Molli_-_Proklya_Tabyla_(musmore.org).mp3", //11
     "https://track.pinkamuz.pro/download/33313731b1b434343688373135333131b2b4300500/6106d2b7e4a934855f9de25056967437/%D0%90%D0%91%D0%95%D0%A0%D0%A0%D0%9E%D0%9D%20-%20%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B8%D1%85%20%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D0%BE%D0%B2.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/8f\/f4\/8ff41964c6d0020d08f68be3ae705faa\/72140963\/Dima_Bilan_-_Pro_belye_rozy_b128f0d218.mp3", //13
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/18\/56\/1856c28c2bd1ef79529428877c74671a\/618222113\/Set_It_Off_-_Dancing_With_The_Devil_b128f0d203.mp3", //14
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/0f\/b4\/0fb4b5705c3f3b1eaae9606852204b48\/47880623\/STIGMATA_-_Radio_smert_b128f0d297.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/music\/20170904\/TryHardNinja_-_Follow_Me_48148823.mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/6d\/41\/6d41fc45cbc20b8cf2cd361b938ab80b\/72852279\/Soltwine_-_Stav_chajjnik_b128f0d160.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/music\/20240407\/Ivasi_-_Akh_vremya_vremya_77699009.mp3", //18
+    "https://ru-cdn1.drivemusic.me/dl/online/x5MEv-MP0rw2-dPl-MQoow/1773941544/download_music/2019/05/dima-bilan-pro-belye-rozy.mp3", //13
+    "https://ru-cdn3.drivemusic.me/dl/online/J64cdvEOJVuFmamgGvRKxA/1773941589/download_music/2018/12/set-it-off-dancing-with-the-devil.mp3", //14
+    "https://ru-cdn2.drivemusic.me/dl/online/jSMtcAOKgmnh4I89MAGVDw/1773941651/download_music/2022/09/stigmata-radio-smert.mp3", //15
+    "https://ruo.morsmusic.org/load/408787623/TryHardNinja_-_Follow_Me_(musmore.org).mp3", //16
+    "https://ruo.morsmusic.org/load/1338576623/Soltwine_-_Stav_chajjnik_(musmore.org).mp3", //17
+    "https://muz.zvukofon.com/dl/522711906/Ivasi_-_Akh_Vremya_Vremya_(musportal.org).mp3", //18
     "https://ru-d2.drivemusic.me/dl/21faik5sUE4XIHyBWnrtNA/1773939845/download_music/2016/02/linkin-park-lost-in-the-echo.mp3", //19
     "https://ruo.morsmusic.org/load/428953406/girl_in_red_-_we_fell_in_love_in_october_(musmore.org).mp3", //20
     "https:\/\/rus.hitmotop.com\/get\/cuts\/15\/c8\/15c8b974b0b92256f7d6859459eb161d\/48247925\/Picca_-_Romans_b128f0d233.mp3", //21
@@ -343,7 +343,7 @@ const tracks = [
     "https://ru-d2.drivemusic.me/dl/5suiP5qVYmDousHBid0lyw/1773940573/download_music/2022/09/starset-monster.mp3", //28
     "https://ruo.morsmusic.org/load/2022281566/Imagine_Dragons_-_Radioactive_(musmore.org).mp3", //29
     "https://ru-cdn1.drivemusic.me/dl/online/E4VvVLlqsS3gkHtqz-l6Dg/1773940721/download_music/2024/09/poshlaja-molli-adskaja-kolybelnaja.mp3", //30
-    "https:\/\/rus.hitmotop.com\/get\/music\/20190316\/ELP_Musorgskijj_Kartinki_s_vystavki_Emerson_Lake_Palmer_-_Baba_YAga_62821906.mp3", //31
+    "https://track.pinkamuz.pro/download/33b434303431368a373230b030323634330300/7a069e7b24fa7439156e23da39eebe80/%D0%9C%D1%83%D1%81%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%91%D0%B0%D0%B1%D0%B0%20-%20%D0%AF%D0%B3%D0%B0%28%20%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20%D1%81%20%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%29%D0%A0%D0%BE%D0%BA%20-%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.mp3", //31
 
 
     //november
@@ -357,26 +357,26 @@ const tracks = [
     "https://ru-d1.drivemusic.me/dl/tbRH4PQMqlXQ8t4trIpBfg/1773709947/download_music/2021/01/korol-i-shut-durak-i-molnija.mp3", //8
     "https://ru-d3.drivemusic.me/dl/v13YBdiGRRajMmOniqJMZA/1773709993/download_music/2018/11/dima-bilan-molnija.mp3", //9
     "https://rus.musrocket.net/load/1686846329/Stray_Kids_-_LALALALA_Rock_Ver_(musrocket.com).mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/b4\/f0\/b4f024690192816da6aef4d0f3cc00e4\/52465307\/Blestyashhie_-_A_ya_vsjo_letala_b128f0d235.mp3", //11
-    "https:\/\/rus.hitmotop.com\/get\/music\/20230514\/FNaF_2_-_The_Bonnie_Song_75972983.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/6f\/c0\/6fc05e4edfe9f151ca1703f8a88f76c3\/47885099\/Evanescence_-_Bring_Me_To_Life_b128f0d237.mp3", //13
-    "https:\/\/rus.hitmotop.com\/get\/music\/20240126\/MONATIK_-_Vtamn_D_77352155.mp3", //14
-    "https:\/\/rus.hitmotop.com\/get\/music\/20200404\/ONE_OK_ROCK_-_I_Was_King_e_69053151.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/3a\/0d\/3a0d147c1a802367929121fb2bc0e828\/28504714\/Alfred_Garrievich_SHnitke_-_Tango_v_sumasshedshem_dome_b128f0d175.mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f8\/9f\/f89fb7b0f81d7fba485b588f6d08b16b\/47829290\/Imagine_Dragons_-_Friction_b128f0d201.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/26\/aa\/26aa78ac87dfc7aa96dab6c685346e7a\/64644182\/ONE_OK_ROCK_-_Bedroom_Warfare_b128f0d202.mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/1a\/ea\/1aeacb74b8c47b330fb086da31c8018d\/67854314\/Sny_Salamandry_-_JEkzorcizm_b128f0d166.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/cf\/4d\/cf4d155d81698c2e050f4c02fa969278\/48275317\/Britney_Spears_william_-_Scream_Shout_b128f0d252.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/e5\/7e\/e57edd955432147fe21a0be05786ff7f\/47835236\/Vremya_i_Steklo_-_Kafel_b128f0d208.mp3", //21
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/55\/f9\/55f91e251ae567f636d0b58454d65c4a\/78625270\/EGOR_KRID_Basta_-_Zavtra_b128f0d197.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/c5\/c8\/c5c88df0c1b6877e4e204807929cada9\/50342105\/Stigmata_-_Protiv_pravil_b128f0d275.mp3", //23
-    "https:\/\/rus.hitmotop.com\/get\/music\/20240605\/NUEKI_TOLCHONOV_Ravens_Rock_-_SO_TIRED_ROCK_77921004.mp3", //24
-    "https:\/\/rus.hitmotop.com\/get\/music\/20220512\/scp_3008_-_Friday_theme_74230033.mp3", //25
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f8\/9e\/f89efc80dcccfa4aa12d71064191fb1d\/53184490\/Nautilus_Pompilius_-_Skovannye_odnojj_cepyu_b128f0d232.mp3", //26
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d8\/42\/d842d84f3a8ad6d0bda3b80fbf1c5951\/77596364\/ZHenya_Trofimov_Komnata_kultury_-_Poezda_b128f0d180.mp3", //27
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/67\/43\/6743b3b65a4a84909fe8d861f74b0623\/73780528\/The_Walters_-_I_Love_You_So_b128f0d160.mp3", //28
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/08\/29\/0829656c3083e253dbcdb8bf238e8310\/50342103\/Stigmata_-_Paraplany_b128f0d215.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/c4\/40\/c440c380429618861a6265351aa09dc5\/75704918\/Kravc_Gio_Pika_-_Gde_proshla_ty_b128f0d168.mp3", //30
+    "https://ru-cdn3.drivemusic.me/dl/online/l-SgeW0XDhllUGbqhFpm1A/1773942183/download_music/2016/04/blestjashhie-a-ja-vse-letala.mp3", //11
+    "https://muz.zvukofon.com/dl/1066488411/FNaF_2_-_The_Bonnie_Song_(musportal.org).mp3", //12
+    "https://ru-cdn1.drivemusic.me/dl/online/C8D1PWF2ytfk_X_SVz3Szw/1773942352/download_music/2012/10/evanescence-bring-me-to-life.mp3", //13
+    "https://ru-cdn1.drivemusic.me/dl/online/hmi5Ke_ryYI4DuIv-e4qaw/1773942397/download_music/2017/07/monatik-vitamin-d.mp3", //14
+    "https://ru-cdn3.drivemusic.me/dl/online/2JLGodl-Bs6Dvji7o_GK8w/1773942435/download_music/2022/09/one-ok-rock-i-was-king.mp3", //15
+    "https://track.pinkamuz.pro/download/3332303636b030b5883731353332b63431310100/0a539ab7fd071b38dbd4d706c3281ef9/%D0%A8%D0%BD%D0%B8%D1%82%D0%BA%D0%B5%20-%20%D0%A2%D0%B0%D0%BD%D0%B3%D0%BE%20%D0%B2%20%D1%81%D1%83%D0%BC%D0%B0%D1%81%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%BC%20%D0%B4%D0%BE%D0%BC%D0%B5%20%28%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%20%D0%B8%D0%B7%20%D1%87%D0%B0%D1%81%D1%82%D0%B8%20V.%20%D0%A0%D0%BE%D0%BD%D0%B4%D0%BE%20Concerto%20Grosso%20%E2%84%961%29.mp3", //16
+    "https://muz.zvukofon.com/dl/1624760310/Imagine_Dragons_-_friction_(musportal.org).mp3", //17
+    "https://ru-cdn1.drivemusic.me/dl/online/S8-7vmYIFDAsJt1I2q3w0g/1773942716/download_music/2022/09/one-ok-rock-bedroom-warfare.mp3", //18
+    "https://ru-cdn2.drivemusic.me/dl/online/N1hv6x78mZ8cx6mue9hVXQ/1773942824/download_music/2024/06/sny-salamandry-jekzorcizm.mp3", //19
+    "https://ruo.morsmusic.org/load/423322989/william_Britney_Spears_-_Scream_Shout_(musmore.org).mp3", //20
+    "https://ruo.morsmusic.org/load/2023493070/Vremya_i_Steklo_-_Kafel_(musmore.org).mp3", //21
+    "https://ruo.morsmusic.org/load/1179357860/EGOR_KRID_Basta_-_Zavtra_(musmore.org).mp3", //22
+    "https://ru-cdn3.drivemusic.me/dl/online/yFLOj1YbH7PoWeDEL_S0MA/1773943091/download_music/2022/09/stigmata-protiv-pravil.mp3", //23
+    "https://track.pinkamuz.pro/download/33b6303731313036348f3731353332313433320200/373a9fadc68b269f371f7c6cc4afa9df/NUEKI%2C%20TOLCHONOV%2C%20Ravens%20Rock%20-%20SO%20TIRED%20ROCK.mp3", //24
+    "https://track.pinkamuz.pro/download/b3303433373130b5348e3731353332b63430320000/da35fe7531214585fe17093deb587c41/Friday%20-%20Roblox%20SCP-3008.mp3", //25
+    "https://ru-cdn1.drivemusic.me/dl/online/1pAIQPg67y2iyBNrMANe7g/1773943459/download_music/2021/06/nautilus-pompilius-skovannye-odnojj-cepju.mp3", //26
+    "https://ruo.morsmusic.org/load/1152694470/ZHenya_Trofimov_Komnata_kultury_-_Poezda_(musmore.org).mp3", //27
+    "https://ruo.morsmusic.org/load/1075507704/The_Walters_-_I_Love_You_So_(musmore.org).mp3", //28
+    "https://ru-cdn2.drivemusic.me/dl/online/z8BWOp4TKb-BaZxGtX-qLw/1773943822/download_music/2022/09/stigmata-paraplany.mp3", //29
+    "https://ru-cdn2.drivemusic.me/dl/online/-WRg7ikMHSjsyfwUxgyKmw/1773943863/download_music/2023/05/kravc-feat.-gio-pika-gde-proshla-ty.mp3", //30
 
 
     //december
