@@ -252,31 +252,31 @@ const tracks = [
     "https://track.pinkamuz.pro/download/333335363236343333883731353332b63432330100/c1ecb950e65b5cf3ada1a711262695d7/C418%20-%20Sweden.mp3", //4
     "https://ruo.morsmusic.org/load/131701944/MakSim_-_Doroga_(musmore.org).mp3", //5
     "https://track.pinkamuz.pro/download/33b1b0303237333533883731353332b63430320700/a62e5842890abdde9e27877d30aa6156/DJ%20%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%20%D0%A0%D1%83%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE%20-%20%D0%AF%D0%B1%D0%BB%D0%BE%D1%87%D0%BA%D0%BE.mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/92\/ba\/92baa566221e2e1d56c011db151e9755\/63644711\/Mashina_vremeni_-_Ne_stoit_progibatsya_pod_izmenchivyjj_mir_b128f0d195.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250811\/The_Living_Tombstone_-_Five_Nights_at_Freddys_79393930.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/0a\/78\/0a78891e3fbb595abcdbb071f6dd283e\/64351533\/Hard_Bass_School_-_Nash_gimn_b128f0d216.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/df\/7c\/df7c8fb3e6468c461b48f317874b2bbe\/48057880\/IOWA_-_Ulybajjsya_b128f0d218.mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/music\/20190624\/KHLEB_-_JEba_Sanya_65198314.mp3", //11
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/2b\/8c\/2b8cb6adfb9f584c3369fe767c4f825c\/70693181\/Miyagi_JEndshpil_-_BadaBum_b128f0d229.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/1c\/8d\/1c8dace8988a359663ca91968cd0d9be\/76552149\/DaBro_-_Ty_znaesh_mam_b128f0d211.mp3", //13
-    "https:\/\/rus.hitmotop.com\/get\/music\/20170830\/Gradusy_-_Rezhisser_47837710.mp3", //14
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/b2\/9a\/b29a49104bcc148c60c1ccfbc92bd05a\/73174531\/Dabro_-_Uslyshit_ves_rajjon_b128f0d196.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5a\/c9\/5ac9baa7532c26dc623451aa8a3c1e92\/47846103\/Serebryanaya_svadba_-_YA_zhizn_lyublyu_b128f0d192.mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5e\/98\/5e987bb102b474767c3c4ca64cc2cda9\/48614937\/Skillet_-_The_Resistance_b128f0d232.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/9e\/6b\/9e6b6eb39949db2c0a394502238de983\/47837674\/tATu_-_All_The_Things_She_Said_b128f0d213.mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/19\/ca\/19ca6e620f7a5b6b785d71ff2925a59b\/55527268\/Kino_-_Spokojjnaya_noch_b128f0d384.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/59\/41\/594154b445b19734844149571d05e40a\/64510515\/Mozgi_-_Vertolet_b128f0d285.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/8a\/d2\/8ad273afbaf98f6b84dc1c770d33f8bd\/66242942\/5_Seconds_of_Summer_-_Teeth_b128f0d205.mp3", //21
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/8d\/f7\/8df75d17a57fea376e6ec99a314a4f4a\/47828996\/Maks_Korzh_-_JEndorfin_b128f0d268.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/music\/20230410\/Shadrow_-_Never_Be_Alone_75751101.mp3", //23
-    "https:\/\/rus.hitmotop.com\/get\/music\/20251119\/KENTUKKI_-_Zamigaet_svet_80267884.mp3", //24
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/9a\/a1\/9aa1370069c1ed667c4bf00f3344e608\/47958404\/Skillet_-_Forgiven_b128f0d218.mp3", //25
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/9c\/9f\/9c9ff8b9026bc9cbe89d03869bdce139\/36088651\/Bratya_Grimm_-_Kusturica_b128f0d174.mp3", //26
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5c\/6b\/5c6bcc5943d2f30e8b447ead07a1e780\/48162617\/Zveri_-_Do_skorojj_vstrechi_b128f0d255.mp3", //27
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/29\/c6\/29c6c8b80e7fcf60c7a68d331bde3ad7\/53300539\/Ruki_Vverkh_-_Kogda_my_byli_molodymi_b128f0d273.mp3", //28
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/1f\/e0\/1fe0a16fc1c8437339b2f548c11dacf6\/73793426\/EGOR_KRID_MakSim_-_Otpuskayu_b128f0d193.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5d\/41\/5d41caeab99ad0f9fea40f90736e733c\/72940130\/Lolita_-_Na_Titanike_b128f0d233.mp3", //30
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/0f\/fd\/0ffd267315f250e18d31be3694d299aa\/70723326\/Lalis_Dream_-_Poslednijj_den_leta_b128f0d152.mp3", //31
+    "https://ru-cdn3.drivemusic.me/dl/online/WlJe7ICdhK--UfBVzeZUpg/1773945407/download_music/2014/02/mashina-vremeni-odnazhdy-mir-prognjotsja-pod-nas.mp3", //7
+    "https://ruo.morsmusic.org/load/101674661/The_Living_Tombstone_-_Five_Nights_at_Freddys_(musmore.org).mp3", //8
+    "https://ruo.morsmusic.org/load/2111922235/Hard_Bass_School_-_Nash_gimn_(musmore.org).mp3", //9
+    "https://ru-cdn2.drivemusic.me/dl/online/vptvSujJO5oBoWyvh70lRA/1773945583/download_music/2024/09/iowa-ulybajjsja.mp3", //10
+    "https://ruo.morsmusic.org/load/140871630/KHLEB_-_JEba_(musmore.org).mp3", //11
+    "https://ruo.morsmusic.org/load/1997462734/Miyagi_JEndshpil_-_BadaBum_(musmore.org).mp3", //12
+    "https://ruo.morsmusic.org/load/444737456/Dabro_-_Ty_znaesh_mam_(musmore.org).mp3", //13
+    "https://ruo.morsmusic.org/load/1345317500/Gradusy_-_Rezhisser_(musmore.org).mp3", //14
+    "https://ru-cdn3.drivemusic.me/dl/online/ihY9_qpNh-r1mD1YrH2x8g/1773945843/download_music/2021/09/dabro-uslyshit-ves-rajjon.mp3", //15
+    "https://ruo.morsmusic.org/load/2110244394/Serebryanaya_svadba_-_YA_zhizn_lyublyu_(musmore.org).mp3", //16
+    "https://ru-cdn3.drivemusic.me/dl/online/O4Z7kviUcJaRabDkoNq9Jw/1773945930/download_music/2020/04/skillet-the-resistance.mp3", //17
+    "https://ruo.morsmusic.org/load/496790842/tATu_-_All_The_Things_She_Said_(musmore.org).mp3", //18
+    "https://ruo.morsmusic.org/load/177578957/KINO_-_Spokojjnaya_noch_(musmore.org).mp3", //19
+    "https://ru-cdn2.drivemusic.me/dl/online/58roAShxMxVjQSrtssKGMQ/1773946148/download_music/2015/07/mozgi-vertoljot.mp3", //20
+    "https://ruo.morsmusic.org/load/1087704775/5_Seconds_of_Summer_-_Teeth_(musmore.org).mp3", //21
+    "https://ru-cdn2.drivemusic.me/dl/online/N29TmMjszFs09-oJ8xlG1w/1773946255/download_music/2013/10/maks-korzh-jendorfin.mp3", //22
+    "https://ru-cdn1.drivemusic.me/dl/online/VWWBIJ5ngUCwoW_R-clF7A/1773946379/download_music/2025/02/shadrow-never-be-alone.mp3", //23
+    "https://ruo.morsmusic.org/load/1399035823/KENTUKKI_-_Zamigaet_svet_(musmore.org).mp3", //24
+    "https://ru-cdn1.drivemusic.me/dl/online/Q-Yn6w7Ph3azc53NpFxbeQ/1773946485/download_music/2020/05/skillet-forgiven.mp3", //25
+    "https://ru-cdn2.drivemusic.me/dl/online/YqkrhyvjS1jaN8A4IBMdOQ/1773946543/download_music/2025/01/bratja-grim-kusturica.mp3", //26
+    "https://ru-cdn1.drivemusic.me/dl/online/lDcJsw3OeIQqT1edaWgodA/1773946590/download_music/2013/12/zveri-do-skorojj-vstrechi.mp3", //27
+    "https://ru-cdn3.drivemusic.me/dl/online/mse5LaIX5LEmSSGmlU7jaw/1773946624/download_music/2016/10/ruki-vverkh-kogda-my-byli-molodymi.mp3", //28
+    "https://ruo.morsmusic.org/load/1768283864/EGOR_KRID_MakSim_-_Otpuskayu_(musmore.org).mp3", //29
+    "https://muz.zvukofon.com/dl/1513897053/Lolita_-_Na_Titanike_(musportal.org).mp3", //30
+    "https://muz.zvukofon.com/dl/912640708/LALIS_DREAM_-_Poslednijj_den_leta_razbitye_korabli_(musportal.org).mp3", //31
 
 
     //september
