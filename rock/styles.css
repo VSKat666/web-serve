@@ -170,7 +170,7 @@ footer {
     padding: 10px 0;
 }
 
-.footer-center {
+.footer-div-center {
     display: flex;
     align-items: center;
     justify-content: center;
