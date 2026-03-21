@@ -230,6 +230,12 @@ footer {
     }
 }
 
+@media (max-width: 450px) {
+    .footer-div-center {
+        flex-direction: column;
+    }
+}
+
 @media (max-width: 375px) {
     .main-menu {
         padding: 10px 35px;
@@ -245,9 +251,6 @@ footer {
     }
     .main-flex__div-div {
         font-size: 12px;
-    }
-    .footer-div-center {
-        flex-direction: column;
     }
 }
 
