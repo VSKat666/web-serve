@@ -316,24 +316,26 @@ footer p {
     .main-menu {
         padding: 15px 30px;
     }
-
     .button-form {
         top: 80px;
         right: 70px
     }
-
     section {
         margin-inline: 35px;
     }
-
+    section p {
+    font-size: 19px;
+    }
     footer {
         flex-direction: column;
     }
-    
 }
 
 @media (max-width: 375px) {
     section {
         margin-inline: 20px;
+    }
+    section p {
+    font-size: 18px;
     }
 }
