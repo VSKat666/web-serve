@@ -114,34 +114,34 @@ const tracks = [
     //april
     "https://muz.zvukofon.com/dl/1644689030/SHKEL_-_Kotiki_(musportal.org).mp3", //1
     "https://ru-cdn3.drivemusic.me/dl/online/WBKqqWyzVJNWsYyBz6UzfA/1774139932/download_music/2021/01/rammstein-engel.mp3", //2
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/cf\/48\/cf48a24efa5c3fb9124763d586579bd0\/47911858\/Alan_Walker_-_Faded_b128f0d212.mp3", //3
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/16\/35\/16350ecb5acfc23e6e8decb772e01e7b\/79522040\/Gradent_-_CHto_takoe_lyubov_b128f0d189.mp3", //4
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250828\/JubyPhonic_-_Miss_Wanna_Die_feat_Master_Andross_79585886.mp3", //5
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/73\/26\/7326326ec03f87f3b6d9b199ca3509b9\/74695225\/Merk_Kremont_DNCE_-_Hands_Up_b128f0d166.mp3", //6
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f1\/15\/f11502e5a5b4266a5bb1617c85b349ac\/47836281\/Picca_-_Oruzhie_b128f0d207.mp3", //7
-    "https:\/\/rus.hitmotop.com\/get\/music\/20220524\/barabariki_-_chto_takoe_dobrota_74332940.mp3", //8
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/16\/59\/1659fb21236bd0b3adfeada1d0fbf9c9\/47969689\/Bolshojj_detskijj_khor_CT_i_VR_Tanya_Melikhova_-_Krylatye_kacheli_b128f0d195.mp3", //9
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/b6\/1b\/b61b72a62655af6e84b4c478c39c038f\/47829688\/Zemfira_-_Romashki_b128f0d207.mp3", //10
-    "https:\/\/rus.hitmotop.com\/get\/music\/20250711\/THE_HATTERS_-_KHmuryjj_79280870.mp3", //11
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f9\/aa\/f9aa460add03d7fa63c22759fe41d11c\/62876990\/Ajjdamir_Mugu_-_CHernye_glaza_b128f0d269.mp3", //12
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/bb\/ee\/bbee204aa52377f566e6900ccb92cfe1\/80189806\/The_Living_Tombstone_-_Its_Been_So_Long_b128f0d174.mp3", //13
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/ca\/61\/ca61998c65735175bfffbf94d6912c50\/56774125\/Starset_-_It_Has_Begun_b128f0d317.mp3", //14
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/40\/fe\/40fe9bf1062a74e2303ada2393d42677\/48201167\/Lady_Gaga_-_Judas_b128f0d250.mp3", //15
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/b7\/43\/b74328006b3a4d2255210725b80eb809\/48614900\/Skillet_-_Feel_Invincible_b128f0d229.mp3", //16
-    "https:\/\/rus.hitmotop.com\/get\/music\/20231127\/Ryokuoushoku_Shakai_-_Hana_ni_Natte_-_Be_a_flower_76972325.mp3", //17
-    "https:\/\/rus.hitmotop.com\/get\/music\/20210728\/DIGIMORTAL_-_Digimortal_73067117.mp3", //18
+    "https://ruo.morsmusic.org/load/629909498/Alan_Walker_-_Faded_(musmore.org).mp3", //3
+    "https://ruo.morsmusic.org/load/1885153073/Gradent_-_CHto_takoe_lyubov_(musmore.org).mp3", //4
+    "https://muz.zvukofon.com/dl/424819937/JubyPhonic_-_Miss_Wanna_Die_feat_Master_Andross_(musportal.org).mp3", //5
+    "https://ru-cdn3.drivemusic.me/dl/online/on1LIsZNxRHMYN6bW7PdAg/1774140724/download_music/2018/04/merk-kremont-feat.-dnce-hands-up.mp3", //6
+    "https://ru-cdn3.drivemusic.me/dl/online/HYQNDomMAcA82bOezx3dNw/1774140763/download_music/2013/04/picca-oruzhie.mp3", //7
+    "https://track.pinkamuz.pro/download/b33432b6b0b03431893731353332b634b0300400/01d7030130a43d7aa77cba307ba95b1e/%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B8%D0%BA%D0%B8%20-%20%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D1%82%D0%B0%20%28%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%29.mp3", //8
+    "https://track.pinkamuz.pro/download/b3343233333331378a3731353332b6b430320100/464269ca175a25a5de77ff959eb0e8b2/%D0%A1%D0%A1%D0%A1%D0%A0%20-%20%D0%9A%D1%80%D1%8B%D0%BB%D0%B0%D1%82%D1%8B%D0%B5%20%D0%BA%D0%B0%D1%87%D0%B5%D0%BB%D0%B8.mp3", //9
+    "https://ruo.morsmusic.org/load/1419680626/Zemfira_-_Romashki_(musmore.org).mp3", //10
+    "https://ru-cdn3.drivemusic.me/dl/online/NVrIbQmtH_CEIniqkR5odg/1774141071/download_music/2025/04/the-hatters-khmuryjj.mp3", //11
+    "https://ruo.morsmusic.org/load/615197089/Ajjdamir_Mugu_-_CHjornye_glaza_(musmore.org).mp3", //12
+    "https://ruo.morsmusic.org/load/506718751/The_Living_Tombstone_-_Its_Been_So_Long_(musmore.org).mp3", //13
+    "https://track.pinkamuz.pro/download/33313731b1b434b2308c37313533b6b0b430340600/bd306bc2cbea08815f145b5aa50394af/STARSET%20-%20It%20Has%20Begun.mp3", //14
+    "https://ruo.morsmusic.org/load/1937173268/Lady_Gaga_-_Judas_(musmore.org).mp3", //15
+    "https://ru-cdn2.drivemusic.me/dl/online/rgcZBUnO-pk7hI3qU9IM5w/1774141601/download_music/2016/05/skillet-feel-invincible.mp3", //16
+    "https://track.pinkamuz.pro/download/3337333636363033338f3731353332b63432320000/b360478b7d0a1f1445108474944ee97e/%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A%20%28%D0%9C%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%20%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%86%D0%B5%D0%B2%D1%82%D0%B0%20%D0%BE%D0%BF%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%29%20-%20%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%20-%20Be%20a%20flower%20%28Kusuriya%20no%20Hitorigoto%20OPENING%29.mp3", //17
+    "https://muz.zvukofon.com/dl/2132626672/DIGIMORTAL_-_Digimortal_(musportal.org).mp3", //18
     "https://ru-d1.drivemusic.me/dl/d4c0OOQlbbSVQVlppnMREA/1770526009/download_music/2024/11/scally-milano-feat.-uglystephan-dajj-mne-shans.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a4\/30\/a43050846d79ae756a37b689daacbf9f\/55441014\/Khalid_Billie_Eilish_-_lovely_b128f0d200.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5e\/b2\/5eb209d370567e0c4e44f8a9aa1225aa\/72397875\/Nervy_-_Schaste_b128f0d196.mp3", //21
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/f1\/3b\/f13b8707a8ea1da23e10c93b67bec70f\/14089\/Myuzikl_-_Koroli_nochnojj_Verony_b128f0d188.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/35\/a3\/35a3adf25989e8ed2586476d56dc124a\/48058598\/Gradusy_-_KHochetsya_b128f0d180.mp3", //23
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/86\/6b\/866b31d1d0f317464dbd655078deac85\/55527311\/Kino_-_Ty_mog_by_b128f0d214.mp3", //24
+    "https://ru-cdn1.drivemusic.me/dl/online/vu0wj6FjLLnzF_1rfF8hsg/1774142142/download_music/2018/04/billie-eilish-feat.-khalid-lovely.mp3", //20
+    "https://ru-cdn2.drivemusic.me/dl/online/_VfwND2ICj-OsTNAtwmM8w/1774142245/download_music/2015/04/nervy-schaste.mp3", //21
+    "https://track.pinkamuz.pro/download/3334373333b0b034368f3731303137b13031310200/9b120c6bf2fac73f54b353f15c0b7b7e/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B8%20%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D1%8B%20-%20%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B8%20%D0%9D%D0%BE%D1%87%D0%BD%D0%BE%D0%B9%20%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D1%8B%20%D0%98%D0%B7%20%D0%A0%D0%BE%D0%BC%D0%B5%D0%BE%20%D0%98%20%D0%94%D0%B6%D1%83%D0%BB%D1%8C%D0%B5%D1%82%D1%82%D0%B0.mp3", //22
+    "https://ru-cdn1.drivemusic.me/dl/online/gukHp2TP9YLhnOqlr-4MsQ/1774142652/download_music/2016/06/gradusy-khochetsja.mp3", //23
+    "https://ru-cdn2.drivemusic.me/dl/online/sqYgZwr5j4Zs4Wdh_yGVTA/1774142700/download_music/2020/06/kino-ty-mog-by....mp3", //24
     "https://ru-cdn2.drivemusic.me/dl/online/Pjqi5TJgfvyzwqISWqexrw/1750396524/download_music/2025/04/soltwine-pesnja-pro-kota.mp3", //25
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a8\/34\/a834a811c73647698edf797ec35042f8\/73088438\/ENHYPEN_-_Drunk-Dazed_b128f0d193.mp3", //26
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/eb\/c2\/ebc2b692d8a6db0bd0daae4205a43fa2\/73134613\/Starset_-_INFECTED_b128f0d190.mp3", //27
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/5f\/e3\/5fe375ab4fc77f0c716ab2c510565a7a\/47828699\/Twenty_One_Pilots_-_Stressed_Out_b128f0d202.mp3", //28
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/cd\/38\/cd387ecb1924c47a5246ad0ad5529d17\/48198578\/Vyacheslav_Butusov_-_Devushka_po_gorodu_b128f0d196.mp3", //29
-    "https:\/\/rus.hitmotop.com\/get\/music\/20221020\/Neizvestnyjj_-_Himi_speed_up_74876182.mp3", //30
+    "https://ru-d1.drivemusic.me/dl/rS3mvXv1ffddriygscGpkA/1774142772/download_music/2021/04/enhypen-drunk-dazed.mp3", //26
+    "https://ruo.morsmusic.org/load/1958774545/Starset_-_INFECTED_(musmore.org).mp3", //27
+    "https://ru-d2.drivemusic.me/dl/oeM-RsPk4XiLxhrNLSur9w/1774143101/download_music/2015/05/twenty-one-pilots-stressed-out.mp3", //28
+    "https://ruo.morsmusic.org/load/1951727506/Vyacheslav_Butusov_-_Devushka_po_gorodu_(musmore.org).mp3", //29
+    "https://mp3seven.net/getmp3/MC9NVGt5T0RVNU16ZzVYelExTmpJME1UQXhPRjgyTVdVME56ZzBPREpsTW1WbFlXTmlOVFZmT0dFMU4yWXpOREUwTW1JNVpUQXpaVGhrTHp3aGZDRS1XeUpuY3lJc015d2lSeTFGWVhwNUsyRnVaQ3RJWVd4elpYa3JKVVV5SlRnd0pUa3pLMGhwYlN0aGJtUXJTU3NsTWpoemNHVmxaQ3QxY0NVeU9TSXNNU3h1ZFd4c0xEQXNOakFzTUYwPS8lRDAlOUQlRDAlQjUlRDAlQjglRDAlQjclRDAlQjIlRDAlQjUlRDElODElRDElODIlRDAlQjUlRDAlQkQrLStIaW0rYW5kK0krJTI4U3BlZCt1cCUyOStHLUVhenkrZnQrSGFsc2V5XyhtcDNzZXZlbi5uZXQpLyVEMCU5RCVEMCVCNSVEMCVCOCVEMCVCNyVEMCVCMiVEMCVCNSVEMSU4MSVEMSU4MiVEMCVCNSVEMCVCRCslRTIlODAlOTMrSGltK2FuZCtJKyUyOFNwZWQrdXAlMjkrRy1FYXp5K2Z0K0hhbHNleV8obXAzc2V2ZW4ubmV0KT9zPXZrJnI9JmNvb2tpZXM9Nzk5OTExNzg1NTNfMS5jb29raWU=.mp3", //30
 
 
     //may
