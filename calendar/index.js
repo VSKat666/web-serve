@@ -96,11 +96,11 @@ const tracks = [
     "https://muz.zvukofon.com/dl/1115861547/Egor_Krid_-_Serdceedka_(musportal.org).mp3", //16
     "https://ruo.morsmusic.org/load/1128406125/LOrchestra_Cinematique_-_Test_Drive_From_How_to_Train_Your_Dragon_(musmore.org).mp3", //17
     "https://ruo.morsmusic.org/load/1116628341/KINO_-_Peremen_(musmore.org).mp3", //18
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/d9\/3c\/d93c6e9067b9c1a0eb2e19e6d0c2e985\/72864238\/Mneskin_-_I_WANNA_BE_YOUR_SLAVE_b128f0d173.mp3", //19
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/16\/84\/16847098340b728dc3d47e9d6c626ae7\/47835736\/JOlka_-_Provans_b128f0d206.mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/c8\/84\/c884856e218cd424d62bc4c07de32b3d\/47828871\/Linkin_Park_-_Crawling_b128f0d210.mp3", //21
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/1e\/ef\/1eef1508c74da96be5db8fa363af171c\/48035644\/Otpetye_moshenniki_-_Lyubi_menya_lyubi_b128f0d245.mp3", //22
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/a6\/24\/a62465240d94d129ef589c04416f9d71\/79094571\/ATLXS_-_PASSO_BEM_SOLTO_b128f0d116.mp3", //23
+    "https://ruo.morsmusic.org/load/1060817261/Mneskin_-_I_WANNA_BE_YOUR_SLAVE_(musmore.org).mp3", //19
+    "https://ruo.morsmusic.org/load/1261702794/JOlka_-_Provans_(musmore.org).mp3", //20
+    "https://muz.zvukofon.com/dl/406679706/Linkin_Park_-_Crawling_(musportal.org).mp3", //21
+    "https://ruo.morsmusic.org/load/1205423408/Otpetye_moshenniki_-_Lyubi_menya_lyubi_(musmore.org).mp3", //22
+    "https://ru-d2.drivemusic.me/dl/ZDr-XS_KJYQHM1BqvwgAbA/1774139050/download_music/2025/05/atlxs-passo-bem-solto-slowed.mp3", //23
     "https:\/\/rus.hitmotop.com\/get\/cuts\/3f\/8e\/3f8e3143e664cc3901b7aeca8bfb4b47\/47998418\/Ricky_Martin_-_Livin_La_Vida_Loca_b128f0d186.mp3", //24
     "https:\/\/rus.hitmotop.com\/get\/cuts\/be\/af\/beafbab04434096f95a19a371894e8ca\/74691821\/Ansambl_Vesjolye_rebyata_-_V_poslednijj_raz_b128f0d190.mp3", //25
     "https:\/\/rus.hitmotop.com\/get\/music\/20240525\/ADUSHKINA_-_Tanceterapiya_77852496.mp3", //26
