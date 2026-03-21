@@ -34,7 +34,7 @@ const tracks = [
     "https://track.pinkamuz.pro/download/33b63032343736b6b08c3731353332b63434350400/007fff562169c32cd31b97ae61d6d868/%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3%20%D0%B2%D0%B0%D0%BD%20%D0%91%D0%B5%D1%82%D1%85%D0%BE%D0%B2%D0%B5%D0%BD%20-%20%D0%9A%20%D0%AD%D0%BB%D0%B8%D0%B7%D0%B5.mp3",
 
     //другое
-    "https://rmr.muzmo.org/get/music/20170907/Valerijj_Gergiev_Rotterdam_Philharmonic_Orchestra_Aleksandr_Porfirevich_Borodin_-_Simfoniya_2_Bogatyrskaya_I_chast_48350812.mp3",
+    "https://rmr.muzmo.cc/get/music/20170907/Valerijj_Gergiev_Rotterdam_Philharmonic_Orchestra_Aleksandr_Porfirevich_Borodin_-_Simfoniya_2_Bogatyrskaya_I_chast_48350812.mp3",
     "https://track.pinkamuz.pro/download/3332000253636333f378235353334b1303532300/e26caadcf7daf0aa31d6ac4f7c0a02e2/%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4%20%D0%93%D1%80%D0%B8%D0%B3%20-%20%D0%92%20%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B5%20%D0%B3%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8F.mp3",
     "https://ru-d3.drivemusic.me/dl/t7vmC3OGYvbuVRmE9F8CVw/1774147514/download_music/2015/06/prokofev-tanec-rycarejj.mp3",
     "https://track.pinkamuz.pro/download/33b230b53034b734b0883736b330b6343630360700/9df196f3e53431ca2833280ca1663a22/%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC%20%D0%A0%D0%B8%D1%85%D0%B0%D1%80%D0%B4%20%D0%92%D0%B0%D0%B3%D0%BD%D0%B5%D1%80%20-%20%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%20%D0%B2%D0%B0%D0%BB%D1%8C%D0%BA%D0%B8%D1%80%D0%B8%D0%B8%20%28%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%20%22%D0%92%D0%B0%D0%BB%D1%8C%D0%BA%D0%B8%D1%80%D0%B8%D1%8F%22%20%D1%86%D0%B8%D0%BA%D0%BB%D0%B0%20%22%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%20%D0%9D%D0%B8%D0%B1%D0%B5%D0%BB%D1%83%D0%BD%D0%B3%D0%B0%22%29.mp3",
