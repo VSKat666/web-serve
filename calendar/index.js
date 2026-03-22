@@ -391,7 +391,7 @@ const tracks = [
     "https://track.pinkamuz.pro/download/3336373437313531318b3731353331323036370600/e3edf5748b8d1a3e0ced08b73e308407/STARSET%20-%20Unbecoming.mp3", //9
     "https://ruo.morsmusic.org/load/992685281/Sergejj_Lazarev_-_JEto_vsjo_ona_(musmore.org).mp3", //10
     "https://ruo.morsmusic.org/load/855020461/Monster_High_-_Monster_High_Fright_Song_(musmore.org).mp3", //11
-    "https://muz.zvukofon.com//dl/1180525265/DIGIMORTAL_-_Gravitaciya_(musportal.org).mp3", //12
+    "https://muz.zvukofon.com/dl/1180525265/DIGIMORTAL_-_Gravitaciya_(musportal.org).mp3", //12
     "https://ru-cdn3.drivemusic.me/dl/online/jetzyLAia4zJoev-5nuadA/1773944842/download_music/2022/09/starset-telekinetic.mp3", //13
     "https://ruo.morsmusic.org/load/765168365/Surf_Curse_-_Freaks_(musmore.org).mp3", //14
     "https://ruo.morsmusic.org/load/2117545614/Consoul_Trainin_DuoViolins_Steven_Aderinto_-_Obsession_(musmore.org).mp3", //15
