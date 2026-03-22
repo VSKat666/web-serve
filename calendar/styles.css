@@ -251,15 +251,28 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         overflow-y: hidden; /* Убираем вертикальную прокрутку */
         white-space: nowrap; /* Запрещаем перенос строк, чтобы элементы шли подряд */
         margin-bottom: 15px;
+        scrollbar-color: #191e2d #01869b;
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     #alertClose, #alertBox {
         visibility: hidden;
     }
     .main-menu__a {
-        font-size: 16px;
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 600px) {
+    .main-menu__a {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 579px) {
+    h1 {
+        font-size: 35px;
     }
 }
 
@@ -293,12 +306,21 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     }
 }
 
-@media (max-width: 370px) {
-    .footer-div-center {
-        flex-direction: column;
+@media (max-width: 390px) {
+    .main-menu__a {
+        font-size: 17px;
+    }
+    h1 {
+        font-size: 27px;
+    }
+    h2 {
+        font-size: 20px;
     }
     td {
         font-size: 15px;
+    }
+    .footer-div-center {
+        flex-direction: column;
     }
 }
 
@@ -306,11 +328,8 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     h1 {
         font-size: 25px;
     }
-    h2 {
-        font-size: 18px;
-    }
     .arrow-up {
-    right: 15px;
+        right: 15px;
     }
 }
 
@@ -340,8 +359,17 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     }
 }
 
-@media (max-width: 470px) and (orientation: landscape) {
+@media (max-width: 600px) and (orientation: landscape) {
     .progress {
         padding: 15px 20px 0px;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .scroll-container::-webkit-scrollbar-track {
+        background: #191e2d;
+    }
+    .scroll-container::-webkit-scrollbar-thumb {
+        background: #01869b;
     }
 }
