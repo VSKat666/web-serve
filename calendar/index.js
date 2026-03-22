@@ -246,7 +246,7 @@ const tracks = [
 
 
     //august
-    "https://track.pinkamuz.pro/download/d33534b33434373237368b3731353332b63434330200/92aba179e36dd2f32a50b7eb0250c681/%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4%20%D0%93%D1%80%D0%B8%D0%B3%20-%20%D0%A3%D1%82%D1%80%D0%BE.mp3", //1
+    "https://track.pinkamuz.pro/download/33343230333036318e3731353332b63432300600/f72e518f9a949e073e2a63060cad4713/%D0%AD.%D0%93%D1%80%D0%B8%D0%B3%20-%20%D0%A3%D1%82%D1%80%D0%BE.mp3", //1
     "https://ruo.morsmusic.org/load/1714537369/Basta_MONA_Tri_dnya_dozhdya_Vladimir_Presnyakov_-_Luch_solnca_zolotogo_(musmore.org).mp3", //2
     "https://muz.zvukofon.com/dl/1369412553/Imagine_Dragons_-_Nothing_Left_To_Say_Rocks_Medley_(musportal.org).mp3", //3
     "https://track.pinkamuz.pro/download/333335363236343333883731353332b63432330100/c1ecb950e65b5cf3ada1a711262695d7/C418%20-%20Sweden.mp3", //4
