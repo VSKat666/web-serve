@@ -383,7 +383,7 @@ const tracks = [
     "https://ru-d1.drivemusic.me/dl/lHXDpxPTC9icSX8lmTN1Fw/1773183264/download_music/2015/11/egor-krid-budilnik.mp3", //1
     "https://ru-d2.drivemusic.me/dl/WbUy0qxE1znNQT4-M-dZ3Q/1773183430/download_music/2018/03/bruno-mars-talking-to-the-moon.mp3", //2
     "https://track.pinkamuz.pro/download/33313731b1b43432b2883731353336333032370000/435cada8484f11f4c2ef65c5ba1bbb42/%D0%91%D0%B8-2%20feat.%20%D0%AE%D0%BB%D0%B8%D1%8F%20%D0%A7%D0%B8%D1%87%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%20-%20%D0%9C%D0%BE%D0%B9%20%D1%80%D0%BE%D0%BA-%D0%BD-%D1%80%D0%BE%D0%BB%D0%BB.mp3", //3
-    "http://babysongs.ru/music/barbariki-razukrasim-vse-planetyi.mp3", //4
+    "https://track.pinkamuz.pro/download/333134313133343331893731353332333737310000/13b944d0403e159e20da6d2d8710084a/%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B8%D0%BA%D0%B8%20-%20%D1%80%D0%B0%D0%B7%D1%83%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%BC%20%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D1%8B.mp3", //4
     "https://track.pinkamuz.pro/download/b3b030303630313534883731353332b63436b30000/4fb4998969cbc14adda5fb1c3596996c/%D0%9B%D0%B5%D1%80%D0%BE4%D0%BA%D0%B0%20-%20%D0%AF%20%D0%B2%D1%8B%D0%B1%D0%B8%D1%80%D0%B0%D1%8E%20%D0%B1%D1%8B%D1%82%D1%8C%20%D0%B1%D0%B5%D0%B4%D0%BD%D0%BE%D0%B9%20%D0%BD%D0%BE%20%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9.mp3", //5
     "https://track.pinkamuz.pro/download/33313731b1b43432368c373135b33434b134340500/bdcecc1624207dcc1d6237da8ea90812/STANDOFF%202%2C%20Sava%20Tsurkanu%20-%20Syndicate%20%28Season%20X%29.mp3", //6
     "https://track.pinkamuz.pro/download/33313731b1b434b2308c3731353333343635b20400/bb99384460c00d9634e95d1b46e7395a/%D0%90%D0%94%D0%9B%D0%98%D0%9D%20-%20Dead%20Inside.mp3", //7
