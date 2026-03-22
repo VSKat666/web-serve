@@ -21,7 +21,7 @@ const tracks = [
     "https://ru-d1.drivemusic.me/dl/OT8kIFf_-i9h_XOPNJO-Qw/1773278093/download_music/2013/12/kipelov-ja-svoboden.mp3", //6
     "https://ru-d2.drivemusic.me/dl/TJTczBizZgTPc6Ppl6VnGg/1773278216/download_music/2017/04/igor-nikolaev-malinovoe-vino.mp3", //7
     "https://ruo.morsmusic.org/load/551498262/YUrijj_SHatunov_-_Sedaya_noch_(musmore.org).mp3", //8
-    "https://ru-d3.drivemusic.me/dl/RY2fe1AKw7Qalf6FNGsegA/1773278395/download_music/2013/12/imagine-dragons-demons.mp3", //9
+    "https://muz.zvukofon.com/dl/42166285/Imagine_Dragons_-_Demons_(musportal.org).mp3", //9
     "https://ruo.morsmusic.org/load/2101526762/Egor_Krid_-_Devochka_s_kartinki_(musmore.org).mp3", //10
     "https://ruo.morsmusic.org/load/2014265934/Nervy_-_Rodnojj_gorod_(musmore.org).mp3",
     "https://ruo.morsmusic.org/load/58945962/Lind_Erebros_-_Shadow_Lady_(musmore.org).mp3", //12
@@ -220,7 +220,7 @@ const tracks = [
     "https://track.pinkamuz.pro/download/33313731b1b43432358a3731353333333730300100/e97ffc63082ea78387a94fd08e9b3499/%D0%A1%D0%BD%D1%8B%20%D0%A1%D0%B0%D0%BB%D0%B0%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D1%8B%20-%20%D0%A3%20%D1%85%D0%BE%D0%B7%D1%8F%D0%B8%D0%BD%D0%B0%20%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%B0.mp3", //6
     "https://track.pinkamuz.pro/download/3332b234b630328b3731353332313430340700/e9bda83e05d648dd05e2c91512955161/Sam%20Tinnesz%2C%20Yacht%20Money%20feat.%20Yacht%20Money%20-%20Play%20With%20Fire.mp3", //7
     "https://track.pinkamuz.pro/download/33b5b03036b5308b3731353332b63435b00000/57dd067bfdc619ab6eebf5c4d9590eb7/FixEye%20-%20%D0%9B%D1%83%D0%BA%20%D0%91%D0%B0%D1%82%D1%83%D0%BD.mp3", //8
-    "https://track.pinkamuz.pro/download/3334343035b7b434883731353332b63434b40400/e493534c2ec33a0b67e0a27c49168727/FixPlay%20-%20%D0%9A%D0%BE%D0%B6%D0%B0%D0%BD%D1%8B%D0%B5%20%D1%88%D1%82%D0%B0%D0%BD%D1%8B%20%5B.mp3", //9
+    "https://ruo.morsmusic.org/load/259982644/iks_-_Kozhanye_shtany_(musmore.org).mp3", //9
     "https://track.pinkamuz.pro/download/3335303536303133338e3731353332b63430b10400/99cb5fd3cd0c8e82a837bb43ea4b63d9/%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B5%D0%BD%20-%20%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D1%80%D1%83%D0%BA%D0%B8%D0%B5.mp3", //10
     "https://track.pinkamuz.pro/download/33363132333689373335b6b03037b10400/95308ccd08c9f04c0dbf0e1b94761314/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%20-%20%D0%9C%D0%BE%D1%8F%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C%20%D0%BD%D0%B0%205%20%D1%8D%D1%82%D0%B0%D0%B6%D0%B5.mp3", //11
     "https://ruo.morsmusic.org/load/861747337/Stigmata_-_Adrenalin_(musmore.org).mp3", //12
@@ -333,7 +333,7 @@ const tracks = [
     "https://muz.zvukofon.com/dl/522711906/Ivasi_-_Akh_Vremya_Vremya_(musportal.org).mp3", //18
     "https://ru-d2.drivemusic.me/dl/21faik5sUE4XIHyBWnrtNA/1773939845/download_music/2016/02/linkin-park-lost-in-the-echo.mp3", //19
     "https://ruo.morsmusic.org/load/428953406/girl_in_red_-_we_fell_in_love_in_october_(musmore.org).mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/15\/c8\/15c8b974b0b92256f7d6859459eb161d\/48247925\/Picca_-_Romans_b128f0d233.mp3", //21
+    "https://ruo.morsmusic.org/load/457508494/PIZZA_-_Romans_(musmore.org).mp3", //21
     "https://ru-d3.drivemusic.me/dl/nEKHNUamhKbN-MgfXw--Sw/1773940013/download_music/2014/07/linkin-park-in-the-end.mp3", //22
     "https://ruo.morsmusic.org/load/736486025/Stray_Kids_-_Red_Lights_Bang_Chan_Hyunjin_(musmore.org).mp3", //23
     "https://ruo.morsmusic.org/load/1397336909/Tally_Hall_-_The_Bidding_(musmore.org).mp3", //24
