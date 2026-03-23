@@ -246,7 +246,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
 
 @media (max-width: 1200px) {
     .scroll-container {
-        width: 100%; /* Ширина контейнера равна ширине родительскоtext-indent: -4px;го элемента */
+        width: 100%; /* Ширина контейнера равна ширине родительского элемента */
         overflow-x: scroll; /* Включаем горизонтальную прокрутку */
         overflow-y: hidden; /* Убираем вертикальную прокрутку */
         white-space: nowrap; /* Запрещаем перенос строк, чтобы элементы шли подряд */
