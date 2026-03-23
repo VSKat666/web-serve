@@ -251,7 +251,6 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
         overflow-y: hidden; /* Убираем вертикальную прокрутку */
         white-space: nowrap; /* Запрещаем перенос строк, чтобы элементы шли подряд */
         margin-bottom: 15px;
-        scrollbar-color: #191e2d #01869b;
     }
 }
 
