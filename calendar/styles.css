@@ -359,17 +359,8 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     }
 }
 
-@media (max-width: 600px) and (orientation: landscape) {
+@media (max-height: 470px) and (orientation: landscape) {
     .progress {
         padding: 15px 20px 0px;
-    }
-}
-
-@media (prefers-color-scheme: dark) {
-    .scroll-container::-webkit-scrollbar-track {
-        background: #191e2d;
-    }
-    .scroll-container::-webkit-scrollbar-thumb {
-        background: #01869b;
     }
 }
