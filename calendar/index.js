@@ -324,7 +324,7 @@ const alertBox = document.getElementById("alertBox");
     "http://fine.sunproxy.net/file/Y0ZsSlpDUmNnRktxams3ZFlCVHY4L0t0VSs0ZFptTmJvODFqWGJ6Z0hmamFmVDUwaUN3Rzh4NWVaVHp0dnU3N0RyUUMyVVhhZFFWTmNqaFFWSzMzTzRyZGgvR1MzbXVpUlNQQktmczlIL0E9/PollmixaN_-_Moya_problema_(SkySound.cc).mp3", //9
     "https://ruo.morsmusic.org/load/1279063440/ZHuki_-_Batarejjka_(musmore.org).mp3", //10
     "https://ruo.morsmusic.org/load/980389252/Poshlaya_Molli_-_Proklya_Tabyla_(musmore.org).mp3", //11
-    "https://track.pinkamuz.pro/download/33313731b1b434343688373135333131b2b4300500/6106d2b7e4a934855f9de25056967437/%D0%90%D0%91%D0%95%D0%A0%D0%A0%D0%9E%D0%9D%20-%20%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B8%D1%85%20%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D0%BE%D0%B2.mp3", //12
+    "https://track.pinkamuz.pro/download/33b434303431368a373230b030323634330300/7a069e7b24fa7439156e23da39eebe80/%D0%9C%D1%83%D1%81%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%91%D0%B0%D0%B1%D0%B0%20-%20%D0%AF%D0%B3%D0%B0%28%20%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20%D1%81%20%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%29%D0%A0%D0%BE%D0%BA%20-%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.mp3", //12
     "https://ru-cdn1.drivemusic.me/dl/online/x5MEv-MP0rw2-dPl-MQoow/1773941544/download_music/2019/05/dima-bilan-pro-belye-rozy.mp3", //13
     "https://ru-cdn3.drivemusic.me/dl/online/J64cdvEOJVuFmamgGvRKxA/1773941589/download_music/2018/12/set-it-off-dancing-with-the-devil.mp3", //14
     "https://ru-cdn2.drivemusic.me/dl/online/jSMtcAOKgmnh4I89MAGVDw/1773941651/download_music/2022/09/stigmata-radio-smert.mp3", //15
@@ -343,7 +343,7 @@ const alertBox = document.getElementById("alertBox");
     "https://ru-d2.drivemusic.me/dl/5suiP5qVYmDousHBid0lyw/1773940573/download_music/2022/09/starset-monster.mp3", //28
     "https://ruo.morsmusic.org/load/2022281566/Imagine_Dragons_-_Radioactive_(musmore.org).mp3", //29
     "https://ru-cdn1.drivemusic.me/dl/online/E4VvVLlqsS3gkHtqz-l6Dg/1773940721/download_music/2024/09/poshlaja-molli-adskaja-kolybelnaja.mp3", //30
-    "https://track.pinkamuz.pro/download/33b434303431368a373230b030323634330300/7a069e7b24fa7439156e23da39eebe80/%D0%9C%D1%83%D1%81%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9%20-%20%D0%91%D0%B0%D0%B1%D0%B0%20-%20%D0%AF%D0%B3%D0%B0%28%20%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%20%D1%81%20%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8%29%D0%A0%D0%BE%D0%BA%20-%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0.mp3", //31
+        "https://track.pinkamuz.pro/download/33313731b1b434343688373135333131b2b4300500/6106d2b7e4a934855f9de25056967437/%D0%90%D0%91%D0%95%D0%A0%D0%A0%D0%9E%D0%9D%20-%20%D0%94%D0%B5%D0%BD%D1%8C%20%D0%BE%D0%B6%D0%B8%D0%B2%D1%88%D0%B8%D1%85%20%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D0%BE%D0%B2.mp3", //31
 
 
     //november
