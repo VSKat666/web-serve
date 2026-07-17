@@ -185,7 +185,7 @@ footer {
     bottom: 25px;
     right: 30px; /*эти 2 команды отвечают за отступы от чеголибо для настройки местоположения*/
     background-color: transparent;
-    z-index: 1;
+    z-index: 3;
 }
 
 .footer__img {
