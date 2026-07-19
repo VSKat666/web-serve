@@ -333,7 +333,7 @@ const alertBox = document.getElementById("alertBox");
     "https://muz.zvukofon.com/dl/522711906/Ivasi_-_Akh_Vremya_Vremya_(musportal.org).mp3", //18
     "https://ru-d2.drivemusic.me/dl/21faik5sUE4XIHyBWnrtNA/1773939845/download_music/2016/02/linkin-park-lost-in-the-echo.mp3", //19
     "https://ruo.morsmusic.org/load/428953406/girl_in_red_-_we_fell_in_love_in_october_(musmore.org).mp3", //20
-    "https:\/\/rus.hitmotop.com\/get\/cuts\/15\/c8\/15c8b974b0b92256f7d6859459eb161d\/48247925\/Picca_-_Romans_b128f0d233.mp3", //21
+    "https://rus.hitmotop.com/get/cuts/15/c8/15c8b974b0b92256f7d6859459eb161d/48247925/Picca_-_Romans_b128f0d233.mp3", //21
     "https://ru-d3.drivemusic.me/dl/nEKHNUamhKbN-MgfXw--Sw/1773940013/download_music/2014/07/linkin-park-in-the-end.mp3", //22
     "https://ruo.morsmusic.org/load/736486025/Stray_Kids_-_Red_Lights_Bang_Chan_Hyunjin_(musmore.org).mp3", //23
     "https://ruo.morsmusic.org/load/1397336909/Tally_Hall_-_The_Bidding_(musmore.org).mp3", //24
