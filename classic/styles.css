@@ -91,9 +91,7 @@ main section {
     border-radius: 50%;
     padding: 3px;
 }
-.bold {
-    font-weight: bold;
-}
+
 .section-info {
     display: flex;
     gap: 10px;
@@ -337,6 +335,9 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     .section-flex {
         gap: 20px;
     }
+    #toast {
+    font-size: 12px;
+    }
 }
 
 @media (max-width: 450px) {
@@ -377,6 +378,9 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     }
     .arrow-up {
         right: 15px;
+    }
+    #toast {
+    font-size: 10px;
     }
 }
 
