@@ -121,14 +121,13 @@ h2 {
 }
 .two {
     width: 200px;
+    margin-top: 20px;
 }
 .tri {
+    margin-top: 20px;
     width: 70px;
 } 
 
-.two, .tri, section h3 {
-    margin-top: 20px;
-} 
 
 section p {
     font-size: 20px;
@@ -136,6 +135,7 @@ section p {
 }
 
 section h3 {
+    margin-top: 20px;
     letter-spacing: 3px;
     color: #191e2d;
     margin-bottom: 5px;
