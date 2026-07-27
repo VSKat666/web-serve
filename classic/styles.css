@@ -91,7 +91,10 @@ main section {
     border-radius: 50%;
     padding: 3px;
 }
-
+.section-play svg {
+    width: 30px;
+    height: 30px;
+}
 .section-info {
     display: flex;
     gap: 10px;
@@ -99,6 +102,12 @@ main section {
 .section-info__a {
     height: 20px;
 }
+.section-info__a svg {
+    width: 17px;
+    height: 17px;
+    margin-right: 4px;
+}
+
 .star {
     fill: #c4cfd6;
     stroke: #a1a1a1;
