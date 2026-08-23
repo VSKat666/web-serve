@@ -127,7 +127,7 @@ const tracks = [
     "https://ru-cdn3.drivemusic.me/dl/online/NVrIbQmtH_CEIniqkR5odg/1774141071/download_music/2025/04/the-hatters-khmuryjj.mp3", //11
     "https://ruo.morsmusic.org/load/615197089/Ajjdamir_Mugu_-_CHjornye_glaza_(musmore.org).mp3", //12
     "https://ruo.morsmusic.org/load/506718751/The_Living_Tombstone_-_Its_Been_So_Long_(musmore.org).mp3", //13
-    , //14
+    "https://vskat666.github.io/web-serve/img/", //14
     "https://ruo.morsmusic.org/load/1937173268/Lady_Gaga_-_Judas_(musmore.org).mp3", //15
     "https://ru-cdn2.drivemusic.me/dl/online/rgcZBUnO-pk7hI3qU9IM5w/1774141601/download_music/2016/05/skillet-feel-invincible.mp3", //16
     "https://track.pinkamuz.pro/download/3337333636363033338f3731353332b63432320000/b360478b7d0a1f1445108474944ee97e/%E7%B7%91%E9%BB%84%E8%89%B2%E7%A4%BE%E4%BC%9A%20%28%D0%9C%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%20%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%86%D0%B5%D0%B2%D1%82%D0%B0%20%D0%BE%D0%BF%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%29%20-%20%E8%8A%B1%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%20-%20Be%20a%20flower%20%28Kusuriya%20no%20Hitorigoto%20OPENING%29.mp3", //17
