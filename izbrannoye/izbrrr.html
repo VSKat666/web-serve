@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/рисунок-2.ico"/>
+    <link rel="stylesheet" href="izbr-styles.css">
+    <title>Избранное</title>
+</head>
+<body>
+     <header class="main-menu">
+        <nav class="main-menu__nav">
+            <a href="main-page.html" class="main-menu__a">На главную</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Избранное</h1>
+
+        <section>
+            <h2 onclick="toggleContent(this)" onkeypress="if(event.key === 'Enter') toggleContent(this)" tabindex="0">Song Calendar</h2>
+            <p class="section__p" id="message1">Здесь пока ничего нет.</p>
+            <div class="content">
+            </div>
+        </section>
+
+        <section>
+            <h2 onclick="toggleContent(this)" onkeypress="if(event.key === 'Enter') toggleContent(this)" tabindex="0">The mood is classic!</h2>
+            <p class="section__p" id="message2">Здесь пока ничего нет.</p>
+            <div class="ccontent">
+            </div>
+        </section>
+
+    </main>
+
+    
+    <audio id="audio" style="display: none;">
+        <source id="audioSource" src="">
+        Ваш браузер не поддерживает аудио.
+    </audio>
+
+    <footer class="info-menu">
+        <div class="info-menu__div">
+            <div class="icon">V-music box</div><strong>2025-2026. Все права защищены</strong>
+        </div>
+    </footer>
+
+    <section class="section-stick">
+        <section class="progress">
+            <span id="currentTime">0:00</span>
+            <input type="range" id="progressBar" min="0" max="100" value="0" step="0.5">
+            <span id="duration">0:00</span>
+        </section>
+        <section class="section-buttons">
+            <button class="section__button" onclick="prevTrack()">
+                <img src="https://rus.hitmotop.com/static/hitmo/images/prev.svg" class="section__button-img">
+            </button>
+            <button class="section__button" id="playButton"></button>
+            <button class="section__button" onclick="nextTrack()">
+                <img src="https://rus.hitmotop.com/static/hitmo/images/next.svg" class="section__button-img">
+            </button>
+        </section>
+    </section>
+<script src="izbr-script.js"></script>
+</body>
+</html>
