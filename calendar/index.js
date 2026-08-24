@@ -25,7 +25,7 @@ const tracks = [
     "https://ruo.morsmusic.org/load/551498262/YUrijj_SHatunov_-_Sedaya_noch_(musmore.org).mp3", //8
     "https://ru-d3.drivemusic.me/dl/RY2fe1AKw7Qalf6FNGsegA/1773278395/download_music/2013/12/imagine-dragons-demons.mp3", //9
     "https://ruo.morsmusic.org/load/2101526762/Egor_Krid_-_Devochka_s_kartinki_(musmore.org).mp3", //10
-    "https://ruo.morsmusic.org/load/2014265934/Nervy_-_Rodnojj_gorod_(musmore.org).mp3",
+    "https://ru.hitmoz.org/get/cuts/2e/29/2e296fc748c73f9e61ffe02e7492ce8d/48055710/Gwen_Stefani_-_What_You_Waiting_For_b128f0d218.mp3",
     "https://ruo.morsmusic.org/load/58945962/Lind_Erebros_-_Shadow_Lady_(musmore.org).mp3", //12
     "https://ru-d1.drivemusic.me/dl/TQi6ip-fRhAyMhlEjUxCAQ/1773279044/download_music/2022/09/one-ok-rock-feat.-5-seconds-of-summer-take-what-you-want.mp3",
     "https://ruo.morsmusic.org/load/1686773778/BREDISH_-_Na_rukakh_(musmore.org).mp3",
@@ -571,7 +571,41 @@ const tracks = [
             navigator.mediaSession.setActionHandler('nexttrack', () => {
                 nextTrack();
             });
-        }        
+        }    
+
+const clickableAreas = document.querySelectorAll('.td-click');
+  const toast = document.getElementById("toast");
+
+    clickableAreas.forEach(area => {
+        area.addEventListener('dblclick', function() {
+            const index = this.getAttribute('data-index');
+            let activeDivs = JSON.parse(localStorage.getItem('activeDivs')) || [];
+
+            if (activeDivs.includes(index)) {
+                // Если индекс уже есть, удаляем его (скрываем)
+                activeDivs = activeDivs.filter(i => i !== index);
+                toast.textContent = "Удалено из избранного";
+                toast.classList.add("show");
+                // автоудаление через 3 секунды
+                clearTimeout(toast._hideTimeout);
+                toast._hideTimeout = setTimeout(() => {
+                    toast.classList.remove("show");
+                }, 1000);
+            } else {
+                // Если индекса нет, добавляем его (открываем)
+                activeDivs.push(index);
+                toast.textContent = "Добавлено в избранное";
+                toast.classList.add("show");
+                // автоудаление через 3 секунды
+                clearTimeout(toast._hideTimeout);
+                toast._hideTimeout = setTimeout(() => {
+                    toast.classList.remove("show");
+                }, 1000);
+            }
+
+            localStorage.setItem('activeDivs', JSON.stringify(activeDivs)); // Сохраняем активные индексы
+        });
+    });
 
 
 
