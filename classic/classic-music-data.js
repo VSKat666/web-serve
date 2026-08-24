@@ -241,41 +241,84 @@ progressBar.addEventListener('input', seek);
 
 
 
-
-
-
-// Исходный цвет звезд
 const ORIGINAL = "#c4cfd6";
-// Состояние звездочек: хранит, выбрана ли звезда как любимая для каждой отдельно
-const stars = Array.from(document.querySelectorAll('.star'));
+const ACTIVE_COLOR = "#ffd966";
+const toast = document.getElementById("toast");
 
-// Модель состояния по каждому элементу
-const state = new Map(); // key: element, value: boolean (liked)
+// Все звезды с data-index
+const stars = Array.from(document.querySelectorAll('.star[data-index]'));
 
-// Init
-stars.forEach(star => {
-  star.style.fill = ORIGINAL;
-  state.set(star, false);
-  star.addEventListener('click', () => {
-    // переключение состояния конкретной звезды
-    const isLiked = state.get(star);
-    const newState = !isLiked;
-    state.set(star, newState);
-    star.style.fill = newState ? "#ffd966" : ORIGINAL; // желтый при добавлении
-    showToast(newState ? "Tрек добавлен в любимое!" : "Удалено!");
-  });
-});
+// Избранные треки
+let activeDivs = JSON.parse(localStorage.getItem('activeDivs')) || [];
+activeDivs = activeDivs.map(Number);
 
-// Функция показа сообщения у мини-окна снизу на 3 секунды
+// --------------------
+// Показ toast
+// --------------------
 function showToast(message) {
-  const toast = document.getElementById("toast");
-  toast.textContent = message;
-  toast.classList.add("show");
-  // автоудаление через 3 секунды
-  clearTimeout(toast._hideTimeout);
-  toast._hideTimeout = setTimeout(() => {
-    toast.classList.remove("show");
-  }, 3000);
+    if (!toast) return;
+
+    toast.textContent = message;
+    toast.classList.add("show");
+
+    clearTimeout(toast._hideTimeout);
+    toast._hideTimeout = setTimeout(() => {
+        toast.classList.remove("show");
+    }, 1000);
+}
+
+// --------------------
+// Сохранение
+// --------------------
+function saveFavorites() {
+    localStorage.setItem('activeDivs', JSON.stringify(activeDivs));
+}
+
+// --------------------
+// Обновление цвета одной звезды
+// --------------------
+function updateStarColor(star) {
+    const index = Number(star.getAttribute('data-index'));
+
+    if (activeDivs.includes(index)) {
+        star.style.fill = ACTIVE_COLOR;
+    } else {
+        star.style.fill = ORIGINAL;
+    }
+}
+
+// --------------------
+// Переключение избранного
+// --------------------
+function toggleFavorite(star) {
+    const index = Number(star.getAttribute('data-index'));
+
+    if (isNaN(index)) return;
+
+    if (activeDivs.includes(index)) {
+        activeDivs = activeDivs.filter(i => i !== index);
+        showToast("Удалено из избранного");
+    } else {
+        activeDivs.push(index);
+        showToast("Добавлено в избранное");
+    }
+
+    saveFavorites();
+    updateStarColor(star);
+}
+
+// --------------------
+// Инициализация всех звёзд
+// --------------------
+stars.forEach(star => {
+    updateStarColor(star);
+
+    star.addEventListener('click', function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        toggleFavorite(this);
+    });
+});
 
 }
 
