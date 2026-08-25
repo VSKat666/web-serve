@@ -288,6 +288,27 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
 }
 
 
+#toast {
+    position: fixed;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 14px;
+    background: #191e2d;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+#toast.show {
+    opacity: 1;
+    z-index: 1;
+}
+
+
 @supports (-moz-appearance: none) {
   .scroll-container {
     scrollbar-color: #191e2d #01869b;
