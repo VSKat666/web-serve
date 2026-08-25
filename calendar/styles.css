@@ -158,14 +158,14 @@ td {
 }
 
 
-footer {
+.info-menu {
     width: 100%;
     background-color: #191e2d;
-    color: white;
+    color: #c4cfd6;
     padding: 10px 0;
 }
 
-.footer-div-center {
+.info-menu__div {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -185,21 +185,15 @@ footer {
     bottom: 25px;
     right: 30px; /*эти 2 команды отвечают за отступы от чеголибо для настройки местоположения*/
     background-color: transparent;
-    z-index: 3;
+    z-index: 1;
 }
 
-.footer__img {
-    width: 30px;
-    height: 30px;
-}
 
 
 
 .section-stick {
     position: sticky;
     bottom: 0;
-    z-index: 2;
-    overflow: clip;
     background-color: #191e2d;
     border-radius: 10px;
 }
@@ -288,6 +282,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
 }
 
 
+
 #toast {
     position: fixed;
     top: 50px;
@@ -307,6 +302,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     opacity: 1;
     z-index: 1;
 }
+
 
 
 @supports (-moz-appearance: none) {
@@ -335,13 +331,13 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 610px) {
     .main-menu__a {
         font-size: 18px;
     }
 }
 
-@media (max-width: 579px) {
+@media (max-width: 580px) {
     h1 {
         font-size: 35px;
     }
@@ -390,7 +386,7 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     td {
         font-size: 15px;
     }
-    .footer-div-center {
+    .info-menu__div {
         flex-direction: column;
     }
 }
