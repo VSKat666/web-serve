@@ -264,8 +264,128 @@ input[type="range"]::-ms-fill-lower, input[type="range"]::-ms-fill-upper {
     display: none;
 }
 
-@media (max-width: 900px) {
+@media (min-width: 1390px) {
     .section-player {
-        padding-inline: 200px;
+        padding-inline: 25%;
     }
 }
+
+@media (max-width: 1000px) {
+    .section-player {
+        padding-inline: 15%;
+    }
+}
+
+@media (max-width: 800px) {
+    .main-menu__a {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 610px) {
+    .section-player {
+        padding-inline: 3%;
+    }
+    .main-menu__a {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 580px) {
+    h1 {
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 470px) {
+    .main-menu {
+        padding: 10px 60px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 22px;
+    }
+    .section-flex {
+        gap: 20px;
+    }
+}
+
+@media (max-width: 450px) {
+    .main-menu {
+        padding: 10px 30px;
+    }
+}
+
+@media (max-width: 430px) {
+    .scroll-container::-webkit-scrollbar {
+        height: 7px;
+    }
+    .section-flex {
+        gap: 10px;
+    }
+    .arrow-up {
+        right: 20px;
+    }
+}
+
+@media (max-width: 390px) {
+    .main-menu__a {
+        font-size: 17px;
+    }
+    h1 {
+        font-size: 27px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    td {
+        font-size: 15px;
+    }
+    .info-menu__div {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 350px) {
+    h1 {
+        font-size: 25px;
+    }
+    .arrow-up {
+        right: 15px;
+    }
+}
+
+@media (hover: none) {
+    .main-menu__a:hover {
+        background-color: #00c6e6;
+    }
+
+    .main-menu__a:active {
+        background-color: #03adc7;
+    }
+
+    .td__button:hover {
+        background-color: #c4cfd6;
+    }
+    
+    .td__button:active {
+        background-color: #a1a1a1;
+    }
+
+    .section__button:hover {
+        background-color: #c4cfd6;
+    }
+    
+    .section__button:active {
+        background-color: #a1a1a1;
+    }
+}
+
+@media (max-width: 600px) and (orientation: landscape) {
+    .progress {
+        padding: 15px 20px 0px;
+    }
+}
+
